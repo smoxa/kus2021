@@ -1,0 +1,1534 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" deinterlace=1 m3uautoload=1 cache=1000 aspect-ratio=16:9
+#http://portal.slynet.online:88/stalker_portal/c/index.html
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 ,PROKUS-TV Самообновляемый
+http://rpkavantage.ru/prokus-studio.mp4
+#EXTINF:-1 ,Посл. обн. 10.02.21 
+http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
+-------------------------------------------------------------------------------------------------
+#http://rpkavantage.ru/playlist_kus.m3u
+#https://iptvx.one/epg/epg.xml.gz
+#https://webarmen.com/my/iptv/auto.nogrp.m3u
+#https://live.slynet.tv/promoslynetiptv2?.m3u8 
+#http://live.slynet.tv/promoslynetiptv1?.m3u8
+#https://iptvx.one/epg/epg.xml.gz
+#https://smarttvapp.ru/app/iptvfull.m3u
+#http://haas.do.am/Playlist.m3u
+#https://dl.dropbox.com/s/3cftzm3hi9urgxq/IPTV.m3u
+#https://ip2019tv.do.am/full/full_all.m3u 
+#http://tvpremiumhd.club/lista.m3u
+#http://urlcut.ru/YANDEX.m3u
+#http://urlcut.ru/FreeWebCamsWorld.m3u
+#https://filmaxtv.ucoz.net/FilMax.m3u8
+#http://bluecrabstv.do.am/kinocrabs.m3u
+#http://urlcut.ru/KinodromSN.m3u
+#http://dstore.lh1.in/arhiv/season/start.php
+#http://1korol.kl.com.ua/1korol_tv.m3u
+#http://195.245.118.36/spark.m3u
+#http://webarmen.com/my/iptv/auto.nogrp.m3u
+#http://dmitry-tv.my1.ru/iptv/Dmitry-tv.m3u
+#http://tv-smart-tv.ru/iptv/pl_test_all.m3u BEST
+#http://dmitry-tv.ru/dv_dmitry-tv_hd_6/
+#https://satellitetvforum.info/archive/328/6737-13
+#http://dmitry-tv.ru/iptv/itv_zabava.m3u
+#https://iptvmaster.ru/music.m3u
+#https://dl.dropbox.com/s/ty7ois9ffh6ymap/halva.m3u
+#https://dl.dropbox.com/s/vy9g51d3wn5sfkm/cifra.m3u
+#https://webmaster.pp.ua/u/PopovSergTV2.m3u
+﻿#https://tva.in.ua/iptv/iptv_22.07.2020.m3u
+﻿#https://dl.dropbox.com/s/b8wydndthonso3u/list.m3u
+﻿#https://webmaster.pp.ua/u/playlist---2020-07-22T093802_216.m3u
+﻿#https://webmaster.pp.ua/u/playlist---2020-07-22T094339_062.m3u
+﻿#https://webmaster.pp.ua/u/playlist---2020-07-22T230813_315.m3u
+﻿#https://webmaster.pp.ua/u/1My_Playlist.m3u
+﻿#https://webmaster.pp.ua/u/Armenia--at-iptvfork-.m3u
+﻿#https://webmaster.pp.ua/u/Tatyana-Kinozal.m3u
+﻿#https://webmaster.pp.ua/u/Tatyana-mult.m3u8
+﻿#https://webmaster.pp.ua/u/PopovSergTV.m3u8
+﻿#https://webmaster.pp.ua/u/gigi.m3u8
+﻿#https://webmaster.pp.ua/u/DIXI.m3u
+﻿#https://webmaster.pp.ua/u/watchsoccer41.m3u
+﻿#https://webmaster.pp.ua/u/new21072020.m3u
+﻿#https://webmaster.pp.ua/u/new22072020.m3u
+﻿#https://webmaster.pp.ua/u/SMART.m3u
+﻿#https://webmaster.pp.ua/u/Mix.m3u
+﻿#http://denms.tplinkdns.com/p/?web11&smoxa&16171716
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Абхазские", Улица
+rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
+#EXTINF:-1 tvg-id="1" group-title="Абхазские", Двор
+rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
+#EXTINF:-1 tvg-id="1" group-title="Абхазские", Лестница
+rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
+#EXTINF:-1 tvg-id="1" group-title="Абхазские", Камин
+https://v2.catcast.tv/content/36334/index.m3u8 
+#EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
+http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
+#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
+http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="gal_tv" tvg-logo="https://i.imgur.com/8NfXAKy.png" group-title="Абхазские", Гал-ТВ
+http://iptv.cyxym.net:80/tv_gal_tv/index.m3u8
+#EXTINF:-1 tvg-id="gagra_tv" tvg-logo="https://i.imgur.com/JEJeiyj.png" group-title="Абхазские", ГАГРА-ТВ
+http://iptv.cyxym.net:80/tv_gagra_tv/index.m3u8
+----------------
+#EXTINF:-1 tvg-id="h1" tvg-logo="https://i.imgur.com/bN50YAH.png" group-title="Абхазские", Армения H1 HD
+http://iptv.cyxym.net:80/tv_h1_hd/index.m3u8
+#EXTINF:-1 tvg-id="armenia-tv" group-title="Абхазские", Армения ТВ
+http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
+-------------------------------------------------------------------------------------------------
+_sd/index.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="pervy" group-title="Эфирные", Первый канал
+http://iptv.cyxym.net:80/tv_perviy_kanal_sd/index.m3u8?title=Первый+канал 
+#EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1
+http://iptv.cyxym.net:80/tv_russia_1_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Эфирные", НТВ
+http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
+#EXTINF:0 tvg-id="izvestia" tvg-logo="https://imgur.com/aycC7lG" group-title="Эфирные", IZ.RU HD
+#EXTVLCOPT:network-caching=1000
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="sochi24" tvg-logo="http://ritsatv.ru/files/poster/medium/600620.png" group-title="Эфирные", СОЧИ 24
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1 tvg-id="krasnodar" group-title="Эфирные", Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="krasnodar" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные",Краснодар
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец Международный
+http://188.93.95.67:80/perec/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец (запасной) 
+http://212.42.193.122:8888/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="che" group-title="Эфирные", Че
+http://iptv.cyxym.net:80/tv_che_sd/index.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="Эфирные", ТНТ
+http://iptv.cyxym.net:80/tv_tnt_sd/index.m3u8
+#EXTINF:-1 tvg-id="sts" group-title="Эфирные", СТС
+http://iptv.cyxym.net:80/tv_sts_sd/index.m3u8
+#EXTINF:-1 tvg-id="rentv" group-title="Эфирные", РЕН ТВ
+http://iptv.cyxym.net:80/tv_rentv_sd/index.m3u8
+#EXTINF:-1 tvg-id="piatnica" group-title="Эфирные", ПЯТНИЦА
+http://iptv.cyxym.net:80/tv_piatnitsa_sd/index.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="Эфирные", Домашний
+http://iptv.cyxym.net:80/tv_domashniy_sd/index.m3u8
+#EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ
+http://iptv.cyxym.net:80/tv_tvc_sd/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные", Звезда
+http://iptv.cyxym.net:80/tv_zvezda_sd/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", Пятый канал
+http://iptv.cyxym.net:80/tv_5_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
+http://iptv.cyxym.net:80/tv_ntv_hit_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
+http://iptv.cyxym.net:80/tv_ntv_serial_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль
+http://iptv.cyxym.net:80/tv_ntv_stil_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="Эфирные", НТВ Право 
+http://iptv.cyxym.net:80/tv_ntv_pravo_sd/index.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="Эфирные", Россия-Культура
+http://iptv.cyxym.net:80/tv_russia_k_sd/index.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="Эфирные", ТНТ 4
+http://iptv.cyxym.net:80/tv_tnt4_sd/index.m3u8
+#EXTINF:-1 tvg-id="sts-love" group-title="Эфирные", СТС Love
+http://iptv.cyxym.net:80/tv_sts_love_sd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные", Россия 24
+http://iptv.cyxym.net:80/tv_russia_24_sd/index.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ
+http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/VdsfvZp.jpg" group-title="Музыка", 88 Stereo
+http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", MAFI2A MUSIC CHANNEL 
+https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
+#EXTINF:-1 tvg-id="gudauta_hd" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", ТВ12 Гудаута HD
+http://iptv.cyxym.net:80/tv_tv12_gudauta_hd/index.m3u8
+#EXTINF:-1 tvg-id="ritsa_tv" tvg-logo="https://i.imgur.com/jPWDQvF.png" group-title="Музыка", Рица ТВ HD
+http://iptv.cyxym.net:80/tv_ritsa_tv_hd/index.m3u8
+#EXTINF:-1 tvg-id="ritsa_tv" tvg-logo="https://i.imgur.com/jPWDQvF.png" group-title="Музыка", Рица ТВ HD
+https://a-mobile.camera/cams/RITSA/index.m3u8
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://i.imgur.com/GhhRZVM.png" group-title="Музыка", Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="10202" group-title="Музыка", 1HD Music Television 
+http://iptv.cyxym.net:80/tv_1hd_music_television_hd/index.m3u8
+#EXTINF:-1 tvg-id="muztv" group-title="Музыка", Муз ТВ
+http://iptv.cyxym.net:80/tv_muz_sd/index.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыка", Музыка Первого
+http://iptv.cyxym.net:80/tv_muzika_pervogo_sd/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка", Bridge TV
+http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыка", Russian MusicBox HD
+http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1hd" group-title="Музыка", MUSIC JAPAN
+http://122.155.180.8:5021/live/495 
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live HD
+http://iptv.cyxym.net:80/tv_mtv_live_hd/index.m3u8
+#EXTINF:-1 tvg-id="mtv-russia" group-title="Музыка", MTV Russia
+http://iptv.cyxym.net:80/tv_mtv_hd/index.m3u8
+#EXTINF:-1 tvg-id="mtv-dance" group-title="Музыка", MTV Dance
+http://iptv.cyxym.net:80/tv_mtv_dance_sd/index.m3u8
+#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыка", MTV Hits
+http://iptv.cyxym.net:80/tv_mtv_hits_sd/index.m3u8
+#EXTINF:-1 tvg-id="mtv-rocks" group-title="Музыка", MTV Rocks
+http://iptv.cyxym.net:80/tv_mtv_rocks_sd/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыка", Bridge TV Hits
+http://iptv.cyxym.net:80/tv_dancetv_hd/index.m3u8
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка", BRIDGE TV 
+http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
+#EXTINF:-1 tvg-id="ru-tv" group-title="Музыка", RU.TV
+http://iptv.cyxym.net:80/tv_rutv_sd/index.m3u8
+#EXTINF:-1 tvg-id="409" group-title="Музыка", 9 Волна
+http://iptv.cyxym.net:80/tv_9_volna_sd/index.m3u8
+#EXTINF:-1 tvg-id="1509" group-title="Музыка", Mezzo
+http://iptv.cyxym.net:80/tv_mezzo_sd/index.m3u8
+#EXTINF:-1 tvg-id="14103" group-title="Музыка", Mezzo Live HD
+http://iptv.cyxym.net:80/tv_mezzo_live_hd/index.m3u8
+#EXTINF:-1 tvg-id="mcm-top" group-title="Музыка", MCM Top
+http://iptv.cyxym.net:80/tv_mcm_top_sd/index.m3u8
+#EXTINF:-1 tvg-id="vh1-european" group-title="Музыка", VH1 European
+http://iptv.cyxym.net:80/tv_vh1_european_sd/index.m3u8
+#EXTINF:-1 tvg-id="vh1-classic" group-title="Музыка", VH1 Classic
+http://iptv.cyxym.net:80/tv_vh1_classic_sd/index.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыка", Музыка Первого
+http://iptv.cyxym.net:80/tv_muzika_pervogo_sd/index.m3u8
+#EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор
+http://iptv.cyxym.net:80/tv_lya_minor_tv_sd/index.m3u8
+#EXTINF:-1 tvg-id="nashe-tv" group-title="Музыка", Наше ТВ
+http://iptv.cyxym.net:80/tv_nashe_tv_sd/index.m3u8
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательное", Discovery Science
+http://iptv.cyxym.net:80/tv_discovery_science_sd/index.m3u8
+#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательное", ID Investigation Discovery
+http://iptv.cyxym.net:80/tv_id_investigation_discovery_sd/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов
+http://iptv.cyxym.net:80/tv_ohotnik_i_rybolov_hd/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов 720p
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов 1080p
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке
+http://iptv.cyxym.net:80/tv_dialogi_o_rybalke_sd/index.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке 1080p
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
+http://iptv.cyxym.net:80/tv_dikaya_ohota_hd/index.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
+http://iptv.cyxym.net:80/tv_dikaya_ribalka_hd/index.m3u8
+#EXTINF:-1 tvg-id="eda" group-title="Познавательное", Еда Премиум HD
+http://iptv.cyxym.net:80/tv_eda_premium_hd/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet" group-title="Познавательное", Animal Planet HD
+http://iptv.cyxym.net:80/tv_animal_planet_hd/index.m3u8
+#EXTINF:-1 tvg-id="hd-life" group-title="Познавательное", HD Life
+http://iptv.cyxym.net:80/tv_hd_life_hd/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное", Discovery Channel HD
+http://iptv.cyxym.net:80/tv_discovery_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild HD
+http://iptv.cyxym.net:80/tv_nat_geo_wild_hd/index.m3u8
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
+http://iptv.cyxym.net:80/tv_national_geographic_hd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-history" group-title="Познавательное", Viasat History HD
+http://iptv.cyxym.net:80/tv_viasat_history_hd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Познавательное", Viasat Explore HD
+http://iptv.cyxym.net:80/tv_viasat_explorer_hd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательное", Viasat Nature HD
+http://iptv.cyxym.net:80/tv_viasat_nature_hd/index.m3u8
+#EXTINF:-1 tvg-id="istoria" group-title="Познавательное", История
+http://iptv.cyxym.net:80/tv_istoriya_sd/index.m3u8
+#EXTINF:-1 tvg-id="history-ru" group-title="Познавательное", History HD
+http://iptv.cyxym.net:80/tv_history_hd/index.m3u8
+#EXTINF:-1 tvg-id="travel-channel" group-title="Познавательное", Travel Channel HD
+http://iptv.cyxym.net:80/tv_travel_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательное", TLC HD
+http://iptv.cyxym.net:80/tv_tlc_hd/index.m3u8
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://imgur.com/aKXUxay" group-title="Познавательное", World Fashion
+http://iptv.cyxym.net:80/tv_world_fashion_sd/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательное", Авто Плюс 
+http://iptv.cyxym.net:80/tv_avto_plus_sd/index.m3u8
+#EXTINF:-1 tvg-id="avto24" group-title="Познавательное", Авто24
+http://iptv.cyxym.net:80/tv_avto24_sd/index.m3u8
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательное", Наука 2.0
+http://iptv.cyxym.net:80/tv_nauka_2_0_sd/index.m3u8
+#EXTINF:-1 tvg-id="planeta-hd" group-title="Познавательное", Планета HD
+http://iptv.cyxym.net:80/tv_planeta_hd/index.m3u8
+#EXTINF:-1 tvg-id="putesh-prikl" group-title="Познавательное", Путешествия + Приключения
+https://strm.yandex.ru/kal/smotripp_fake/smotripp_fake0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="perpetmobile" group-title="Познавательное", Перпетуум мобиле
+https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="456" group-title="Познавательное", Travel and Adventure
+http://iptv.cyxym.net:80/tv_travel_and_adventure_sd/index.m3u8
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательное", В Мире животных HD
+http://178.163.60.244:4022/udp/234.0.0.97:2000
+-------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-id="match-premier" group-title="Спорт", Матч! Премьер
+#EXTVLCOPT:network-caching=1000
+http://182.73.122.74:10001/bysid/706
+#EXTINF:0 tvg-id="match-premier" group-title="Спорт", Матч! Премьер (резерв)
+#EXTVLCOPT:network-caching=1000 
+http://89.189.191.250/239.211.211.170/stream.m3u8
+#EXTINF:0 group-title="Спорт", Белорусь 5 HD
+http://persik.by/stream/1105/91303/10408.m3u8
+#EXTINF:0 group-title="Спорт", Белорусь 5
+http://persik.by/stream/1105/91303/932.m3u8
+#EXTINF:0 tvg-id="sky-sports-football" group-title="Спорт", Sky Sports Football HD
+#EXTVLCOPT:network-caching=500
+http://seeyoutv.net:2300/parigi/parigi/10400
+#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports HD
+#EXTVLCOPT:network-caching=1000
+http://144.76.199.108:8002/play/a0f5?auth=smoxa200:hGxH07KbCjuWfTg
+#EXTINF:0 tvg-id="setanta-sports-plus" group-title="Спорт",Setanta Sports + HD
+#EXTVLCOPT:network-caching=1000
+http://144.76.199.108:8002/play/a0f6?auth=smoxa200:hGxH07KbCjuWfTg 
+#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://144.76.199.108:8002/play/a0f3?auth=smoxa200:hGxH07KbCjuWfTg
+#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://144.76.199.108:8002/play/a0f4?auth=smoxa200:hGxH07KbCjuWfT
+#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports Eurasia 1 HD
+http://livegopanel.club:8080/vasil/123456/7356
+#EXTINF:0 tvg-id="setanta-sports-plus" group-title="Спорт",Setanta Sports Eurasia 2 HD
+http://livegopanel.club:8080/vasil/123456/7357
+
+#EXTINF:0 tvg-id="fightbox-hd" group-title="Спорт",FightBox HD
+http://185.36.100.33/fightboxhd/index.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ HD
+http://iptv.cyxym.net:80/tv_ufc_tv_hd/index.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
+#EXTVLCOPT:network-caching=1000
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
+#EXTVLCOPT:network-caching=1000
+http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="m1global" group-title="Спорт", M1 Global
+http://iptv.cyxym.net:80/tv_m1_global_sd/index.m3u8
+#EXTINF:-1 tvg-id="box-tv" tvg-logo="https://i.imgur.com/7Up3C7E.png" group-title="Спорт", Бокс ТВ
+http://iptv.cyxym.net:80/tv_boxtv_sd/index.m3u8
+#EXTINF:-1 tvg-id="match-boets" group-title="Спорт", Матч! Боец
+http://iptv.cyxym.net:80/tv_match_boets_sd/index.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт", МАТЧ ТВ
+http://iptv.cyxym.net:80/tv_match_tv_sd/index.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="Спорт", МАТЧ ТВ HD
+http://iptv.cyxym.net:80/tv_match_tv_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-football1" group-title="Спорт", Матч! Футбол 1 HD
+http://iptv.cyxym.net:80/tv_match_football_1_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-football2" group-title="Спорт", Матч! Футбол 2 HD
+http://iptv.cyxym.net:80/tv_match_football_2_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-football3" group-title="Спорт", Матч! Футбол 3 HD
+http://iptv.cyxym.net:80/tv_match_football_3_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-arena" group-title="Спорт", Матч Арена HD
+http://iptv.cyxym.net:80/tv_match_arena_hd/index.m3u8
+#EXTINF:-1 tvg-id="match-igra" group-title="Спорт", Матч! Игра HD
+http://iptv.cyxym.net:80/tv_match_igra_hd/index.m3u8
+#EXTINF:-1 tvg-id="extreme-sports" group-title="Спорт", Extreme Sports
+http://iptv.cyxym.net:80/tv_extreme_sports_sd/index.m3u8
+#EXTINF:-1 tvg-id="dtx" group-title="Спорт", DTX HD
+http://iptv.cyxym.net:80/tv_dtx_hd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спорт", Viasat Sport HD
+http://iptv.cyxym.net:80/tv_viasat_sport_hd/index.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="pervy" group-title="HD Каналы", Первый HD
+http://iptv.cyxym.net:80/tv_perviy_kanal_hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1" group-title="HD Каналы", Россия HD
+http://iptv.cyxym.net:80/tv_russia_1_hd/index.m3u8
+#EXTINF:-1 tvg-id="2201" group-title="HD Каналы", НТВ HD
+http://iptv.cyxym.net:80/tv_ntv_hd/video.m3u8
+#EXTINF:-1 tvg-id="2201" group-title="HD Каналы", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="HD Каналы", ТНТ HD
+http://iptv.cyxym.net:80/tv_tnt_hd/index.m3u8
+#EXTINF:-1 tvg-id="rentv" group-title="HD Каналы", РЕН ТВ HD
+http://iptv.cyxym.net:80/tv_rentv_hd/index.m3u8 
+#EXTINF:-1 tvg-id="sts" group-title="HD Каналы", СТС HD
+http://iptv.cyxym.net:80/tv_sts_hd/index.m3u8 
+#EXTINF:-1 tvg-id="tnt4" group-title="HD Каналы", ТНТ 4 HD
+http://iptv.cyxym.net:80/tv_tnt4_hd/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="HD Каналы", Europa Plus TV HD
+https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="muztv" group-title="HD Каналы", Муз ТВ HD
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" group-title="HD Каналы", Bridge TV Deluxe
+http://iptv.cyxym.net:80/tv_bridgetv_hd/index.m3u8
+#EXTINF:-1 https://imgur.com/b8NMxzn tvg-id="1" group-title="HD Каналы", Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="onemuz" group-title="HD Каналы", Первый музыкальный HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="onemuz" group-title="HD Каналы", Первый Музыкальный HD (BY)
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="HD Каналы", Eurosport 1 HD
+http://iptv.cyxym.net:80/tv_eurosport_1_hd/video.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="HD Каналы", Eurosport Gold HD
+http://iptv.cyxym.net:80/tv_eurosport_gold_hd/video.m3u8
+#EXTINF:-1 tvg-id="20103" group-title="HD Каналы", Матч! Арена HD
+http://iptv.cyxym.net:80/tv_match_arena_hd/video.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="HD Каналы", МАТЧ ТВ HD
+http://iptv.cyxym.net:80/tv_match_tv_hd/video.m3u8
+#EXTINF:-1 tvg-id="17106" group-title="HD Каналы", Viasat Sport HD
+http://iptv.cyxym.net:80/tv_viasat_sport_hd/video.m3u8
+#EXTINF:-1 tvg-id="2202" group-title="HD Каналы", КХЛ HD
+http://iptv.cyxym.net:80/tv_khl_hd/video.m3u8
+#EXTINF:-1 tvg-id="2203" group-title="HD Каналы", Конный мир HD
+http://iptv.cyxym.net:80/tv_konniy_mir_hd/video.m3u8
+#EXTINF:-1 tvg-id="hd-life" group-title="HD Каналы", HD Life
+http://iptv.cyxym.net:80/tv_hd_life_hd/video.m3u8
+#EXTINF:-1 tvg-id="12105" group-title="HD Каналы", Discovery Channel HD
+http://iptv.cyxym.net:80/tv_discovery_channel_hd/video.m3u8
+#EXTINF:-1 tvg-id="14104" group-title="HD Каналы", Animal Planet HD
+http://iptv.cyxym.net:80/tv_animal_planet_hd/video.m3u8
+#EXTINF:-1 tvg-id="14101" group-title="HD Каналы", Nat Geo Wild HD
+http://iptv.cyxym.net:80/tv_nat_geo_wild_hd/video.m3u8
+#EXTINF:-1 tvg-id="26002" group-title="HD Каналы", National Geographic HD
+http://iptv.cyxym.net:80/tv_national_geographic_hd/video.m3u8
+#EXTINF:-1 tvg-id="26004" group-title="HD Каналы", History HD
+http://iptv.cyxym.net:80/tv_history_hd/video.m3u8
+#EXTINF:-1 tvg-id="26006" group-title="HD Каналы", Travel Channel HD
+http://iptv.cyxym.net:80/tv_travel_channel_hd/video.m3u8
+#EXTINF:-1 tvg-id="26005" group-title="HD Каналы", TLC HD
+http://iptv.cyxym.net:80/tv_tlc_hd/video.m3u8
+#EXTINF:-1 tvg-id="12106" group-title="HD Каналы", MTV Live HD
+http://iptv.cyxym.net:80/tv_mtv_live_hd/video.m3u8
+#EXTINF:-1 tvg-id="14103" group-title="HD Каналы", Mezzo Live HD
+http://iptv.cyxym.net:80/tv_mezzo_live_hd/video.m3u8
+#EXTINF:-1 tvg-id="14106" group-title="HD Каналы", Nickelodeon HD
+http://iptv.cyxym.net:80/tv_nickelodeon_hd/video.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="HD Каналы", Fox HD
+http://iptv.cyxym.net:80/tv_fox_hd/video.m3u8
+#EXTINF:-1 tvg-id="1816" group-title="HD Каналы", RTG HD
+http://iptv.cyxym.net:80/tv_rtg_hd/video.m3u8
+#EXTINF:-1 tvg-id="26003" group-title="HD Каналы", Amedia Premium HD
+http://iptv.cyxym.net:80/tv_amedia_premium_hd/video.m3u8
+
+#EXTINF:-1 tvg-id="20104" group-title="HD Каналы", MGM HD
+http://iptv.cyxym.net:80/tv_mgm_hd/video.m3u8
+#EXTINF:-1 tvg-id="2215" group-title="HD Каналы", Bollywood HD
+http://iptv.cyxym.net:80/tv_bollywood_hd/video.m3u8
+-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино", FilmBox
+#EXTVLCOPT:network-caching=1000
+https://imedi-tv.cdn.xsg.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cinema" group-title="Кино", Cosmos TV HD
+#EXTVLCOPT:network-caching=1000
+http://213.184.238.59:6202
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино", Наше Новое Кино
+http://iptv.cyxym.net:80/tv_nashe_novoe_kino_sd/video.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино", Родное Кино
+http://iptv.cyxym.net:80/tv_rodnoe_kino_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино", Индийское кино
+http://iptv.cyxym.net:80/tv_india_tv_sd/video.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино
+http://iptv.cyxym.net:80/tv_muzhskoe_kino_sd/video.m3u8
+#EXTINF:-1 tvg-id="kinomiks" group-title="Кино", Киномикс
+http://iptv.cyxym.net:80/tv_kinomiks_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит
+http://iptv.cyxym.net:80/tv_kinohit_sd/video.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
+http://iptv.cyxym.net:80/tv_kinopremiera_hd/video.m3u8
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Кино", Кинокомедия HD
+http://iptv.cyxym.net:80/tv_kinokomediya_hd/video.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино", Киноужас HD
+http://iptv.cyxym.net:80/tv_kinouzhas_hd/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Кино", Страшное HD
+http://iptv.cyxym.net:80/tv_strashnoe_hd/index.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="Кино", Fox HD
+http://iptv.cyxym.net:80/tv_fox_hd/video.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="Кино", Fox Life HD
+http://iptv.cyxym.net:80/tv_fox_life_hd/index.m3u8
+#EXTINF:-1 tvg-id="vip-serial" group-title="Кино", ViP Serial
+http://iptv.cyxym.net:80/tv_vip_serial_hd/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Кино", ViP Megahit
+http://iptv.cyxym.net:80/tv_vip_megahit_hd/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Кино", ViP Comedy
+http://iptv.cyxym.net:80/tv_vip_comedy_hd/index.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Кино", ViP Premiere
+http://iptv.cyxym.net:80/tv_vip_premiere_hd/index.m3u8
+#EXTINF:-1 tvg-id="star-cinema" group-title="Кино", Star Cinema
+http://iptv.cyxym.net:80/tv_star_sinema_hd/index.m3u8
+#EXTINF:-1 tvg-id="star-family" group-title="Кино", Star Family
+http://iptv.cyxym.net:80/tv_star_family_hd/index.m3u8
+#EXTINF:-1 tvg-id="amedia1" group-title="Кино", Amedia 1 HD
+http://iptv.cyxym.net:80/tv_a1_hd/index.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="Кино", Amedia 2 HD
+http://iptv.cyxym.net:80/tv_a2_hd/index.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Кино", Amedia Hit
+http://iptv.cyxym.net:80/tv_amedia_hit_sd/index.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Кино", Amedia Premium HD
+http://iptv.cyxym.net:80/tv_amedia_premium_hd/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv"" group-title="Кино", Кино ТВ HD
+http://iptv.cyxym.net:80/tv_kino_tv_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="sovkino" group-title="Кино", Советское Кино
+https://strm.yandex.ru/kal/sovkino/sovkino0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="sovkino" group-title="Кино", Советское Кино dHD 720p
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="sovmultf" group-title="Кино", Советские мультфильмы
+https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама
+http://iptv.cyxym.net:80/tv_dorama_sd/index.m3u8
+#EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Кино", ТВ-3
+http://iptv.cyxym.net:80/tv_tv3_sd/video.m3u8
+#EXTINF:-1 tvg-id="tvxxi" group-title="Кино", TV XXI (TV21)
+http://iptv.cyxym.net:80/tv_tv_21m_sd/video.m3u8
+#EXTINF:-1 tvg-id="domkino" group-title="Кино", Дом Кино
+http://iptv.cyxym.net:80/tv_dom_kino_sd/video.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Кино", Дом Кино Премиум HD
+http://iptv.cyxym.net:80/tv_dom_kino_premium_hd/video.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Кино", Иллюзион+
+http://iptv.cyxym.net:80/tv_illuzion_plus_sd/video.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино", Русский Иллюзион
+http://iptv.cyxym.net:80/tv_russian_illuzion_sd/video.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="Кино", Русский роман
+http://iptv.cyxym.net:80/tv_russkiy_roman_hd/video.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино", Русский бестселлер
+http://iptv.cyxym.net:80/tv_russian_bestseller_sd/video.m3u8
+#EXTINF:-1 tvg-id="evrokino" group-title="Кино", ЕвроКино
+http://iptv.cyxym.net:80/tv_eurokino_sd/video.m3u8
+#EXTINF:-1 tvg-id="detsky-mir" group-title="Кино", Детский мир
+http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub_sd/video.m3u8
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино", Paramount Comedy HD
+http://iptv.cyxym.net:80/tv_paramount_comedy_hd/video.m3u8
+#EXTINF:-1 tvg-id="paramount-channel" group-title="Кино", Paramount Channel HD
+http://iptv.cyxym.net:80/tv_paramount_channel_hd/video.m3u8
+#EXTINF:-1 tvg-id="719" group-title="Кино", Мир сериала
+http://iptv.cyxym.net:80/tv_mir_seriala_sd/video.m3u8
+#EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi
+http://iptv.cyxym.net:80/tv_sony_scifi_sd/video.m3u8
+#EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
+http://iptv.cyxym.net:80/tv_sony_turbo_sd/video.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" group-title="Кино", КВН
+http://iptv.cyxym.net:80/tv_kvn_tv_sd/video.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино", Синема 
+http://iptv.cyxym.net:80/tv_sinema_sd/index.m3u8
+#EXTINF:-1 tvg-id="super" group-title="Кино", Супер
+http://iptv.cyxym.net:80/tv_super_sd/index.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" group-title="Кино", Красная Линия
+http://iptv.cyxym.net:80/tv_krasnaya_liniya_sd/index.m3u8
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="spike" group-title="Сериалы", Spike
+http://iptv.cyxym.net:80/tv_spike_sd/video.m3u8
+#EXTINF:-1 tvg-id="kinoseria" group-title="Сериалы", Киносерия
+http://iptv.cyxym.net:80/tv_kinoseriya/video.m3u8
+#EXTINF:-1 tvg-id="10207" group-title="Сериалы", МНОГОсерийное ТВ
+http://iptv.cyxym.net:80/tv_mnogoseriynoe_tv/video.m3u8
+#EXTINF:-1 tvg-id="10208" group-title="Сериалы", Мужское кино
+http://iptv.cyxym.net:80/tv_muzhskoe_kino/video.m3u8
+#EXTINF:-1 tvg-id="10808" group-title="Сериалы", Дом Кино
+http://iptv.cyxym.net:80/tv_dom_kino/video.m3u8
+#EXTINF:-1 tvg-id="703" group-title="Сериалы", Детский мир/Телеклуб
+http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub/video.m3u8
+#EXTINF:-1 tvg-id="21107" group-title="Сериалы", AMEDIA
+http://iptv.cyxym.net:80/tv_amedia/video.m3u8
+#EXTINF:-1 tvg-id="16102" group-title="Сериалы", AMEDIA 2
+http://iptv.cyxym.net:80/tv_amedia_2/video.m3u8
+#EXTINF:-1 tvg-id="21108" group-title="Сериалы", Amedia Premium
+http://iptv.cyxym.net:80/tv_amedia_premium/video.m3u8
+#EXTINF:-1 tvg-id="26003" group-title="Сериалы", Amedia Premium HD
+http://iptv.cyxym.net:80/tv_amedia_premium_HD/video.m3u8
+#EXTINF:-1 tvg-id="719" group-title="Сериалы", Мир сериала
+http://iptv.cyxym.net:80/tv_mir_seriala/video.m3u8
+#EXTINF:-1 tvg-id="1505" group-title="Сериалы", CBS Drama
+http://iptv.cyxym.net:80/tv_cbs_drama/video.m3u8
+#EXTINF:-1 tvg-id="1508" group-title="Сериалы", FOX
+http://iptv.cyxym.net:80/tv_fox/video.m3u8
+#EXTINF:-1 tvg-id="10813" group-title="Сериалы", Fox Life
+http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
+#EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
+http://iptv.cyxym.net:80/tv_amc/video.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="2na2" group-title="Другое", 2x2 
+http://iptv.cyxym.net:80/tv_2x2_sd/index.m3u8
+#EXTINF:-1 tvg-id="fanhd" group-title="Другое", FAN HD 
+http://iptv.cyxym.net:80/tv_fan_hd/video.m3u8
+#EXTINF:-1 tvg-id="game-show" group-title="Другое", GameShow
+http://iptv.cyxym.net:80/tv_game_show_sd/video.m3u8
+#EXTINF:-1 tvg-id="yu" group-title="Другое", Ю-ТВ
+http://iptv.cyxym.net:80/tv_utv_sd/index.m3u8
+#EXTINF:-1 tvg-id="16101" group-title="Другое", КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+--------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Гагра. Переход у ресторана "Гагрипш"
+http://iptv.cyxym.net:80/gagra_perehod_gagripsh/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Гагра. Колесо Обозрения
+http://iptv.cyxym.net:80/gagra_koleso_obozreniya/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Новый Афон. ул. Эшба
+http://iptv.cyxym.net:80/new_afon_eshba/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Гумистинская (Абырлаш - cam01)
+http://iptv.cyxym.net:80/sukhum_gumistinskaya_abirlash_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Гумистинская (Абырлаш - cam02)
+http://iptv.cyxym.net:80/sukhum_gumistinskaya_abirlash_cam_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Эшба и Гумистинская (универсам)
+http://iptv.cyxym.net:80/sukhum_universam/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Бейгуа (cam01)
+http://iptv.cyxym.net:80/sukhum_beigua_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Бейгуа (cam02)
+http://iptv.cyxym.net:80/sukhum_beigua_cam_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Джонуа и Дзидзария (cam01)
+http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya_1/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Джонуа и Дзидзария (cam02)
+http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya_2/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Имама Шамиля и Ардзинба (cam01)
+http://iptv.cyxym.net:80/sukhum_ardzinba_shamilya_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Имама Шамиля и Ардзинба (cam02)
+http://iptv.cyxym.net:80/sukhum_ardzinba_shamilya_cam_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Ардзинба и Дбар
+http://iptv.cyxym.net:80/sukhum_ardzinba_dbar/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Агумава и Ардзинба (cam01)
+http://iptv.cyxym.net:80/sukhum_agumaa_ardzinba_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Агумава и Ардзинба (cam02)
+http://iptv.cyxym.net:80/sukhum_agumaa_ardzinba_cam_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Вокзал (cam 1)
+http://iptv.cyxym.net:80/sukhum_vokzal_1/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Вокзал (cam 2)
+http://iptv.cyxym.net:80/sukhum_vokzal_2/video.m3u8
+ 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Пицунда. Парк 1
+https://a-mobile.camera/cams/WEB37-PICUNDAPARK/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Пицунда. Парк 2
+http://iptv.cyxym.net:80/pitsunda_park/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гудаута. Парк
+https://109.235.186.53:8081/cam_497/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гудаута. Парк Гуда и Ута
+http://iptv.cyxym.net:80/gudauta_park/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гагра. Парк
+https://109.235.186.53:8081/cam_498/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Новый Афон. Парк
+https://109.235.186.53:8081/cam_496/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Новый Район
+https://109.235.186.53:8081/cam_494/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Площадь Свободы
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Площадь Свободы Каток
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_katok/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Очамчира Центр
+http://109.235.186.53:8080/cam_467/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Ткуарчал. Дом культуры
+http://109.235.186.53:8080/cam_471/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гал. Центр
+https://109.235.186.53:8081/cam_468/index.m3u8
+--------------
+
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Амобайл)
+http://109.235.186.53:8080/cam_161/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Амобайл)
+http://109.235.186.53:8080/cam_160/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. МАПП «Адлер» пешеходный переход
+https://109.235.186.53:8081/cam_211/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Сочи)
+http://109.235.186.53:8080/cam_473/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Амобайл)
+http://91.231.219.130:80/psou_peshehodnyi_perehod/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Система)
+http://iptv.cyxym.net:80/psou_peshehodnyi_perehod/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Система)
+http://iptv.cyxym.net:80/psou_1/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Система)
+http://iptv.cyxym.net:80/psou_2/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур
+http://iptv.cyxym.net:80/gal_kpp_ingur_cam_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур. Мост.
+http://109.235.186.53:8080/cam_483/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Перепадная. Водохранилище
+http://109.235.186.53:8080/cam_484/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Джварское водохранилище. Плотина
+http://iptv.cyxym.net:80/gal_ingurges_plotina_vodohranilishe/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Джварское водохранилище. Уровень воды
+http://iptv.cyxym.net:80/gal_ingurges_plotina_pribor_uroven/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Центр
+https://109.235.186.53:8081/cam_468/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур. Мост.
+http://iptv.cyxym.net:80/gal_kpp_ingur_cam_01/video.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Гагра. Парк
+https://109.235.186.53:8081/cam_498/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сочи. Роза Хутор. 1590м. Канатная дорога. Вероника
+https://109.235.186.53:8081/cam_495/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Гагра. Коллонада
+http://iptv.cyxym.net:80/gagra_kollonada_1/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Турбаза перекресток
+http://iptv.cyxym.net:80/turbaza_perekrestok_estokada/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Въезд в город
+http://iptv.cyxym.net:80/sukhum_entry/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Пересечение просп. Мира и ул. Агумаа
+http://iptv.cyxym.net:80/sukhum_mira_186_perekrestok/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Троллейбус №133 (Новый район-Рынок)
+http://iptv.cyxym.net:80/sukhum_trolley_133/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. Аллея
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_alleia/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. Панорама
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_panorama/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. 2
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam2/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин
+http://109.235.186.53:8080/cam_489/playlist.m3u8 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Парк славы
+http://109.235.186.53:8080/cam_490/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вышка РТПЦ
+http://109.235.186.53:8080/cam_469/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Красный мост. Слева
+http://iptv.cyxym.net:80/sukhum_krasniy_most/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Красный мост. Справа
+https://109.235.186.53:8081/cam_451/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гумистинский мост → Сухум
+http://iptv.cyxym.net:80/sukhum_gumistinskiy_most_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гумистинский мост → Новый Афон
+http://iptv.cyxym.net:80/sukhum_gumistinskiy_most_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Морпорт
+http://iptv.cyxym.net:80/sukhum_port_02/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гостиница Рица
+http://iptv.cyxym.net:80/sukhum_ritsa_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Келасурский мост
+http://iptv.cyxym.net:80/sukhum_kelasur_povorot/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Новый район (пятачок)
+http://iptv.cyxym.net:80/sukhum_new_region_gai_cam_03/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Турбаза (перекресток)
+http://iptv.cyxym.net:80/turbaza_perekrestok/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Площадь
+https://109.235.186.53:8081/cam_463/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Платформа
+https://109.235.186.53:8081/cam_462/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Обезьяний питомник (клетка с павианами Анубис)
+http://iptv.cyxym.net:80/sukhum_obezianiy_pitomnik_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Обезьяний питомник (НИИ ЭПиТ)
+http://iptv.cyxym.net:80/sukhum_obezianiy_pitomnik_cam_02/video.m3u8
+http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь им. С. В. Багапш
+http://iptv.cyxym.net:80/sukhum_port/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Надпись yeSUKHUM
+http://iptv.cyxym.net:80/sukhum_yesukhum/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ДрамТеатр
+http://iptv.cyxym.net:80/sukhum_dramteatr/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Республиканский стадион
+https://109.235.186.53:8081/cam_459/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Стадион Динамо
+http://iptv.cyxym.net:80/sukhum_voronova_stadium_dynamo/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Футбольное поле (Совмин)
+http://iptv.cyxym.net:80/sukhum_sportkomitet_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь Свободы
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь Свободы Каток
+http://iptv.cyxym.net:80/sukhum_ploshad_svobody_katok/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Мокко пляж
+http://iptv.cyxym.net:80/sukhum_moko_beach/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Проспект Мира
+http://iptv.cyxym.net:80/sukhum_pushkina_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Проспект Мира и ул. Пушкина
+http://iptv.cyxym.net:80/sukhum_pushkina_cam_02/video.m3u8 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Ардзинба и просп. Леона
+http://iptv.cyxym.net:80/sukhum_ardzinba_leona/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Джонуа/ул. Дзидзария
+http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Наб. Махаджиров №1 (кафе «Эльбрус»)
+http://iptv.cyxym.net:80/sukhum_naberezhnaya_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Наб. Махаджиров №2 (кафе «Эльбрус»)
+http://iptv.cyxym.net:80/sukhum_naberezhnaya_cam_02/video.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Колоннада
+http://iptv.cyxym.net:80/gagra_kolonnada/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Парк
+https://109.235.186.53:8081/cam_498/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Вышка РТПЦ
+http://iptv.cyxym.net:80/gagra_rtpc/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Отель Alex Beach
+http://iptv.cyxym.net:80/gagra_alex_beach/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Гранд отель Абхазия
+http://iptv.cyxym.net:80/gagra_hotel_abkhazia/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Гостиница Райда (Пляж 2)
+http://iptv.cyxym.net:80/gagra_raida/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Новая колоннада
+http://iptv.cyxym.net:80/gagra_new_kolonnada/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Памятник В. Г. Ардзинба
+http://iptv.cyxym.net:80/gagra_pamiatnik_ardzinba/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Памятник защитникам Абхазии
+http://iptv.cyxym.net:80/gagra_pamiatnik_zashitnikam/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Парк Славы
+http://iptv.cyxym.net:80/gagra_park_slavy/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Аквапарк
+http://iptv.cyxym.net:80/gagra_aquapark_cam_01/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Смотровая Площадка
+http://iptv.cyxym.net:80/gagra_smotrovaya/video.m3u8 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Площадь Энвера Капба
+http://iptv.cyxym.net:80/gagra_ploshad_envera_kapba/index.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Рица. Смотровая площадка
+http://iptv.cyxym.net:80/abkhazia_ritsa/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Рица. Смотровая площадка
+https://109.235.186.53:8081/cam_492/index.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Перекресток г. Очамчира и г. Ткуарчал
+https://109.235.186.53:8081/cam_452/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира. Кутольский поворот
+http://109.235.186.53:8080/cam_488/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира. Кутольский поворот 2
+https://a-mobile.camera/cams/WEB27-Kutol/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира Центр
+http://109.235.186.53:8080/cam_467/playlist.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Ткуарчал. Дом культуры
+http://109.235.186.53:8080/cam_471/playlist.m3u8 
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Парк Гуда и Ута
+http://iptv.cyxym.net:80/gudauta_park/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Парк
+https://109.235.186.53:8081/cam_497/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Центр
+https://109.235.186.53:8081/cam_491/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Проспект Героев
+http://iptv.cyxym.net:80/gudauta_prospekt_geroev/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Лыхненский поворот
+http://iptv.cyxym.net:80/gudauta_lyhnenskiy_povorot/video.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Парк
+https://109.235.186.53:8081/cam_496/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Новоафонский водопад
+https://109.235.186.53:8081/cam_493/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Вид на город
+http://iptv.cyxym.net:80/afon_anakopia/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Вид на Новоафонский монастырь
+https://109.235.186.53:8081/cam_391/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Центральный стадион
+https://109.235.186.53:8081/cam_389/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Гостевой дом Таруса
+https://msk05.ivideon.com/hls/playlist.m3u8?hlsId=116a28b0ba774a0eb0bd46c2ed4a3b0e_100000161509_0
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Парк
+http://iptv.cyxym.net:80/pitsunda_park/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Вид с Концертного зала
+https://public.apsny.camera/pitsunda_zal_pitsunda/index.m3u8?token=null
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Пансионат Мюссера
+https://fr01.ivideon.com/hls/playlist.m3u8?hlsId=1967206c7f014e0f90975d5e3deb152f_100001911738_0&token=a62d66fadf44286559df303c35d979cd
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Пансионат Мюссера 2
+https://openapi-alpha.ivideon.com/cameras/100-f2SPZ7mQ048wFiaLQyD6Lh:0/live_stream?op=GET&access_token=public&q=2&hlsTranscodeMobile=false&format=hls&wait_segments=1&segment_duration=1
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Вид с Концертного зала
+https://109.235.186.53:8081/cam_239/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 1
+https://109.235.186.53:8081/cam_384/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 2
+https://109.235.186.53:8081/cam_234/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 3
+https://109.235.186.53:8081/cam_228/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 4
+https://109.235.186.53:8081/cam_232/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 5
+https://109.235.186.53:8081/cam_238/index.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Москва. Площадь славы Метро Кузьминки
+https://cameras.inetcom.ru/hls/camera12_11.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Москва. Волгоградский проспект Метро Кузьминки
+https://cameras.inetcom.ru/hls/camera12_4.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Казань. Восточная панорама
+https://cdn.universmotri.ru/ipcam/cam39.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Казань. Автомойка GRASS г. Наб. Челны
+https://nl206.extcam.com/hls/playlist.m3u8?hlsId=25b432d0604548498811137c4c1d6952_100000348015_0&expires_at=1602239602&token=956367c651956cffeb0b2d5b05c8f55b
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Мелководный причал морпорта
+http://109.235.186.53:8080/cam_52/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Морпорт
+http://109.235.186.53:8080/cam_9/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Отель Сон у моря. Район Мамайка. Звук!
+http://109.235.186.53:8080/cam_368/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Устье реки Западный Дагомыс
+http://109.235.186.53:8080/cam_86/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 662. Автобус МореМолл - Роза Хутор. По маршруту №105 
+http://109.235.186.53:8080/cam_475/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 232. Автобус МореМолл - Роза Хутор. По маршруту №105 
+http://109.235.186.53:8080/cam_474/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 965. Автобус МореМолл - Роза Хутор. По маршруту №105 
+http://109.235.186.53:8080/cam_460/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. ул. Горького. Привокзальная площадь
+http://109.235.186.53:8080/cam_275/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", ГК Роза Хутор. +2310м. Канатная дорога Эдельвейс
+http://109.235.186.53:8080/cam_414/playlist.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Матрёшка 555
+http://109.235.186.53:8080/cam_466/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", КП Главная канатка
+http://109.235.186.53:8080/cam_s53/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", ГкРХ канатка Тундра
+http://109.235.186.53:8080/cam_415/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Обезьяны Для Матильды
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Берег Каспия 14 мкрн
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи 5
+http://109.235.186.53:8080/cam_185/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи 51
+http://109.235.186.53:8080/cam_388/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", NAZARÉ. Назаре
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Kolobrzeg. Колобжег
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Артек Речной
+http://193.238.110.3/6/hls/live.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Африка 2 FHD
+http://stream.africam.com:1935/ce/ce.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Африка 3 FHD
+http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Франция 2 HD
+http://live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Франция 7 FHD
+http://live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Прямая трансляция с борта МКС
+https://109.235.186.53:8081/cam_55/tracks-v1a1/index.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +550м. ВК "Газпром". "Гранд Отель Поляна". Открытый бассейн 50м. 
+https://109.235.186.53:8081/cam_300/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +550м. ВК "Газпром". Развлекательный центр «Галактика». Аквапарк. 
+https://109.235.186.53:8081/cam_301/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1389м. ВК "Газпром". "Отель и Спа". Коттеджный поселок. 
+https://109.235.186.53:8081/cam_97/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1389м. ВК "Газпром". Трасса С. Склон "Лаура".
+https://109.235.186.53:8081/cam_98/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1440м. ВК "Газпром". Склон "Лаура". Площадь горного приюта "Псехако".
+https://109.235.186.53:8081/cam_260/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1470м. ВК "Газпром". Лыжно-биатлонный комплекс "Лаура"
+https://109.235.186.53:8081/cam_108/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1470м. ВК "Газпром". Склон "Лаура". Хаски Парк. 26 пушистых добрых хаски.
+https://109.235.186.53:8081/cam_270/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1660м. ВК "Газпром". Склон "Лаура". Трасса I.
+https://109.235.186.53:8081/cam_113/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1918м. ВК "Газпром". Склон "Альпика". Трасса 11.
+https://109.235.186.53:8081/cam_345/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2256м. ВК "Газпром". Склон "Альпика". Приют ветров. Обзорная панорамная площадка.
+https://109.235.186.53:8081/cam_346/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +560м. Роза Долина. Вид на Романов мост и здание Ратуши.
+https://109.235.186.53:8081/cam_s70/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +560м. Роза Долина. Вид на площадь Мзымта.
+https://109.235.186.53:8081/cam_s71/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +940м. Роза Стадион.
+https://109.235.186.53:8081/cam_410/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +960м. Поляна Apreski
+https://109.235.186.53:8081/cam_437/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +940м. Роза Стадион.
+https://109.235.186.53:8081/cam_266/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Вид на Детский склон.
+https://109.235.186.53:8081/cam_s65/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Горная Олимпийская деревня.
+https://109.235.186.53:8081/cam_s64/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Роза Плато. Вид на подъёмник Заповедный лес.
+https://109.235.186.53:8081/cam_349/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1128м. Горная Олимпийская Деревня. Вид на подъёмник Шале.
+https://109.235.186.53:8081/cam_265/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1170м. Роза Плато
+https://109.235.186.53:8081/cam_s64/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1350м. Верхняя станция подъёмника "Волчья скала"
+https://109.235.186.53:8081/cam_411/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2220м. Канатная дорога «Тундра».
+https://109.235.186.53:8081/cam_415/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2320м. Роза Пик
+https://109.235.186.53:8081/cam_263/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2508м. Каменный столб.
+https://109.235.186.53:8081/cam_279/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Скайпарк. Мост
+https://109.235.186.53:8081/cam_372/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Скай Комплекс. Каток
+http://media.cam2site.com:8080/cam/amlst:snejice/media_w786641306.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Альпика Сервис
+https://109.235.186.53:8081/cam_100/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Роза Фитнес: танцевальный зал.
+https://109.235.186.53:8081/cam_366/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Роза Кроссфит: Шатёр
+https://109.235.186.53:8081/cam_365/index.m3u8?token=null
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Рязанский проспект
+http://cameras.inetcom.ru/hls/camera12_10.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Шоссе Энтузиастов
+http://cameras.inetcom.ru/hls/camera12_2.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Шоссе Энтузиастов
+http://cameras.inetcom.ru/hls/camera12_2.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Спортивная
+http://cameras.inetcom.ru/hls/camera12_13.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Волгоградский проспект
+http://cameras.inetcom.ru/hls/camera12_5.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Студия Европа Плюс
+http://live-emg.cdnvideo.ru/emg/smil:emg.smil/chunklist_b1660000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.emg
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Ставрополь. Вход Парка Победы
+rtmp://stream.iformula.ru:1935/rtmp/ParkVhod
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Севастополь. Пляж Любимовки
+http://185.71.81.253/lyubimovka.1-3867b6181b/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Архангельск
+http://live-aao2.cdnvideo.ru/aao2/camsobor/chunklist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Адлер. Фрегат
+https://sochi.camera:8081/cam_187/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Дагомыс
+https://109.235.186.53:8081/cam_83/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", МореМолл
+https://109.235.186.53:8081/cam_28/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Океанариум SDWA. Коралловый риф
+https://109.235.186.53:8081/cam_40/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Фрегат
+https://109.235.186.53:8081/cam_187_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Гагарина / Красноармейская
+https://109.235.186.53:8081/cam_r40/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Школа бокса Александра Морозова
+https://nl207.extcam.com/hls/playlist.m3u8?hlsId=1ffcf833dfef4bd9b402fbe85f447af8_200000081702_0&expires_at=1579183749&token=5dc8e6e290a217679fe09b083ab267f2
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Погода
+https://109.235.186.53:8081/cam_465/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Погода
+https://109.235.186.53:8081/cam_472/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж ТРЦ «Мандарин» в Адлере
+https://109.235.186.53:8081/cam_80/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж 
+http://sochi.camera:8080/cam_327/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. пос. Дагомыс - пляж
+https://cam.dagotel.ru/Dagomys_Prichal/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Козы, ламы и поросята
+https://109.235.186.53:8081/cam_404/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Мелководный причал морпорта
+https://109.235.186.53:8081/cam_52/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Лазаревское. Гостиница тополь
+https://msk.rtsp.me/HrNCyHEdy3_CgDBgk0Z7cg/1577520556/hls/Bhnfiz84.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Лазаревское. Панорама
+https://msk.rtsp.me/TeKspk3rAVEDkTpPImhuHQ/1579790212/hls/nya4SYe8.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама «Дублер курортного проспекта»
+https://cam.dagotel.ru/Sochi_Panarama_s_Pasechnoy7_na_dubler/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама города
+https://cam.dagotel.ru/Sochi_panorama_morport/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама микрорайона Мамайка
+https://cam.dagotel.ru/Mamaika_panorama/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Жилой комплекс «Новая Заря»
+https://cam.dagotel.ru/Sochi_Novaya_zara2/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Строй площадка ЖК "Каравелла Португалии" в пос. Дагомыс
+https://cam.dagotel.ru/Sochi_panorama_morport/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама Города
+https://cam.dagotel.ru/karavella-3/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи
+https://109.235.186.53:8081/cam_125/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи
+https://109.235.186.53:8081/cam_135/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Дагомыс. Обзорная
+http://sochi.camera:8081/cam_83/tracks-v1/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж Лоо. Восточная часть
+https://109.235.186.53:8081/cam_88/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 1
+https://109.235.186.53:8081/cam_324_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 2
+https://109.235.186.53:8081/cam_329_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 3
+https://109.235.186.53:8081/cam_331_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Всесезонный курорт "Газпром"
+https://109.235.186.53:8081/cam_297/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Горный курорт Роза Хутор
+http://sochi.camera:8081/cam_s63/tracks-v1/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Пансионат Нева. Поворотная 2
+http://sochi.camera:8081/cam_83/tracks-v1/index.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Полосатая кися
+https://109.235.186.53:8081/cam_150/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Кися 
+https://109.235.186.53:8081/cam_147/index.m3u8
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="Онлайн Погода",Архангельск
+https://strm.yandex.ru/kal/weather_arkhangelsk/weather_arkhangelsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Брянск
+https://strm.yandex.ru/kal/weather_bryansk/weather_bryansk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Будапешт
+https://strm.yandex.ru/kal/weather_budapest/weather_budapest0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Владикавказ
+https://strm.yandex.ru/kal/weather_vladikavkaz/weather_vladikavkaz0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Иваново
+https://strm.yandex.ru/kal/weather_ivanovo/weather_ivanovo0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Иркутск
+https://strm.yandex.ru/kal/weather_irkutsk/weather_irkutsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Калуга
+https://strm.yandex.ru/kal/weather_kaluga/weather_kaluga0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Кемерово
+https://strm.yandex.ru/kal/weather_kemerovo/weather_kemerovo0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Курск
+https://strm.yandex.ru/kal/weather_kursk/weather_kursk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Магадан
+https://strm.yandex.ru/kal/weather_magadan/weather_magadan0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Мурманск
+https://strm.yandex.ru/kal/weather_murmansk/weather_murmansk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Нарьян-Мар
+https://strm.yandex.ru/kal/weather_naryanmar/weather_naryanmar0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Нью-Йорк
+https://strm.yandex.ru/kal/weather_newyork/weather_newyork0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Орел
+https://strm.yandex.ru/kal/weather_orel/weather_orel0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Оренбург
+https://strm.yandex.ru/kal/weather_orenburg/weather_orenburg0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Петрозаводск
+https://strm.yandex.ru/kal/weather_petrozavodsk/weather_petrozavodsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Петропавловск-Камчатский
+https://strm.yandex.ru/kal/weather_kamchatka/weather_kamchatka0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Рязань
+https://strm.yandex.ru/kal/weather_ryazan/weather_ryazan0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Салехард
+https://strm.yandex.ru/kal/weather_salekhard/weather_salekhard0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Сочи 2
+https://strm.yandex.ru/kal/weather_sochi2/weather_sochi20.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Сыктывкар
+https://strm.yandex.ru/kal/weather_siktivkar/weather_siktivkar0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Тамбов
+https://strm.yandex.ru/kal/weather_tambov/weather_tambov0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Томск
+https://strm.yandex.ru/kal/weather_tomsk2/weather_tomsk20.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Тула
+https://strm.yandex.ru/kal/weather_tula/weather_tula0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Ханты-Мансийск
+https://strm.yandex.ru/kal/weather_khanty/weather_khanty0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Чита
+https://strm.yandex.ru/kal/weather_chita/weather_chita0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Шерегеш
+https://strm.yandex.ru/kal/weather_sheregesh/weather_sheregesh0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Элиста
+https://strm.yandex.ru/kal/weather_elista/weather_elista0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Южно-Сахалинск
+https://strm.yandex.ru/kal/weather_ujnosachalinsk/weather_ujnosachalinsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Астрахань
+https://strm.yandex.ru/kal/weather_astrakhan/weather_astrakhan0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Белгород
+https://strm.yandex.ru/kal/weather_belgorod/weather_belgorod0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Благовещенск
+https://strm.yandex.ru/kal/weather_blagoveshchensk/weather_blagoveshchensk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Великий Новгород
+https://strm.yandex.ru/kal/weather_vnovgorod/weather_vnovgorod0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Владивосток
+https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Владимир
+https://strm.yandex.ru/kal/weather_vladimir/weather_vladimir0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Волгоград
+https://strm.yandex.ru/kal/weather_volgograd/weather_volgograd0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Воронеж
+https://strm.yandex.ru/kal/weather_voronezh/weather_voronezh0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Екатеринбург
+https://strm.yandex.ru/kal/weather_ekaterinburg/weather_ekaterinburg0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Ижевск
+https://strm.yandex.ru/kal/weather_izhevsk/weather_izhevsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Казань
+https://strm.yandex.ru/kal/weather_kazan/weather_kazan0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Калининград
+https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Киров
+https://strm.yandex.ru/kal/weather_kirov/weather_kirov0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Кострома
+https://strm.yandex.ru/kal/weather_kostroma/weather_kostroma0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Красная Поляна
+https://strm.yandex.ru/kal/weather_polyana/weather_polyana0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Красноярск
+https://strm.yandex.ru/kal/weather_krasnoyarsk/weather_krasnoyarsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Курган
+https://strm.yandex.ru/kal/weather_kurgan/weather_kurgan0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Липецк
+https://strm.yandex.ru/kal/weather_lipetsk/weather_lipetsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Майкоп
+https://strm.yandex.ru/kal/weather_maikop/weather_maikop0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Москва
+https://strm.yandex.ru/kal/weather_moscow/weather_moscow0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Москва Сити
+https://strm.yandex.ru/kal/weather_moscowcity/weather_moscowcity0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Нальчик
+https://strm.yandex.ru/kal/weather_nalchik/weather_nalchik0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Нижний Новогород
+https://strm.yandex.ru/kal/weather_nizhniy/weather_nizhniy0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Новосибирск
+https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Омск
+https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Париж
+https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Пенза
+https://strm.yandex.ru/kal/weather_penza/weather_penza0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Пермь
+https://strm.yandex.ru/kal/weather_perm/weather_perm0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Псков
+https://strm.yandex.ru/kal/weather_pskov/weather_pskov0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Рига
+https://strm.yandex.ru/kal/weather_riga/weather_riga0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Роза Хутор
+https://strm.yandex.ru/kal/weather_roza_khutor/weather_roza_khutor0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Ростов-на-Дону
+https://strm.yandex.ru/kal/weather_rostov/weather_rostov0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Самара
+https://strm.yandex.ru/kal/weather_samara/weather_samara0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Санкт-Петербург
+https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Санкт-Петербург 2
+https://strm.yandex.ru/kal/weather_saint_petersburg2/weather_saint_petersburg20.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Саранск
+https://strm.yandex.ru/kal/weather_saransk/weather_saransk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Саратов
+https://strm.yandex.ru/kal/weather_saratov/weather_saratov0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Симферополь
+https://strm.yandex.ru/kal/weather_simferopol/weather_simferopol0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Смоленск
+https://strm.yandex.ru/kal/weather_smolensk/weather_smolensk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Сочи
+https://strm.yandex.ru/kal/weather_sochi/weather_sochi0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Тверь
+https://strm.yandex.ru/kal/weather_tver/weather_tver0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Тюмень
+https://strm.yandex.ru/kal/weather_tyumen/weather_tyumen0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Улан-Удэ
+https://strm.yandex.ru/kal/weather_ulanude/weather_ulanude0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Уфа
+https://strm.yandex.ru/kal/weather_ufa/weather_ufa0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Хельсинки
+https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Чебоксары
+https://strm.yandex.ru/kal/weather_cheboksary/weather_cheboksary0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Челябинск
+https://strm.yandex.ru/kal/weather_chelyabinsk/weather_chelyabinsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Черкесск
+https://strm.yandex.ru/kal/weather_cherkessk/weather_cherkessk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Якутск
+https://strm.yandex.ru/kal/weather_yakutsk/weather_yakutsk0.m3u8
+#EXTINF:-1 group-title="Онлайн Погода",Погода Ярославль
+https://strm.yandex.ru/kal/weather_yaroslavl/weather_yaroslavl0.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Ниагарский Водопад
+rtmp://edge2.tikilive.com/unrestricted_tikilive/25548/6zvOnPaZw9lK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 1
+http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w418078568.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 2
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w217775957.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 3
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 4
+https://videos3.earthcam.com/fecnetwork/485.flv/chunklist_w1352206529.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 5
+http://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w776137552.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Лонг-Бич. Побережье и пляж
+http://wowzaprod123-i.akamaihd.net/hls/live/508506/72079a7d_1_1093848/chunklist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ангилье. Пруд Мидс Бэй
+https://videos3.earthcam.com/fecnetwork/14178.flv/chunklist_w629654280.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Санта-Моника
+https://videos3.earthcam.com/fecnetwork/6253.flv/chunklist_w2041300530.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ки-Уэст. Круизный порт.
+http://56eaaf2a94c81.streamlock.net/mallorysquare/mallorysquare.stream/chunklist_w1128398830.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ки-Уэст. Отель The Reach
+http://wowza.floridakeysmedia.com:8090/thereach/thereach.stream/chunklist_w1597269403.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда
+rtmp://zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда 3
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ehrenmal
+http://stream.livespotting.tv/windit-edge/vv82.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Madeline Island
+http://wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", San Francisco
+http://video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Lauderdale-By-The-Sea Cam
+http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Video. Market St Apartments. Market St Apartments C-1802
+https://resource3.earthcam.net/videos/GtVJZlL4VnwZ3X0VJw8BsdJFxD3fQR_K0uiVoYzYZesRroWNFxbrnwjPT64Penmyu5mMy8NTYVJsucKsr0C0BA!!.mp4
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Video. City Club. City Club C-1801
+https://resource3.earthcam.net/videos/GtVJZlL4VnwZ3X0VJw8BsR56zWBq_CQjOwA-lHxfl5wRroWNFxbrnwjPT64Penmyu5mMy8NTYVJsucKsr0C0BA!!.mp4
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Кан-Пастилья. Пляж
+https://5811bd721519c.streamlock.net:1936/live/livecam004.stream/media_w251000666.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Сон-Серра-де-Марина. Gобережье
+https://5811bd721519c.streamlock.net:1936/live/livecam035.stream/chunklist_w1326533295.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Алькудия. Пляж
+https://5811bd721519c.streamlock.net:1936/live/livecam024.stream/chunklist_w1173297256.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испания. Остров Гран-Канария. Панорама
+http://cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Франция. Побережье в городе Дуарнене. Бретань
+rtmp://www.vision-environnement.com/live/douarnenez.stream 
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Dienten, Bürglalmabfahrt
+http://ch-par1-8875b624.livespotting.com/windit-edge/smil:LS_Mksd0.smil/chunklist_w842332512_b6000000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Engelberg, Titlis
+http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv200.smil/chunklist_w1676251827_b1000000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Timmendorfer Strand, Maritim Seebrücke
+http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv9.smil/chunklist_w883281436_b1000000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Greetsiel, Krummhörn
+http://ch-par1-645fe1cb.livespotting.com/windit-edge/smil:vv179.smil/chunklist_w1357524809_b1000000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Engelberg, Titlis
+http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv200.smil/chunklist_w1857037923_b1000000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Гамбург. Аэропорт. Терминал 1
+rtmp://ham.airport.1000eyes.de/rtplive//hamDDD79C.stream
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Дубай
+https://videos3.earthcam.com/fecnetwork/5868.flv/chunklist_w1916181450.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Прага
+https://videos3.earthcam.com/fecnetwork/14191.flv/chunklist_w620524419.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Эстония 9
+http://webcam.tt.ee/live/slupiring-live.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Эстония 6
+http://webcam.tt.ee/live/kesklinn-live.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Турция
+http://win11.yayin.com.tr:1935/marmarisbel//belediye/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия
+http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Чехия. Горнолыжный курорт Шпиндлерув-Млин
+http://wstream.comanet.cz:1935/live/Spindl-Plan.stream_720p/chunklist_w293774832.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Португалия. Эрисейра
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 1
+http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 2
+http://africacams-lh.akamaihd.net/i/Africam_Tembe@686103/index_200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 3
+http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 4
+http://africacams-lh.akamaihd.net/i/Africam_RosiesPan@686102/index_200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 5
+http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 6
+http://africacams-lh.akamaihd.net/i/Africam_Olifants@686101/index_4686848_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 7
+http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
+http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="russian-komedii-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/russianкомедииevgeniy.png" group-title="TEST",Evgen Russian Комедии
+https://v2.catcast.tv/content/36168/index.m3u8 
+#EXTINF:-1 tvg-id="vhs-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/vhsevgeniy.png" group-title="TEST",Evgen VHS
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 tvg-id="drama-tic-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/драмаticevgeniy.png" group-title="TEST",Evgen Драма
+http://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1 tvg-id="sssr-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/сссрevgeniy.png" group-title="TEST",Evgen СССР
+http://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1 tvg-id="fear-uzhasi-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/fearужасыevgeniy.png" group-title="TEST",Evgen Ужасы
+http://v2.catcast.tv/content/36277/index.m3u8
+------------------
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="TEST", tvg-logo="https://epg.iptvx.one/icn/kino-ultra-hd.png",Кино UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-id="serial-ultrahd" group-title="TEST" tvg-logo="https://telesputnik.ru/upload/iblock/a16/Serial_UHD.jpg",Сериал UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="TEST" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema HD
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 tvg- group-title="TEST" tvg-logo="https://img15.lostpic.net/2019/11/12/680a3842560587f79b296189a2207da1.png",Ultra REX
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Channel HD
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Musiс HD
+http://zigfreed.ru:8080/music/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Roсk HD
+http://zigfreed.ru:8080/rock/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://klike.net/uploads/posts/2019-03/medium/1551511784_4.jpg",Stingray Naturescape
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST",Кинозал (VHS EVGENIY)
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ RITSA
+https://a-mobile.camera/cams/RITSA/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ AGTRK_TV
+https://a-mobile.camera/cams/AGTRK_TV/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ГАЛ ТВ
+http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Грозный HD
+http://iptv.cyxym.net:80/tv_grozniy_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Shot TV HD
+http://iptv.cyxym.net:80/tv_shot_tv_sd/index.m3u8
+#EXTINF:-1 tvg-id="508" group-title="TEST", Youtube
+https://www.youtube.com/watch?v=LXb3EKWsInQ
+#EXTINF:-1 tvg-id="508" group-title="TEST", Вкусное. ТВ HD
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="508" group-title="TEST", Hit TV FHD
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", Turkmen Owazy (Турецкий)
+http://217.174.225.146/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", Кино UHD
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1 tvg-id="1" group-title="TEST", Travel Guide TV [FHD]
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Классика
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", FreshTV HD
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Hit TV
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Новое Радио ТВ [HD]
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Rustavi 2 (Грузия)
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
+#EXTVLCOPT:http-user-agent=Tvip S-500/2.1.0 (Linux; U; Android 6.0.1;)
+http://iptv.cyxym.net:80/tv_agtrk/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
+#EXTVLCOPT:http-user-agent=Tvip S-500
+http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
+#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ All
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", КитайМана 
+http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="onemuz" group-title="4K", Первый музыкальный UHD
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-id="festival-4k" group-title="4K", Festival 4K
+http://iptv.cyxym.net:80/tv_festival_4k_uhd/index.m3u8
+#EXTINF:-1 tvg-id="fashion-one-4k" group-title="4K", Fashion One 4K
+http://iptv.cyxym.net:80/tv_fashion_one_4k_uhd/index.m3u8
+#EXTINF:-1 tvg-id="home-4k" group-title="4K", Home 4K
+http://iptv.cyxym.net:80/tv_home_4k_uhd/index.m3u8
+#EXTINF:-1 tvg-id="eurosport-4k" group-title="4K", Eurosport 4K
+http://iptv.cyxym.net:80/tv_eurosport_4k_uhd/index.m3u8
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="4K", Кино UHD
+http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
+
+#EXTINF:0, tvg-id="love-nature-4k" group-title="4K", Love Nature 4K UHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:network-caching=1000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
+
+#EXTINF:0, tvg-id="russian-extreme-uhd" group-title="4K", Russian Extreme UHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:network-caching=1000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+
+#EXTINF:0, tvg-id="ultra-hd-cinema" group-title="4K", Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:network-caching=1000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+
+
+-------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/8124.jpg" group-title="Новый Год", Один дома (1990)
+http://vod-1.cyxym.net:8080/vod/movies/Odin_doma.1990.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5928.jpg" group-title="Новый Год", Один дома 2: Затерянный в Нью-Йорке (1992)
+http://vod-1.cyxym.net:8080/vod/movies/Odin_doma_2.Zateriannyi_v_Niu.Iorke.1992.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-27.jpg" group-title="Новый Год", Зхала аҩны иҟоу (1990) (абх)
+http://vod-1.cyxym.net:8080/vod/movies/Odin_Doma.1990.BDRip.1080p.10660.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Новый Год", Маугли (1967) (абх)
+http://vod-1.cyxym.net:8080/vod/movies/Maugli_ABH.1967.BDRip.1080p.9255.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/772380.jpg" group-title="Новый Год", Рождественские хроники (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvenskie_hroniki.2018.WEBDLRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1309508.jpg" group-title="Новый Год", Рождественские хроники 2 (2020)
+http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvenskie_hroniki_2.2020.WEBDLRip.1080p.10433.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5056.jpg" group-title="Новый Год", Гринч – похититель Рождества (2000)
+http://vod-1.cyxym.net:8080/vod/movies/Grinch_pohititel_Rozhdestva.2000.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1170018.jpg" group-title="Новый Год", Рождество на двоих (2019)
+http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvo_na_dvoih.2019.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1161783.jpg" group-title="Новый Год", Полицейский с Рублевки. Новогодний беспредел (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Policeiskii_s_Rubliovki_Novogodnii_bespredel.2018.WEBDLRip.1080p.mp4/video.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1331675.jpg" group-title="Новый Год", Охота на Санту (2020)
+http://vod-1.cyxym.net:8080/vod/movies/Ohota_na_Santu.2020.WEBDLRip.1080p.10519.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Новый Год", Золотой ребенок (1986)
+http://vod-1.cyxym.net:8080/vod/movies/Zolotoi_rebenok.1986.BDRip.1080p.10554.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Новый Год", Ёлки (2010)
+http://vod-1.cyxym.net:8080/vod/movies/IOlki.2010.BDRip.1080p.747.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/573817.jpg" group-title="Новый Год", Ёлки 2 (2011)
+http://vod-1.cyxym.net:8080/vod/movies/lki_2.2011.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/652659.jpg" group-title="Новый Год", Ёлки 3 (2013)
+http://vod-1.cyxym.net:8080/vod/movies/lki_3.2013.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/893500.jpg" group-title="Новый Год", Ёлки 5 (2016)
+http://vod-1.cyxym.net:8080/vod/movies/IOlki_5.2016.WEBDLRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1045310.jpg" group-title="Новый Год", Ёлки Новые (2017)
+http://vod-1.cyxym.net:8080/vod/movies/IOlki_novye.2017.WEBDLRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1181562.jpg" group-title="Новый Год", Ёлки Последние (2018)
+http://vod-1.cyxym.net:8080/vod/movies/IOlki_Poslednie.2018.WEBDLRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/6300.jpg" group-title="Новый Год", Подарок на Рождество (1996)
+http://vod-1.cyxym.net:8080/vod/movies/Podarok_na_Rozhdestvo.1996.BDRip.1080p.9246.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/895502.jpg" group-title="Новый Год", Новые приключения Аладдин (2015)
+http://vod-1.cyxym.net:8080/vod/movies/Novye_prikliucheniia_Aladdina.2015.BDRip.720p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1345717.jpg" group-title="Новый Год", Непосредственно Каха! (2020)
+http://vod-1.cyxym.net:8080/vod/movies/Neposredstvenno_Kaha.2020.WEBDLRip.1080p.10571.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Новый Год", Гринч 4K (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Grinch.2018.BDRemux.2160p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Новый Год", Гринч (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Grinch.2018.BDRip.1080p.mp4/video.m3u8
+--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Джентльмены удачи
+http://vod-1.cyxym.net:8080/vod/movies/Dzhentlmeny_udachi.1971.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Любовь и голуби
+http://vod-1.cyxym.net:8080/vod/movies/Liubov_i_golubi.1984.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Служебный роман
+http://vod-1.cyxym.net:8080/vod/movies/Sluzhebnyi_roman.1977.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Кавказская пленница или Новые приключения Шурика
+http://vod-1.cyxym.net:8080/vod/movies/Kavkazskaia_plennica_ili_Novye_prikliucheniia_SHurika.1967.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 group-title="Фильмы", Афоня
+http://vod-1.cyxym.net:8080/vod/movies/Afonia.1975.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Бриллиантовая рука
+http://vod-1.cyxym.net:8080/vod/movies/Brilliantovaia_ruka.1968.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", В бой идут одни «старики»
+http://vod-1.cyxym.net:8080/vod/movies/V_boi_idut_odni_stariki.1973.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="1" group-title="Фильмы", Мужики!..
+https://v-31-6.videomore.ru/a2/d0/a2d0c642af634fdb10231d15d39f9b0f/a2d0c642af634fdb10231d15d39f9b0f-qx720.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Операция «Ы» и другие приключения Шурика
+http://vod-1.cyxym.net:8080/vod/movies/Operaciia_Y_i_drugie_prikliucheniia_SHurika.1965.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 group-title="Фильмы", Иван Васильевич меняет профессию
+http://vod-1.cyxym.net:8080/vod/movies/Ivan_Vasilevich_meniaet_professiiu.1973.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Расстанемся – пока хорошие 1
+http://vod-1.cyxym.net:8080/vod/serials/Rasstanemsia_poka_horoshie.9939/Rasstanemsia_poka_horoshie.Season_1.Seria_01.DVDRip.480p.9939.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Расстанемся – пока хорошие 2
+http://vod-1.cyxym.net:8080/vod/serials/Rasstanemsia_poka_horoshie.9939/Rasstanemsia_poka_horoshie.Season_1.Seria_02.DVDRip.480p.9939.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Тихий Дон (ИИ Yandex)
+https://strm.yandex.ru/vh-ott-converted/ott-content/328001490-45e3a48fd611065491ffef684afd26c7/0-video_43_1080p.m3u8?chunks=1&vsid=1fcff1a2969e533ffa48f2469849bbb7703d76d076bfea83775544ec12f7f677/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Твое имя
+http://vod.cyxym.net:8080/vod/Tvoio_imia.2016.BDRip.1080p.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Ванильное небо
+http://vod-1.cyxym.net:8080/vod/movies/Vanilnoe_nebo.2001.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Хортон
+http://vod-1.cyxym.net:8080/vod/movies/Horton.2008.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXVvCrj.png" group-title="Фильмы", Астерикс на Олимпийских играх
+http://vod-1.cyxym.net:8080/vod/movies/Asteriks_na_Olimpiiskih_igrah.2008.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/560nwdp.png" group-title="Фильмы", Астерикс и Обеликс в Британии
+http://vod-1.cyxym.net:8080/vod/movies/Asteriks_i_Obeliks_v_Britanii.2012.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4h6Qn9.png" group-title="Фильмы", Мстители: Война бесконечности
+http://vod-1.cyxym.net:8080/vod/movies/Mstiteli_Voina_beskonechnosti.2018.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0IyEdau.png" group-title="Фильмы", Звёздные войны: Пробуждение силы 4K (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Zviozdnye_voiny_Probuzhdenie_sily.2015.BDRemux.2160p.9679.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02ZaiO7.png" group-title="Фильмы", ВАЛЛ-И 4K (2008)
+http://vod-1.cyxym.net:8080/vod/movies/VALL_I.2008.BDRip.2160p.274.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmxE2Uy.png"  group-title="Фильмы", Валериан и город тысячи планет 4K
+http://vod-1.cyxym.net:8080/vod/movies/Valerian_i_gorod_tysiachi_planet.2017.BDRemux.2160p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hyGh2gX.jpg" group-title="Фильмы", Хроники хищных городов 4K
+http://vod-1.cyxym.net:8080/vod/movies/Hroniki_hishnyh_gorodov.2018.BDRemux.2160p.mp4/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJF6mKZ.png" group-title="Фильмы", Оскар (1967)
+http://vod-1.cyxym.net:8080/vod/movies/Oskar.1967.BDRip.1080p.10876.mp4/video.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://pool.img.aptoide.com/appstvcommunity/7a0857b55d49338c030dd07f8c999866_icon.png" group-title="Фильмы", FunBox UHD
+https://spiintl.com/data/files/kcfinderUploadDir/files/video/Funbox%20UHD%20ver.%2019.01.2017%20v2_x264.mp4
+
+
+#EXTINF:0,Матч ТВ 
+#EXTVLCOPT:http-user-agent=SmartSDK
+#EXTVLCOPT:network-caching=1000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
