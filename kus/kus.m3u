@@ -62,8 +62,6 @@ rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?re
 rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", Лестница
 rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Камин
-https://v2.catcast.tv/content/36334/index.m3u8 
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
