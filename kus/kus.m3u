@@ -1507,6 +1507,10 @@ http://vod-1.cyxym.net:8080/vod/movies/Valerian_i_gorod_tysiachi_planet.2017.BDR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyGh2gX.jpg" group-title="Фильмы", Хроники хищных городов 4K
 http://vod-1.cyxym.net:8080/vod/movies/Hroniki_hishnyh_gorodov.2018.BDRemux.2160p.mp4/video.m3u8
 
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/7988.jpg" group-title="Фильмы", Лара Крофт: Расхитительница гробниц 2 – Колыбель жизни 4K
+http://vod-1.cyxym.net:8080/vod/movies/Lara_Kroft_Rashititelnica_grobnic_2_Kolybel_zhizni.2003.BDRemux.2160p.mp4/video.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJF6mKZ.png" group-title="Фильмы", Оскар (1967)
 http://vod-1.cyxym.net:8080/vod/movies/Oskar.1967.BDRip.1080p.10876.mp4/video.m3u8
