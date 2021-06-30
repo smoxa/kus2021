@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" deinterlace=1 m3uautoload=1 cache=1000 aspect-ratio=16:9
+
+#EXTINF:-1 ,PROKUS-TV Самообновляемый
+https://clck.ru/VoirK
+
+#EXTINF:-1 ,Посл. обн. 27.06.21 
+http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
+http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
