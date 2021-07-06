@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz" deinterlace=1 m3uautoload=1 cache=1000 aspect-ratio=16:9
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" deinterlace=1 m3uautoload=1 cache=1000 aspect-ratio=16:9
 #http://portal.slynet.online:88/stalker_portal/c/index.html
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV Самообновляемый
-http://rpkavantage.ru/prokus-studio.mp4
-#EXTINF:-1 ,Посл. обн. 27.06.21 
+https://clck.ru/VoirK
+#EXTINF:-1 ,Посл. обн. 06.07.21 
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -66,15 +66,12 @@ rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?re
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
 http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-id="gal_tv" tvg-logo="https://i.imgur.com/8NfXAKy.png" group-title="Абхазские", Гал-ТВ
+#EXTINF:-1 tvg-id="gal_tv" tvg-logo="https://i.imgur.com/8NfXAKy.png" group-title="Абхазские", ГАЛ-ТВ
 http://iptv.cyxym.net:80/tv_gal_tv/index.m3u8
 #EXTINF:-1 tvg-id="gagra_tv" tvg-logo="https://i.imgur.com/JEJeiyj.png" group-title="Абхазские", ГАГРА-ТВ
 http://iptv.cyxym.net:80/tv_gagra_tv/index.m3u8
 ----------------
-#EXTINF:-1 tvg-id="h1" tvg-logo="https://i.imgur.com/bN50YAH.png" group-title="Абхазские", Армения H1 HD
-http://iptv.cyxym.net:80/tv_h1_hd/index.m3u8
-#EXTINF:-1 tvg-id="armenia-tv" group-title="Абхазские", Армения ТВ
-http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
+
 -------------------------------------------------------------------------------------------------
 _sd/index.m3u8
 -------------------------------------------------------------------------------------------------
@@ -132,20 +129,32 @@ http://iptv.cyxym.net:80/tv_tnt4_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_sts_love_sd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="Эфирные", Россия 24
 http://iptv.cyxym.net:80/tv_russia_24_sd/index.m3u8
+#EXTINF:-1 tvg-id="h1" tvg-logo="https://i.imgur.com/bN50YAH.png" group-title="Эфирные", Армения H1 HD
+http://iptv.cyxym.net:80/tv_h1_hd/index.m3u8
+#EXTINF:-1 tvg-id="armenia-tv" group-title="Эфирные", Армения ТВ
+http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", taina
+http://194.190.78.91:8080/tainatv/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", siesta
+http://194.190.78.91:8080/siesta/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", pskov
+http://194.190.78.91:8080/pskov/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", mcm
+http://194.190.78.91:8080/mcm/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", aiva
+http://194.190.78.91:8080/aivaya/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/VdsfvZp.jpg" group-title="Музыка", 88 Stereo
 http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", MAFI2A MUSIC CHANNEL 
 https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
-#EXTINF:-1 tvg-id="gudauta_hd" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", ТВ12 Гудаута HD
-http://iptv.cyxym.net:80/tv_tv12_gudauta_hd/index.m3u8
-#EXTINF:-1 tvg-id="ritsa_tv" tvg-logo="https://i.imgur.com/jPWDQvF.png" group-title="Музыка", Рица ТВ HD
-http://iptv.cyxym.net:80/tv_ritsa_tv_hd/index.m3u8
-#EXTINF:-1 tvg-id="ritsa_tv" tvg-logo="https://i.imgur.com/jPWDQvF.png" group-title="Музыка", Рица ТВ HD
-https://a-mobile.camera/cams/RITSA/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://i.imgur.com/GhhRZVM.png" group-title="Музыка", Retro Music TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="10202" group-title="Музыка", 1HD Music Television 
@@ -158,8 +167,6 @@ http://iptv.cyxym.net:80/tv_muzika_pervogo_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыка", Russian MusicBox HD
 http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="1hd" group-title="Музыка", MUSIC JAPAN
-http://122.155.180.8:5021/live/495 
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live HD
 http://iptv.cyxym.net:80/tv_mtv_live_hd/index.m3u8
@@ -267,10 +274,6 @@ http://182.73.122.74:10001/bysid/706
 #EXTINF:0 tvg-id="match-premier" group-title="Спорт", Матч! Премьер (резерв)
 #EXTVLCOPT:network-caching=1000 
 http://89.189.191.250/239.211.211.170/stream.m3u8
-#EXTINF:0 group-title="Спорт", Белорусь 5 HD
-http://persik.by/stream/1105/91303/10408.m3u8
-#EXTINF:0 group-title="Спорт", Белорусь 5
-http://persik.by/stream/1105/91303/932.m3u8
 #EXTINF:0 tvg-id="sky-sports-football" group-title="Спорт", Sky Sports Football HD
 #EXTVLCOPT:network-caching=500
 http://seeyoutv.net:2300/parigi/parigi/10400
@@ -295,14 +298,6 @@ http://livegopanel.club:8080/vasil/123456/7357
 http://185.36.100.33/fightboxhd/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ HD
 http://iptv.cyxym.net:80/tv_ufc_tv_hd/index.m3u8
-#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
-#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
-#EXTVLCOPT:network-caching=1000
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ
-#EXTVLCOPT:network-caching=1000
-http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
 
 #EXTINF:-1 tvg-id="m1global" group-title="Спорт", M1 Global
 http://iptv.cyxym.net:80/tv_m1_global_sd/index.m3u8
