@@ -2,11 +2,9 @@
 #https://clck.ru/Voixd
 #EXTINF:-1 ,PROKUS-TV Самообновляемый
 https://clck.ru/VoirK
-
-#EXTINF:-1 ,Посл. обн. 30.06.21 
+#EXTINF:-1 ,Посл. обн. 06.07.21 
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
-
-
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
@@ -15,12 +13,11 @@ http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8
 http://iptv.cyxym.net:80/tv_gal_tv/index.m3u8
 #EXTINF:-1 tvg-id="gagra_tv" tvg-logo="https://i.imgur.com/JEJeiyj.png" group-title="Абхазские", ГАГРА-ТВ
 http://iptv.cyxym.net:80/tv_gagra_tv/index.m3u8
-----------------
-#EXTINF:-1 tvg-id="h1" tvg-logo="https://i.imgur.com/bN50YAH.png" group-title="Эфирные", Армения H1 HD
+----------------#-----------------------------------------------------------------------------#EXTINF:-1 tvg-id="h1" tvg-logo="https://i.imgur.com/bN50YAH.png" group-title="Эфирные", Армения H1 HD
 http://iptv.cyxym.net:80/tv_h1_hd/index.m3u8
 #EXTINF:-1 tvg-id="armenia-tv" group-title="Эфирные", Армения ТВ
 http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="pervy" group-title="Эфирные", Первый канал
 http://iptv.cyxym.net:80/tv_perviy_kanal_sd/index.m3u8?title=Первый+канал 
 #EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1
@@ -32,28 +29,24 @@ http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="che" group-title="Эфирные", Че
 http://iptv.cyxym.net:80/tv_che_sd/index.m3u8
-
-
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live HD
 http://iptv.cyxym.net:80/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Музыка", MTV Russia
 http://iptv.cyxym.net:80/tv_mtv_hd/index.m3u8
-
-
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="discovery-science" group-title="Познавательное", Discovery Science
 http://iptv.cyxym.net:80/tv_discovery_science_sd/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательное", ID Investigation Discovery
 http://iptv.cyxym.net:80/tv_id_investigation_discovery_sd/index.m3u8
-
-
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="box-tv" tvg-logo="https://i.imgur.com/7Up3C7E.png" group-title="Спорт", Бокс ТВ
 http://iptv.cyxym.net:80/tv_boxtv_sd/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" group-title="Спорт", Матч! Боец
 http://iptv.cyxym.net:80/tv_match_boets_sd/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="Спорт", МАТЧ ТВ
 http://iptv.cyxym.net:80/tv_match_tv_sd/index.m3u8
-
-
+#-----------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино", Наше Новое Кино
 http://iptv.cyxym.net:80/tv_nashe_novoe_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино", Родное Кино
@@ -74,3 +67,25 @@ http://iptv.cyxym.net:80/tv_kinokomediya_hd/video.m3u8
 http://iptv.cyxym.net:80/tv_kinouzhas_hd/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Кино", Страшное HD
 http://iptv.cyxym.net:80/tv_strashnoe_hd/index.m3u8
+#-----------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Очамчира Центр
+http://109.235.186.53:8080/cam_467/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Ткуарчал. Дом культуры
+http://109.235.186.53:8080/cam_471/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Гал. Центр
+https://109.235.186.53:8081/cam_468/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Пицунда. Парк 2
+http://iptv.cyxym.net:80/pitsunda_park/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Сухум. Вокзал (cam 1)
+http://iptv.cyxym.net:80/sukhum_vokzal_1/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Камеры", Сухум. Вокзал (cam 2)
+http://iptv.cyxym.net:80/sukhum_vokzal_2/video.m3u8
+#-----------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="18+", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="18+", Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="18+", Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="18+", Жарка на кухне
+http://nvid100.cdnii.com/2525/252500208-720p.mp4
