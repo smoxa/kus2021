@@ -538,21 +538,18 @@ http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
 http://iptv.cyxym.net:80/tv_amc/video.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="2na2" group-title="Дэмир", ЗУБКИ - Синий трактор - Новая песенка мультик 2020
-https://clck.ru/WDjjN
+ftp://pi:16171716Kus@192.168.31.117/Video/video1.mp4
 #EXTINF:-1 tvg-id="2na2" group-title="Дэмир", ЗУБКИ - Синий трактор - Новая песенка мультик 2020 4K
-ftp://pi:16171716Kus@192.168.31.117/Video/ЗУБКИ - Синий трактор - Новая песенка мультик 2020.mkv
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
-http://iptv.cyxym.net:80/tv_amc/video.m3u8
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
-http://pi:16171716Kus@192.168.31.117/Video/ЗУБКИ - Синий трактор - Новая песенка мультик 2020.mp4
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
-
-#EXTINF:-1 group-title="Дэмир", 2x2
 ftp://pi:16171716Kus@192.168.31.117/Video/video2.mkv
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", ЗУБКИ - Синий трактор - Новая песенка мультик 2020
+#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
+ftp://pi:16171716Kus@192.168.31.117/Video/video2.mkv
+#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
+ftp://admin:openmediavault@192.168.31.117/Video/video1.mp4
+#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
 ftp://pi:16171716Kus@192.168.31.117:21/Video/video1.mp4
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", KUS
-ftp://pi:16171716Kus@192.168.31.117/Video/video2.mkv
+#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2
+
+#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
  
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="2na2" group-title="Другое", 2x2 
