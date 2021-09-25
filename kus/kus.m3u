@@ -86,15 +86,11 @@ http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="http://ritsatv.ru/files/poster/medium/600620.png" group-title="Эфирные", СОЧИ 24
 http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
-#EXTINF:-1 tvg-id="krasnodar" group-title="Эфирные", Краснодар
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="krasnodar" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные",Краснодар
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец Международный
-http://188.93.95.67:80/perec/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец (запасной) 
-http://212.42.193.122:8888/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец
+http://87.99.87.203:2020/channel/na276a6/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 #EXTINF:-1 tvg-id="che" group-title="Эфирные", Че
 http://iptv.cyxym.net:80/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные", ТНТ
@@ -137,22 +133,14 @@ http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
-
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", taina
-http://194.190.78.91:8080/tainatv/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", siesta
 http://194.190.78.91:8080/siesta/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", pskov
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Pskov
 http://194.190.78.91:8080/pskov/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", mcm
-http://194.190.78.91:8080/mcm/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", aiva
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Aiva
 http://194.190.78.91:8080/aivaya/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/VdsfvZp.jpg" group-title="Музыка", 88 Stereo
-http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", MAFI2A MUSIC CHANNEL 
 https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://i.imgur.com/GhhRZVM.png" group-title="Музыка", Retro Music TV
@@ -211,10 +199,6 @@ http://iptv.cyxym.net:80/tv_discovery_science_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_id_investigation_discovery_sd/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов
 http://iptv.cyxym.net:80/tv_ohotnik_i_rybolov_hd/index.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов 720p
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов 1080p
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке
 http://iptv.cyxym.net:80/tv_dialogi_o_rybalke_sd/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке 1080p
@@ -259,43 +243,9 @@ http://iptv.cyxym.net:80/tv_avto24_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_nauka_2_0_sd/index.m3u8
 #EXTINF:-1 tvg-id="planeta-hd" group-title="Познавательное", Планета HD
 http://iptv.cyxym.net:80/tv_planeta_hd/index.m3u8
-#EXTINF:-1 tvg-id="putesh-prikl" group-title="Познавательное", Путешествия + Приключения
-https://strm.yandex.ru/kal/smotripp_fake/smotripp_fake0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="perpetmobile" group-title="Познавательное", Перпетуум мобиле
-https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="456" group-title="Познавательное", Travel and Adventure
 http://iptv.cyxym.net:80/tv_travel_and_adventure_sd/index.m3u8
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательное", В Мире животных HD
-http://178.163.60.244:4022/udp/234.0.0.97:2000
 -------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-id="match-premier" group-title="Спорт", Матч! Премьер
-#EXTVLCOPT:network-caching=1000
-http://182.73.122.74:10001/bysid/706
-#EXTINF:0 tvg-id="match-premier" group-title="Спорт", Матч! Премьер (резерв)
-#EXTVLCOPT:network-caching=1000 
-http://89.189.191.250/239.211.211.170/stream.m3u8
-#EXTINF:0 tvg-id="sky-sports-football" group-title="Спорт", Sky Sports Football HD
-#EXTVLCOPT:network-caching=500
-http://seeyoutv.net:2300/parigi/parigi/10400
-#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports HD
-#EXTVLCOPT:network-caching=1000
-http://144.76.199.108:8002/play/a0f5?auth=smoxa200:hGxH07KbCjuWfTg
-#EXTINF:0 tvg-id="setanta-sports-plus" group-title="Спорт",Setanta Sports + HD
-#EXTVLCOPT:network-caching=1000
-http://144.76.199.108:8002/play/a0f6?auth=smoxa200:hGxH07KbCjuWfTg 
-#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://144.76.199.108:8002/play/a0f3?auth=smoxa200:hGxH07KbCjuWfTg
-#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://144.76.199.108:8002/play/a0f4?auth=smoxa200:hGxH07KbCjuWfT
-#EXTINF:0 tvg-id="setanta-sports" group-title="Спорт",Setanta Sports Eurasia 1 HD
-http://livegopanel.club:8080/vasil/123456/7356
-#EXTINF:0 tvg-id="setanta-sports-plus" group-title="Спорт",Setanta Sports Eurasia 2 HD
-http://livegopanel.club:8080/vasil/123456/7357
-
-#EXTINF:0 tvg-id="fightbox-hd" group-title="Спорт",FightBox HD
-http://185.36.100.33/fightboxhd/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ HD
 http://iptv.cyxym.net:80/tv_ufc_tv_hd/index.m3u8
 
@@ -349,7 +299,7 @@ https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u
 https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="HD Каналы", Bridge TV Deluxe
 http://iptv.cyxym.net:80/tv_bridgetv_hd/index.m3u8
-#EXTINF:-1 https://imgur.com/b8NMxzn tvg-id="1" group-title="HD Каналы", Kronehit TV
+#EXTINF:-1 tvg-id="kronehit" tvg-logo="https://i.imgur.com/b8NMxzn.png" group-title="HD Каналы", Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="onemuz" group-title="HD Каналы", Первый музыкальный HD
 http://rtmp.one.by:2300
@@ -404,12 +354,6 @@ http://iptv.cyxym.net:80/tv_mgm_hd/video.m3u8
 http://iptv.cyxym.net:80/tv_bollywood_hd/video.m3u8
 -------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино", FilmBox
-#EXTVLCOPT:network-caching=1000
-https://imedi-tv.cdn.xsg.ge/filmbox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cinema" group-title="Кино", Cosmos TV HD
-#EXTVLCOPT:network-caching=1000
-http://213.184.238.59:6202
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино", Наше Новое Кино
 http://iptv.cyxym.net:80/tv_nashe_novoe_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино", Родное Кино
@@ -456,16 +400,8 @@ http://iptv.cyxym.net:80/tv_amedia_hit_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_amedia_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv"" group-title="Кино", Кино ТВ HD
 http://iptv.cyxym.net:80/tv_kino_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="sovkino" group-title="Кино", Советское Кино
-https://strm.yandex.ru/kal/sovkino/sovkino0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="sovkino" group-title="Кино", Советское Кино dHD 720p
-https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="sovmultf" group-title="Кино", Советские мультфильмы
-https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама
 http://iptv.cyxym.net:80/tv_dorama_sd/index.m3u8
-#EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама HD
-http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Кино", ТВ-3
 http://iptv.cyxym.net:80/tv_tv3_sd/video.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино", TV XXI (TV21)
@@ -537,8 +473,8 @@ http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
 http://iptv.cyxym.net:80/tv_amc/video.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="2na2" group-title="Дэмир", ЗУБКИ - Синий трактор - Новая песенка мультик 2020
-ftp://pi:16171716Kus@192.168.31.117/Video/video1.mp4
+#EXTINF:-1 tvg-id="2na2" tvg-logo="http://kino.cyxym.net/img/posters/1128826.jpg" group-title="Дэмир", Пончары. Глобальное закругление
+http://vod-1.cyxym.net:8080/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.WEBDLRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="Дэмир", ЗУБКИ - Синий трактор - Новая песенка мультик 2020 4K
 ftp://pi:16171716Kus@192.168.31.117/Video/video2.mkv
 #EXTINF:-1 tvg-id="2na2" group-title="Дэмир", 2x2 
