@@ -473,7 +473,7 @@ http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
 http://iptv.cyxym.net:80/tv_amc/video.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1015471.jpg" group-title="Дэмир", Пончары. Глобальное закругление
+#EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1128826.jpg" group-title="Дэмир", Пончары. Глобальное закругление
 http://vod-1.cyxym.net:8080/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.WEBDLRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1015471.jpg" group-title="Дэмир", Райя и последний дракон
 http://vod-1.cyxym.net:8080/vod/movies/Raiia_i_poslednii_drakon.2021.BDRip.1080p.11431.mp4/tracks-v1a1a2a3/mono.m3u8
@@ -485,8 +485,34 @@ http://vod-1.cyxym.net:8080/vod/movies/Moi_sosed_Totoro.1988.BDRip.1080p.mp4/tra
 http://vod-1.cyxym.net:8080/vod/movies/Angry_Birds_2_v_kino.2019.BDRip.1080p.mp4/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/995974.jpg"  group-title="Дэмир", Тайная жизнь домашних животных 2
 http://vod-1.cyxym.net:8080/vod/movies/Tainaia_zhizn_domashnih_zhivotnyh_2.2019.BDRip.1080p.mp4/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://im0-tub-ru.yandex.net" group-title="Дэмир", 2x2 
- 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://im0-tub-ru.yandex.net" group-title="Дэмир", Синий Трактор 01.01 Алфавит
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season_1.Seria_02.WEBDLRip.1080p.11970.mp4/tracks-v1a1/mono.m3u8
+
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="2na2" group-title="Другое", 2x2 
 http://iptv.cyxym.net:80/tv_2x2_sd/index.m3u8
