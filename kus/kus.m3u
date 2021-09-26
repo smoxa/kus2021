@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV Самообновляемый
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 18.07.21 
+#EXTINF:-1 ,Посл. обн. 26.09.21 
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -56,11 +56,11 @@ http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Улица
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Улица
 rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Двор
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Двор
 rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Лестница
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Лестница
 rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
@@ -562,81 +562,11 @@ http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 --------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Гагра. Переход у ресторана "Гагрипш"
-http://iptv.cyxym.net:80/gagra_perehod_gagripsh/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Гагра. Колесо Обозрения
-http://iptv.cyxym.net:80/gagra_koleso_obozreniya/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Новый Афон. ул. Эшба
-http://iptv.cyxym.net:80/new_afon_eshba/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Гумистинская (Абырлаш - cam01)
-http://iptv.cyxym.net:80/sukhum_gumistinskaya_abirlash_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Гумистинская (Абырлаш - cam02)
-http://iptv.cyxym.net:80/sukhum_gumistinskaya_abirlash_cam_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Эшба и Гумистинская (универсам)
-http://iptv.cyxym.net:80/sukhum_universam/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Бейгуа (cam01)
-http://iptv.cyxym.net:80/sukhum_beigua_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. ул. Бейгуа (cam02)
-http://iptv.cyxym.net:80/sukhum_beigua_cam_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Джонуа и Дзидзария (cam01)
-http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya_1/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Джонуа и Дзидзария (cam02)
-http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya_2/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Имама Шамиля и Ардзинба (cam01)
-http://iptv.cyxym.net:80/sukhum_ardzinba_shamilya_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Имама Шамиля и Ардзинба (cam02)
-http://iptv.cyxym.net:80/sukhum_ardzinba_shamilya_cam_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Ардзинба и Дбар
-http://iptv.cyxym.net:80/sukhum_ardzinba_dbar/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Агумава и Ардзинба (cam01)
-http://iptv.cyxym.net:80/sukhum_agumaa_ardzinba_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Пересечение ул. Агумава и Ардзинба (cam02)
-http://iptv.cyxym.net:80/sukhum_agumaa_ardzinba_cam_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Вокзал (cam 1)
-http://iptv.cyxym.net:80/sukhum_vokzal_1/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новые=", Сухум. Вокзал (cam 2)
-http://iptv.cyxym.net:80/sukhum_vokzal_2/video.m3u8
- 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Пицунда. Парк 1
-https://a-mobile.camera/cams/WEB37-PICUNDAPARK/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Пицунда. Парк 2
-http://iptv.cyxym.net:80/pitsunda_park/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гудаута. Парк
-https://109.235.186.53:8081/cam_497/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гудаута. Парк Гуда и Ута
-http://iptv.cyxym.net:80/gudauta_park/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гагра. Парк
-https://109.235.186.53:8081/cam_498/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Новый Афон. Парк
-https://109.235.186.53:8081/cam_496/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Новый Район
-https://109.235.186.53:8081/cam_494/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Площадь Свободы
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Сухум. Площадь Свободы Каток
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_katok/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Очамчира Центр
-http://109.235.186.53:8080/cam_467/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Ткуарчал. Дом культуры
-http://109.235.186.53:8080/cam_471/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год=", Гал. Центр
-https://109.235.186.53:8081/cam_468/index.m3u8
---------------
 
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Амобайл)
 http://109.235.186.53:8080/cam_161/playlist.m3u8?token=bisv_dgZK
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Амобайл)
 http://109.235.186.53:8080/cam_160/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. МАПП «Адлер» пешеходный переход
-https://109.235.186.53:8081/cam_211/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Сочи)
 http://109.235.186.53:8080/cam_473/playlist.m3u8?token=bisv_dgZK
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Амобайл)
@@ -647,104 +577,31 @@ http://iptv.cyxym.net:80/psou_peshehodnyi_perehod/video.m3u8
 http://iptv.cyxym.net:80/psou_1/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Система)
 http://iptv.cyxym.net:80/psou_2/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур
-http://iptv.cyxym.net:80/gal_kpp_ingur_cam_02/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур. Мост.
 http://109.235.186.53:8080/cam_483/playlist.m3u8?token=bisv_dgZK
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Перепадная. Водохранилище
 http://109.235.186.53:8080/cam_484/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Джварское водохранилище. Плотина
-http://iptv.cyxym.net:80/gal_ingurges_plotina_vodohranilishe/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Джварское водохранилище. Уровень воды
-http://iptv.cyxym.net:80/gal_ingurges_plotina_pribor_uroven/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Центр
 https://109.235.186.53:8081/cam_468/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур. Мост.
-http://iptv.cyxym.net:80/gal_kpp_ingur_cam_01/video.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Гагра. Парк
 https://109.235.186.53:8081/cam_498/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сочи. Роза Хутор. 1590м. Канатная дорога. Вероника
 https://109.235.186.53:8081/cam_495/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Гагра. Коллонада
-http://iptv.cyxym.net:80/gagra_kollonada_1/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Турбаза перекресток
-http://iptv.cyxym.net:80/turbaza_perekrestok_estokada/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Въезд в город
-http://iptv.cyxym.net:80/sukhum_entry/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Пересечение просп. Мира и ул. Агумаа
-http://iptv.cyxym.net:80/sukhum_mira_186_perekrestok/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Троллейбус №133 (Новый район-Рынок)
-http://iptv.cyxym.net:80/sukhum_trolley_133/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. Аллея
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_alleia/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. Панорама
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_panorama/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин. 2
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam2/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь СовМин
-http://109.235.186.53:8080/cam_489/playlist.m3u8 
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Парк славы
 http://109.235.186.53:8080/cam_490/playlist.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вышка РТПЦ
 http://109.235.186.53:8080/cam_469/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Красный мост. Слева
-http://iptv.cyxym.net:80/sukhum_krasniy_most/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Красный мост. Справа
 https://109.235.186.53:8081/cam_451/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гумистинский мост → Сухум
-http://iptv.cyxym.net:80/sukhum_gumistinskiy_most_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гумистинский мост → Новый Афон
-http://iptv.cyxym.net:80/sukhum_gumistinskiy_most_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Морпорт
-http://iptv.cyxym.net:80/sukhum_port_02/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Гостиница Рица
-http://iptv.cyxym.net:80/sukhum_ritsa_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Келасурский мост
-http://iptv.cyxym.net:80/sukhum_kelasur_povorot/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Новый район (пятачок)
-http://iptv.cyxym.net:80/sukhum_new_region_gai_cam_03/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Турбаза (перекресток)
 http://iptv.cyxym.net:80/turbaza_perekrestok/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Площадь
 https://109.235.186.53:8081/cam_463/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Платформа
 https://109.235.186.53:8081/cam_462/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Обезьяний питомник (клетка с павианами Анубис)
-http://iptv.cyxym.net:80/sukhum_obezianiy_pitomnik_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Обезьяний питомник (НИИ ЭПиТ)
-http://iptv.cyxym.net:80/sukhum_obezianiy_pitomnik_cam_02/video.m3u8
-http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь им. С. В. Багапш
-http://iptv.cyxym.net:80/sukhum_port/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Надпись yeSUKHUM
-http://iptv.cyxym.net:80/sukhum_yesukhum/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ДрамТеатр
-http://iptv.cyxym.net:80/sukhum_dramteatr/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Республиканский стадион
 https://109.235.186.53:8081/cam_459/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Стадион Динамо
-http://iptv.cyxym.net:80/sukhum_voronova_stadium_dynamo/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Футбольное поле (Совмин)
-http://iptv.cyxym.net:80/sukhum_sportkomitet_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь Свободы
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Площадь Свободы Каток
-http://iptv.cyxym.net:80/sukhum_ploshad_svobody_katok/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Мокко пляж
-http://iptv.cyxym.net:80/sukhum_moko_beach/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Проспект Мира
-http://iptv.cyxym.net:80/sukhum_pushkina_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Проспект Мира и ул. Пушкина
-http://iptv.cyxym.net:80/sukhum_pushkina_cam_02/video.m3u8 
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Ардзинба и просп. Леона
-http://iptv.cyxym.net:80/sukhum_ardzinba_leona/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. ул. Джонуа/ул. Дзидзария
-http://iptv.cyxym.net:80/sukhum_dzhonua_dzidzariya/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Наб. Махаджиров №1 (кафе «Эльбрус»)
-http://iptv.cyxym.net:80/sukhum_naberezhnaya_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Наб. Махаджиров №2 (кафе «Эльбрус»)
-http://iptv.cyxym.net:80/sukhum_naberezhnaya_cam_02/video.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Колоннада
 http://iptv.cyxym.net:80/gagra_kolonnada/video.m3u8
@@ -1386,8 +1243,8 @@ http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="onemuz" group-title="4K", Первый музыкальный UHD
-http://rtmp.one.by:1400
+#EXTINF:-1 tvg-id="onemuz" group-title="4K", FTV 4K
+http://87.99.87.203:2020/channel/22ae2005/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 #EXTINF:-1 tvg-id="festival-4k" group-title="4K", Festival 4K
 http://iptv.cyxym.net:80/tv_festival_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" group-title="4K", Fashion One 4K
@@ -1398,73 +1255,51 @@ http://iptv.cyxym.net:80/tv_home_4k_uhd/index.m3u8
 http://iptv.cyxym.net:80/tv_eurosport_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="kino-ultra-hd" group-title="4K", Кино UHD
 http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
-
-#EXTINF:0, tvg-id="love-nature-4k" group-title="4K", Love Nature 4K UHD
-#EXTVLCOPT:http-user-agent=SmartSDK
-#EXTVLCOPT:network-caching=1000
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
-
-#EXTINF:0, tvg-id="russian-extreme-uhd" group-title="4K", Russian Extreme UHD
-#EXTVLCOPT:http-user-agent=SmartSDK
-#EXTVLCOPT:network-caching=1000
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-
-#EXTINF:0, tvg-id="ultra-hd-cinema" group-title="4K", Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=SmartSDK
-#EXTVLCOPT:network-caching=1000
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
-
-
 -------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/8124.jpg" group-title="Новый Год", Один дома (1990)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/8124.jpg" group-title="Фильмы", Один дома (1990)
 http://vod-1.cyxym.net:8080/vod/movies/Odin_doma.1990.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5928.jpg" group-title="Новый Год", Один дома 2: Затерянный в Нью-Йорке (1992)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5928.jpg" group-title="Фильмы", Один дома 2: Затерянный в Нью-Йорке (1992)
 http://vod-1.cyxym.net:8080/vod/movies/Odin_doma_2.Zateriannyi_v_Niu.Iorke.1992.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-27.jpg" group-title="Новый Год", Зхала аҩны иҟоу (1990) (абх)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-27.jpg" group-title="Фильмы", Зхала аҩны иҟоу (1990) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Odin_Doma.1990.BDRip.1080p.10660.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Новый Год", Маугли (1967) (абх)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Фильмы, Маугли (1967) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Maugli_ABH.1967.BDRip.1080p.9255.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/772380.jpg" group-title="Новый Год", Рождественские хроники (2018)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/772380.jpg" group-title="Фильмы", Рождественские хроники (2018)
 http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvenskie_hroniki.2018.WEBDLRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1309508.jpg" group-title="Новый Год", Рождественские хроники 2 (2020)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1309508.jpg" group-title="Фильмы", Рождественские хроники 2 (2020)
 http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvenskie_hroniki_2.2020.WEBDLRip.1080p.10433.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5056.jpg" group-title="Новый Год", Гринч – похититель Рождества (2000)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5056.jpg" group-title="Фильмы", Гринч – похититель Рождества (2000)
 http://vod-1.cyxym.net:8080/vod/movies/Grinch_pohititel_Rozhdestva.2000.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1170018.jpg" group-title="Новый Год", Рождество на двоих (2019)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1170018.jpg" group-title="Фильмы", Рождество на двоих (2019)
 http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvo_na_dvoih.2019.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1161783.jpg" group-title="Новый Год", Полицейский с Рублевки. Новогодний беспредел (2018)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1161783.jpg" group-title="Фильмы", Полицейский с Рублевки. Новогодний беспредел (2018)
 http://vod-1.cyxym.net:8080/vod/movies/Policeiskii_s_Rubliovki_Novogodnii_bespredel.2018.WEBDLRip.1080p.mp4/video.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1331675.jpg" group-title="Новый Год", Охота на Санту (2020)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1331675.jpg" group-title="Фильмы", Охота на Санту (2020)
 http://vod-1.cyxym.net:8080/vod/movies/Ohota_na_Santu.2020.WEBDLRip.1080p.10519.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Новый Год", Золотой ребенок (1986)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Фильмы", Золотой ребенок (1986)
 http://vod-1.cyxym.net:8080/vod/movies/Zolotoi_rebenok.1986.BDRip.1080p.10554.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Новый Год", Ёлки (2010)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5282.jpg" group-title="Фильмы", Ёлки (2010)
 http://vod-1.cyxym.net:8080/vod/movies/IOlki.2010.BDRip.1080p.747.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/573817.jpg" group-title="Новый Год", Ёлки 2 (2011)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/573817.jpg" group-title="Фильмы", Ёлки 2 (2011)
 http://vod-1.cyxym.net:8080/vod/movies/lki_2.2011.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/652659.jpg" group-title="Новый Год", Ёлки 3 (2013)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/652659.jpg" group-title="Фильмы", Ёлки 3 (2013)
 http://vod-1.cyxym.net:8080/vod/movies/lki_3.2013.BDRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/893500.jpg" group-title="Новый Год", Ёлки 5 (2016)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/893500.jpg" group-title="Фильмы", Ёлки 5 (2016)
 http://vod-1.cyxym.net:8080/vod/movies/IOlki_5.2016.WEBDLRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1045310.jpg" group-title="Новый Год", Ёлки Новые (2017)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1045310.jpg" group-title="Фильмы", Ёлки Новые (2017)
 http://vod-1.cyxym.net:8080/vod/movies/IOlki_novye.2017.WEBDLRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1181562.jpg" group-title="Новый Год", Ёлки Последние (2018)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1181562.jpg" group-title="Фильмы", Ёлки Последние (2018)
 http://vod-1.cyxym.net:8080/vod/movies/IOlki_Poslednie.2018.WEBDLRip.1080p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/6300.jpg" group-title="Новый Год", Подарок на Рождество (1996)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/6300.jpg" group-title="Фильмы", Подарок на Рождество (1996)
 http://vod-1.cyxym.net:8080/vod/movies/Podarok_na_Rozhdestvo.1996.BDRip.1080p.9246.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/895502.jpg" group-title="Новый Год", Новые приключения Аладдин (2015)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/895502.jpg" group-title="Фильмы", Новые приключения Аладдин (2015)
 http://vod-1.cyxym.net:8080/vod/movies/Novye_prikliucheniia_Aladdina.2015.BDRip.720p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1345717.jpg" group-title="Новый Год", Непосредственно Каха! (2020)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1345717.jpg" group-title="Фильмы", Непосредственно Каха! (2020)
 http://vod-1.cyxym.net:8080/vod/movies/Neposredstvenno_Kaha.2020.WEBDLRip.1080p.10571.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Новый Год", Гринч 4K (2018)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Фильмы", Гринч 4K (2018)
 http://vod-1.cyxym.net:8080/vod/movies/Grinch.2018.BDRemux.2160p.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Новый Год", Гринч (2018)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/738499.jpg" group-title="Фильмы", Гринч (2018)
 http://vod-1.cyxym.net:8080/vod/movies/Grinch.2018.BDRip.1080p.mp4/video.m3u8
 --------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="" group-title="Фильмы", Джентльмены удачи
