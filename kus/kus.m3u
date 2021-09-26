@@ -1241,6 +1241,21 @@ http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="TEST", КитайМана 
 http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Видеокассета 
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", VHS Видеокассета 
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ФАНТАСТИКА
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", 60fps
+https://strm.yandex.ru/kal/60fps/60fps0.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="russian-extreme-uhd",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png",UFC ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8?version=2
+
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="onemuz" group-title="4K", FTV 4K
