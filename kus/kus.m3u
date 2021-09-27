@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV Самообновляемый
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 26.09.21 
+#EXTINF:-1 ,Посл. обн. 27.09.21 
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -1237,7 +1237,7 @@ http://iptv.cyxym.net:80/tv_agtrk/video.m3u8
 #EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
 #EXTVLCOPT:http-user-agent=Tvip S-500
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
-#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ All
+#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="TEST", АБАЗА-ТВ All
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="TEST", КитайМана 
 http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
@@ -1255,6 +1255,41 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png",UFC ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="vsio-tv",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports+ HD
+https://185-198-56-58.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports 2 HD
+https://185-198-56-58.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png", Глазами туриста 4K UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-id="1" group-title="TEST", Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 tvg-id="1" group-title="TEST", D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 1
+https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 2
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 3
+https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", MTV 80s
+http://92.119.251.239/udp_vh1_sd/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Охотник и рыболов HD ( 50 фпс)
+http://tsn-2.streaming-elbrus.tk:8080/oxotnik/video.m3u8?token=b93d42407ace1ee278e8091305cbf32b813dda9f-9356284368-1632740298-1632697098
+#EXTINF:-1 tvg-id="1" group-title="TEST", VEVO '70s (US) (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар HD
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="1" group-title="TEST", Парк львов
+https://a-mobile.camera/cams/WEB-PARK-LVOV/video.m3u8
 
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
