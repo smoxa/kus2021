@@ -561,20 +561,38 @@ http://iptv.cyxym.net:80/tv_utv_sd/index.m3u8
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", г. Ткуарчал дом культуры
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Ткуарчал дом культуры
 http://109.235.186.53:8080/cam_471/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", Гал центр
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гал центр
 http://109.235.186.53:8080/cam_468/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", г. Сухум Площадь СовМин
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум Площадь СовМин
 http://109.235.186.53:8080/cam_489/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", г. Сухум Новый район
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум Новый район
 http://109.235.186.53:8080/cam_494/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", г. Сухум вышка РТПЦ
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум вышка РТПЦ
 http://109.235.186.53:8080/cam_469/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", ККП. Поляна 540 ярмарка
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", ККП. Поляна 540 ярмарка
 http://109.235.186.53:8080/cam_s50/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Новый Год 2022=", ККП. Поляна 960 главная площадь
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", ККП. Поляна 960 главная площадь
 http://109.235.186.53:8080/cam_s48/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Администрация города Сухум
+https://a-mobile.camera/cams/WEB5-CHASI/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гагра
+https://a-mobile.camera/cams/WEB35-Gagrapark/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Пицунда
+https://a-mobile.camera/cams/WEB37-PICUNDAPARK/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Рица
+https://a-mobile.camera/cams/WEB50-Ritsa/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гудаута
+https://a-mobile.camera/cams/WEB34-GudautaPark/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Афон
+https://a-mobile.camera/cams/WEB36-Afonpark/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Афон 2
+https://a-mobile.camera/cams/WEB-Afon-Lebedi/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Очамчыра
+https://a-mobile.camera/cams/WEB19-OCHAMCHIRACENTR/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гал
+https://a-mobile.camera/cams/WEB20-GALCENTRE/video.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Амобайл)
