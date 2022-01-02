@@ -552,7 +552,7 @@ http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season
 #EXTINF:-1 tvg-id="2na2" group-title="Другое", 2x2 
 http://iptv.cyxym.net:80/tv_2x2_sd/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" group-title="Другое", FAN HD 
-http://iptv.cyxym.net:80/tv_fan_hd/video.m3u8
+https://185.228.135.2:443/sukhum_ploshad_svobody_1/video.m3u8
 #EXTINF:-1 tvg-id="game-show" group-title="Другое", GameShow
 http://iptv.cyxym.net:80/tv_game_show_sd/video.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Другое", Ю-ТВ
@@ -1339,6 +1339,16 @@ http://iptv.cyxym.net:80/tv_eurosport_4k_uhd/index.m3u8
 http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
 -------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1048680.jpg" group-title="Фильмы", Царь Скорпионов: Книга Душ (2018)
+http://vod-1.cyxym.net:8080/vod/movies/Car_Skorpionov_Kniga_Dush.2018.BDRip.1080p.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/4533354.jpg" group-title="Фильмы", Ёлки 8 (2021)
+http://vod-1.cyxym.net:8080/vod/movies/IOlki_8.2021.WEBDLRip.1080p.12589.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/4527628.jpg" group-title="Фильмы", Месть земли (2021)
+http://vod-1.cyxym.net:8080/vod/movies/Mest_zemli.2021.WEBDLRip.1080p.12578.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/1115099.jpg" group-title="Фильмы", Красное уведомление (2021)
+http://vod-1.cyxym.net:8080/vod/movies/Krasnoe_uvedomlenie.2021.WEBDLRip.1080p.12371.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/823616.jpg" group-title="Фильмы", Финч (2021)
+http://vod-1.cyxym.net:8080/vod/movies/Finch.2021.WEBDLRip.1080p.12351.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/8124.jpg" group-title="Фильмы", Один дома (1990)
 http://vod-1.cyxym.net:8080/vod/movies/Odin_doma.1990.BDRip.1080p.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/5928.jpg" group-title="Фильмы", Один дома 2: Затерянный в Нью-Йорке (1992)
