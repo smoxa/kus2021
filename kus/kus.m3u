@@ -1355,6 +1355,10 @@ http://vod-1.cyxym.net:8080/vod/movies/Odin_doma.1990.BDRip.1080p.mp4/video.m3u8
 http://vod-1.cyxym.net:8080/vod/movies/Odin_doma_2.Zateriannyi_v_Niu.Iorke.1992.BDRip.1080p.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-27.jpg" group-title="Фильмы", Зхала аҩны иҟоу (1990) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Odin_Doma.1990.BDRip.1080p.10660.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-57.jpg" group-title="Фильмы", Зхала аҩны иҟоу 2 (1992) (абх)
+http://vod-1.cyxym.net:8080/vod/movies/Odin_doma_2.2021.BDRip.1080p.12588.mp4/video.m3u8
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-56.jpg" group-title="Фильмы", Коко лымаӡа (2017) (абх)
+http://vod-1.cyxym.net:8080/vod/movies/Koko_lymaza.2017.BDRip.1080p.12429.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Фильмы, Маугли (1967) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Maugli_ABH.1967.BDRip.1080p.9255.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/772380.jpg" group-title="Фильмы", Рождественские хроники (2018)
