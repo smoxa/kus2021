@@ -1194,6 +1194,27 @@ http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
 http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
 -------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Ritsa TV
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",PZN
+http://hls.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Backustv HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Крым 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Перец International
+http://50.7.92.90/Peretz_int/mono.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",E TV
+http://srv-5-streaming.iptvin.site:34768/etv/video.m3u8?token=59257bdd9ed8c62a468db23208bfa49e58ccf080-9356284386-1660127545-1660084345
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",2x2 HD
+http://srv-2-streaming.iptvin.site:8080/2x2_hd/video.m3u8?token=02ca7871bd40e42c180fe0b4dabb34fa7fc7bc7e-9356284386-1660127545-1660084345
+
+
+
 #EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Евроденс 90х
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Abkhaz
