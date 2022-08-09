@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE" deinterlace=1 m3uautoload=1 cache=1000 aspect-ratio=16:9
 #http://portal.slynet.online:88/stalker_portal/c/index.html
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 ,PROKUS-TV Самообновляемый
+#EXTINF:-1 ,PROKUS-TV
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 31.12.21 
+#EXTINF:-1 ,Посл. обн. 10.08.2022
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -1193,6 +1193,25 @@ http://africacams-lh.akamaihd.net/i/Africam_Olifants@686101/index_4686848_av-p.m
 http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
 http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Евроденс 90х
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Abkhaz
+http://188.93.94.140/abkhaz/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",LOVE Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Дорама HD
+https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Приключения HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="russian-komedii-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/russianкомедииevgeniy.png" group-title="TEST",Evgen Russian Комедии
 https://v2.catcast.tv/content/36168/index.m3u8 
