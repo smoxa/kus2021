@@ -78,7 +78,7 @@ _sd/index.m3u8
 #EXTINF:-1 tvg-id="pervy" group-title="Эфирные", Первый канал
 http://iptv.cyxym.net:80/tv_perviy_kanal_sd/index.m3u8?title=Первый+канал 
 #EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1
-http://iptv.cyxym.net:80/tv_russia_1_sd/index.m3u8
+http://iptv.cyxym.net:80/tv_russia_1_sd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные", НТВ
 http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
 #EXTINF:0 tvg-id="izvestia" tvg-logo="https://imgur.com/aycC7lG" group-title="Эфирные", IZ.RU HD
