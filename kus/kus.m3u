@@ -62,9 +62,9 @@ rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?re
 rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Лестница
 rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
+#EXTINF:-1 tvg-id="agtrk" User-Agent=Tvip S-500 tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
-#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
+#EXTINF:-1 tvg-id="abaza_tv" User-Agent="Tvip S-500" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
 http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="gal_tv" tvg-logo="https://i.imgur.com/8NfXAKy.png" group-title="Абхазские", ГАЛ-ТВ
 http://iptv.cyxym.net:80/tv_gal_tv/index.m3u8
