@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 25.11.2022
+#EXTINF:-1 ,Посл. обн. 22.12.2022
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -437,11 +437,11 @@ http://iptv.cyxym.net:80/tv_super_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_krasnaya_liniya_sd/index.m3u8
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="kineko" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1664780115.png" group-title="Абхазские", Кинеко HD
+#EXTINF:-1 tvg-id="kineko" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1664780115.png" group-title="Сериалы", Кинеко HD
 http://iptv.cyxym.net:80/tv_kineko_hd/index.m3u8|User-Agent=Tvip S-500
-#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ntvplus.tv/files/image/75/44/93/1zp.png" group-title="Абхазские", Сапфир
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ntvplus.tv/files/image/75/44/93/1zp.png" group-title="Сериалы", Сапфир
 http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8|User-Agent=Tvip S-500
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Абхазские", Дорама
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Сериалы", Дорама
 http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="spike" group-title="Сериалы", Spike
 http://iptv.cyxym.net:80/tv_spike_sd/video.m3u8
@@ -474,7 +474,7 @@ http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
 http://iptv.cyxym.net:80/tv_amc/video.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Абхазские", Лёва HD
+#EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Дэмир", Лёва HD
 http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1128826.jpg" group-title="Дэмир", Пончары. Глобальное закругление
 http://vod-1.cyxym.net:8080/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.WEBDLRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
