@@ -84,8 +84,6 @@ http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:-1 tvg-id="krasnodar" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные",Краснодар
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 tvg-id="perec-int" group-title="Эфирные", Перец
-http://87.99.87.203:2020/channel/na276a6/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
 #EXTINF:-1 tvg-id="che" group-title="Эфирные", Че
 http://iptv.cyxym.net:80/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные", ТНТ
@@ -96,18 +94,18 @@ http://iptv.cyxym.net:80/tv_sts_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_rentv_sd/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="Эфирные", ПЯТНИЦА
 http://iptv.cyxym.net:80/tv_piatnitsa_sd/index.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="Эфирные", Домашний
-http://iptv.cyxym.net:80/tv_domashniy_sd/index.m3u8
-#EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ
-http://iptv.cyxym.net:80/tv_tvc_sd/index.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="Эфирные", Домашний HD
+http://iptv.cyxym.net:80/tv_domashniy_hd/index.m3u8
+#EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ HD
+http://iptv.cyxym.net:80/tv_tvc_hd/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные", Звезда
 http://iptv.cyxym.net:80/tv_zvezda_sd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", Сериал
+http://iptv.cyxym.net:80/tv_ntv_serial_sd/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Эфирные", Пятый канал
 http://iptv.cyxym.net:80/tv_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
 http://iptv.cyxym.net:80/tv_ntv_hit_sd/index.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ
-http://iptv.cyxym.net:80/tv_ntv_serial_sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль
 http://iptv.cyxym.net:80/tv_ntv_stil_sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="Эфирные", НТВ Право 
@@ -126,14 +124,9 @@ http://iptv.cyxym.net:80/tv_h1_hd/index.m3u8
 http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ
-http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", siesta
-http://194.190.78.91:8080/siesta/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Pskov
-http://194.190.78.91:8080/pskov/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Aiva
-http://194.190.78.91:8080/aivaya/index.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ HD
+http://iptv.cyxym.net:80/tv_europa_plus_tv_hd/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", MAFI2A MUSIC CHANNEL 
@@ -153,16 +146,10 @@ http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live HD
 http://iptv.cyxym.net:80/tv_mtv_live_hd/index.m3u8
-#EXTINF:-1 tvg-id="mtv-russia" group-title="Музыка", MTV Russia
-http://iptv.cyxym.net:80/tv_mtv_hd/index.m3u8
-#EXTINF:-1 tvg-id="mtv-dance" group-title="Музыка", MTV Dance
-http://iptv.cyxym.net:80/tv_mtv_dance_sd/index.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Музыка", MTV Hits
 http://iptv.cyxym.net:80/tv_mtv_hits_sd/index.m3u8
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="Музыка", MTV Rocks
 http://iptv.cyxym.net:80/tv_mtv_rocks_sd/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыка", Bridge TV Hits
-http://iptv.cyxym.net:80/tv_dancetv_hd/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка", BRIDGE TV 
 http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="Музыка", RU.TV
@@ -175,16 +162,10 @@ http://iptv.cyxym.net:80/tv_mezzo_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_mezzo_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="mcm-top" group-title="Музыка", MCM Top
 http://iptv.cyxym.net:80/tv_mcm_top_sd/index.m3u8
-#EXTINF:-1 tvg-id="vh1-european" group-title="Музыка", VH1 European
-http://iptv.cyxym.net:80/tv_vh1_european_sd/index.m3u8
-#EXTINF:-1 tvg-id="vh1-classic" group-title="Музыка", VH1 Classic
-http://iptv.cyxym.net:80/tv_vh1_classic_sd/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыка", Музыка Первого
 http://iptv.cyxym.net:80/tv_muzika_pervogo_sd/index.m3u8
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор
 http://iptv.cyxym.net:80/tv_lya_minor_tv_sd/index.m3u8
-#EXTINF:-1 tvg-id="nashe-tv" group-title="Музыка", Наше ТВ
-http://iptv.cyxym.net:80/tv_nashe_tv_sd/index.m3u8
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
@@ -1205,17 +1186,13 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-
-
+#EXTINF:-1 tvg-id="red" group-title="TEST" , .Red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Ritsa TV
-https://live.prd.dlive.tv/hls/live/fila007.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",PZN
-http://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Backustv HD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Крым 1
@@ -1226,7 +1203,8 @@ http://50.7.92.90/Peretz_int/mono.m3u8
 http://srv-5-streaming.iptvin.site:34768/etv/video.m3u8?token=59257bdd9ed8c62a468db23208bfa49e58ccf080-9356284386-1660127545-1660084345
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",2x2 HD
 http://srv-2-streaming.iptvin.site:8080/2x2_hd/video.m3u8?token=02ca7871bd40e42c180fe0b4dabb34fa7fc7bc7e-9356284386-1660127545-1660084345
-
+#EXTINF:-1 tvg-id="pskov" group-title="TEST", Псков
+http://194.190.78.91:8080/pskov/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Евроденс 90х
