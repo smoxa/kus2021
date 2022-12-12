@@ -1197,13 +1197,13 @@ http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
 http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
+#EXTINF:-1 group-title="TEST" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 
@@ -1392,7 +1392,7 @@ http://iptv.cyxym.net:80/tv_eurosport_4k_uhd/index.m3u8
 http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",САТИ КАКУБАВА - Иурҳа 
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/koy7qfAqqssFvpKjCn4z_12_acac300b38b50cc2d8ad97b2084b02df_video_1080p_converted.mp4
@@ -1400,7 +1400,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/koy7qfAqqssFvpKjCn
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/EWtY3x1REps6is5i7NOZ_11_4df6c7a8569c4baa0c5918a129b22dc3_video_1080p_converted.mp4 
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",АНАТОЛИ АЛТЕЙБА & ИЛЬДА КУЧУБЕРИЯ - Орида Да Да  
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/ln8N5lHe9HsZ41zIqFWh_11_da27a6df87003a4c0122e42fed7c44cf_video_1080p_converted.mp4  
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4  
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",Абхазия 
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/cxe7aJQkZfxjcATdt74v_10_252c9aa838be01d7ffb7350e827ac8f7_video_1080p_converted.mp4
@@ -1414,7 +1414,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/TENS6RjGIa4EwV4MLf
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/eCcfD4uGaW7nTJRagceN_08_12bc6877f614ef7f0609a44f12346d29_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ЛАУРА ХАГБА - Сымҩа   
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/nTDwK1XhLRR8GnDfWnQi_08_c501e433709b999b5ab488f83693d9db_video_1080p_converted.mp4   
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4  
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ИЛЬДА САТИ ЛАУРА СОФИЯ - Ашықәс Ҽыц Нашана 
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/teCIeaFuMv1qoAfrtaUb_08_e858b30a7d2193521bc6ac71ad375bda_video_1080p_converted.mp4 
@@ -1438,7 +1438,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/RbymOUpUmqNQS1vD38
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/hwRllLgy2FzOJHYOC1Rx_05_534e9bdc46c005cf637e898b1e794403_video_1080p_converted.mp4 
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",САИДА ГАБНИЯ - Сыпсадгьыл 
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/jpeHtjpqY9RQacBXULx3_05_44d1ba2b73c7c2f6918b13d4d32c09ca_video_1080p_converted.mp4   
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХАТУНА ТАРБА - Hasta La Vista  
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/TmNkkC4EkU9PvaN2RNUm_03_cdbfaed210eb6c560cce990964c11107_video_1080p_converted.mp4
@@ -1462,7 +1462,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/11/Uvxu9SseB9CAwyeVh7
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/11/uVxwjymtNFszuLsLPzJB_19_eeaef35885e0a121b093acd4ee765597_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ИЛЬДА КУЧУБЕРИЯ - Сҩызцәа, Сҭынхацәа
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4   
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",САИДА ГАБНИЯ - Ахамта
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/k3H4chnS6L2be3pTSKc4_02_7fa82c1e1691ba41e86055faa6e589a2_video_1080p_converted.mp4
@@ -1480,7 +1480,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/11/HCvl5OCvZnHudKB5oO
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/11/vDzUcMmI5XMXFgnaLeVc_13_00db84797cc423cfe5137f30ad214cd6_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",САТИ КАКУБАВА - Аҧсуа Чара
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/5qHcTRQclwKkAOivAGFs_02_f93e6f4edbd6a427564dfb993f6b1834_video_1080p_converted.mp4   
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХАТУНА ТАРБА - Узбоит Уара
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/GtivnVMTH5RZO5m5m7jG_02_57d4b1cc18cdedbd27f9170e825af45f_video_1080p_converted.mp4
@@ -1524,7 +1524,7 @@ https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/YarM7Z4F4IWz7j6Yft
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/HnATzmgfnsAD6ahVoE89_02_0c97917103287f3fbba1b2b6820bfb7b_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",АВТО КОНДЖАРИЯ & ХИБЛА МУКБА - Хаицуп
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/b5vJlnSJytMi4OjTxOfa_02_445686a910fc5d5df951e7547b9a306e_video_480p_converted.mp4   
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХИБЛА МУКБА -
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/10/LMswfC5UOQkVymhfdbog_02_3aa972b036466d2d935ad4ccb824a5b3_video_1080p_converted.mp4
