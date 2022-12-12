@@ -56,12 +56,6 @@ http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Улица
-rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Двор
-rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Лестница
-rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net:80/tv_agtrk/index.m3u8?|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
@@ -70,21 +64,12 @@ http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8|User-Agent=Tvip S-500
 http://iptv.cyxym.net:80/tv_gal_tv/index.m3u8
 #EXTINF:-1 tvg-id="gagra_tv" tvg-logo="https://i.imgur.com/JEJeiyj.png" group-title="Абхазские", ГАГРА-ТВ
 http://iptv.cyxym.net:80/tv_gagra_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="kineko" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1664780115.png" group-title="Абхазские", Кинеко HD
-http://iptv.cyxym.net:80/tv_kineko_hd/index.m3u8|User-Agent=Tvip S-500
-#EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Абхазские", Лёва HD
-http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8|User-Agent=Tvip S-500
-
-#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ntvplus.tv/files/image/75/44/93/1zp.png" group-title="Абхазские", Сапфир
-http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8|User-Agent=Tvip S-500
-
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Абхазские", Дорама
-http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8|User-Agent=Tvip S-500
-----------------
-
--------------------------------------------------------------------------------------------------
-_sd/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Улица
+rtsp://192.168.31.191:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Двор
+rtsp://192.168.31.192:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yGHkp46.png" group-title="Абхазские", Лестница
+rtsp://192.168.31.193:554/user=admin_password=rhapwBGX_channel=1_stream=0.sdp?real_stream
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="pervy" group-title="Эфирные", Первый канал
 http://iptv.cyxym.net:80/tv_perviy_kanal_sd/index.m3u8?title=Первый+канал 
@@ -92,9 +77,8 @@ http://iptv.cyxym.net:80/tv_perviy_kanal_sd/index.m3u8?title=Первый+кан
 http://iptv.cyxym.net:80/tv_russia_1_sd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="ntv" group-title="Эфирные", НТВ
 http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
-#EXTINF:0 tvg-id="izvestia" tvg-logo="https://imgur.com/aycC7lG" group-title="Эфирные", IZ.RU HD
-#EXTVLCOPT:network-caching=1000
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 tvg-id="izvestia" tvg-logo="https://imgur.com/aycC7lG" group-title="Эфирные", Известия HD
+http://iptv.cyxym.net:80/tv_izvestiya_hd/index.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="http://ritsatv.ru/files/poster/medium/600620.png" group-title="Эфирные", СОЧИ 24
 http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:-1 tvg-id="krasnodar" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные",Краснодар
@@ -122,7 +106,7 @@ http://iptv.cyxym.net:80/tv_zvezda_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
 http://iptv.cyxym.net:80/tv_ntv_hit_sd/index.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ
 http://iptv.cyxym.net:80/tv_ntv_serial_sd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль
 http://iptv.cyxym.net:80/tv_ntv_stil_sd/index.m3u8
@@ -453,6 +437,12 @@ http://iptv.cyxym.net:80/tv_super_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_krasnaya_liniya_sd/index.m3u8
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="kineko" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1664780115.png" group-title="Абхазские", Кинеко HD
+http://iptv.cyxym.net:80/tv_kineko_hd/index.m3u8|User-Agent=Tvip S-500
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ntvplus.tv/files/image/75/44/93/1zp.png" group-title="Абхазские", Сапфир
+http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8|User-Agent=Tvip S-500
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Абхазские", Дорама
+http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="spike" group-title="Сериалы", Spike
 http://iptv.cyxym.net:80/tv_spike_sd/video.m3u8
 #EXTINF:-1 tvg-id="kinoseria" group-title="Сериалы", Киносерия
@@ -484,6 +474,8 @@ http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
 http://iptv.cyxym.net:80/tv_amc/video.m3u8
 -------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Абхазские", Лёва HD
+http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1128826.jpg" group-title="Дэмир", Пончары. Глобальное закругление
 http://vod-1.cyxym.net:8080/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.WEBDLRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1015471.jpg" group-title="Дэмир", Райя и последний дракон
