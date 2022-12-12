@@ -1197,44 +1197,55 @@ http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
 http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Black
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Red
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Ritsa TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Ritsa TV
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",PZN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",PZN
 http://hls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Backustv HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Backustv HD
 http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Крым 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Крым 1
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Перец International
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Перец International
 http://50.7.92.90/Peretz_int/mono.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",E TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",E TV
 http://srv-5-streaming.iptvin.site:34768/etv/video.m3u8?token=59257bdd9ed8c62a468db23208bfa49e58ccf080-9356284386-1660127545-1660084345
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",2x2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",2x2 HD
 http://srv-2-streaming.iptvin.site:8080/2x2_hd/video.m3u8?token=02ca7871bd40e42c180fe0b4dabb34fa7fc7bc7e-9356284386-1660127545-1660084345
 
 
 
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Евроденс 90х
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Евроденс 90х
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Abkhaz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Abkhaz
 http://188.93.94.140/abkhaz/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",ABU DHABI SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",ABU DHABI SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",START Air HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",START World HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",LOVE Nature
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",LOVE Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Дорама HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Дорама HD
 https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="dorama tvg-logo="" group-title="TEST",Приключения HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="russian-komedii-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/russianкомедииevgeniy.png" group-title="TEST",Evgen Russian Комедии
