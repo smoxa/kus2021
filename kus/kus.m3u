@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 22.12.2022
+#EXTINF:-1 ,Посл. обн. 06.01.2023
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -545,638 +545,211 @@ http://iptv.cyxym.net:80/tv_utv_sd/index.m3u8
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Ткуарчал дом культуры
-http://109.235.186.53:8080/cam_471/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гал центр
-http://109.235.186.53:8080/cam_468/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум Площадь СовМин
-http://109.235.186.53:8080/cam_489/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум Новый район
-http://109.235.186.53:8080/cam_494/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", г. Сухум вышка РТПЦ
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", г. Сухум вышка РТПЦ
 http://109.235.186.53:8080/cam_469/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", ККП. Поляна 540 ярмарка
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ККП. Поляна 540 ярмарка
 http://109.235.186.53:8080/cam_s50/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", ККП. Поляна 960 главная площадь
-http://109.235.186.53:8080/cam_s48/tracks-v1a1/mono.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Администрация города Сухум
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Администрация города Сухум
 https://a-mobile.camera/cams/WEB5-CHASI/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гагра
-https://a-mobile.camera/cams/WEB35-Gagrapark/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Пицунда
-https://a-mobile.camera/cams/WEB37-PICUNDAPARK/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Рица
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Рица
 https://a-mobile.camera/cams/WEB50-Ritsa/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гудаута
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", г. Сухум Площадь СовМин
+http://109.235.186.53:8080/cam_489/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", г. Ткуарчал дом культуры
+http://109.235.186.53:8080/cam_471/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гал центр
+http://109.235.186.53:8080/cam_468/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", г. Сухум Новый район
+http://109.235.186.53:8080/cam_494/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ККП. Поляна 960 главная площадь
+http://109.235.186.53:8080/cam_s48/tracks-v1a1/mono.m3u8?token=bisv_dgZK
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гагра
+https://a-mobile.camera/cams/WEB35-Gagrapark/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Пицунда
+https://a-mobile.camera/cams/WEB37-PICUNDAPARK/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гудаута
 https://a-mobile.camera/cams/WEB34-GudautaPark/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Афон
-https://a-mobile.camera/cams/WEB36-Afonpark/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Афон 2
-https://a-mobile.camera/cams/WEB-Afon-Lebedi/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Очамчыра
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Очамчыра
 https://a-mobile.camera/cams/WEB19-OCHAMCHIRACENTR/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="=Новый Год 2022=", Гал
-https://a-mobile.camera/cams/WEB20-GALCENTRE/video.m3u8
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Амобайл)
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Псоу. вьезд КПП (Амобайл)
 http://109.235.186.53:8080/cam_161/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Амобайл)
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Псоу. выезд КПП (Амобайл)
 http://109.235.186.53:8080/cam_160/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Сочи)
-http://109.235.186.53:8080/cam_473/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Амобайл)
-http://91.231.219.130:80/psou_peshehodnyi_perehod/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. Пешеходный переход (Система)
-http://iptv.cyxym.net:80/psou_peshehodnyi_perehod/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. вьезд КПП (Система)
-http://iptv.cyxym.net:80/psou_1/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Псоу. выезд КПП (Система)
-http://iptv.cyxym.net:80/psou_2/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. КПП Ингур. Мост.
-http://109.235.186.53:8080/cam_483/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Перепадная. Водохранилище
-http://109.235.186.53:8080/cam_484/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Граница=", Гал. Центр
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гал. Центр
 https://109.235.186.53:8081/cam_468/index.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Гагра. Парк
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Афон
+https://a-mobile.camera/cams/WEB36-Afonpark/video.m3u8
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гагра. Парк
 https://109.235.186.53:8081/cam_498/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сочи. Роза Хутор. 1590м. Канатная дорога. Вероника
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Роза Хутор. 1590м. Канатная дорога. Вероника
 https://109.235.186.53:8081/cam_495/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Парк славы
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Парк славы
 http://109.235.186.53:8080/cam_490/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вышка РТПЦ
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Вышка РТПЦ
 http://109.235.186.53:8080/cam_469/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Красный мост. Справа
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Красный мост. Справа
 https://109.235.186.53:8081/cam_451/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Турбаза (перекресток)
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Турбаза (перекресток)
 http://iptv.cyxym.net:80/turbaza_perekrestok/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Площадь
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Вокзал и Площадь
 https://109.235.186.53:8081/cam_463/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Вокзал и Платформа
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Вокзал и Платформа
 https://109.235.186.53:8081/cam_462/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Сухум=", Сухум. Республиканский стадион
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сухум. Республиканский стадион
 https://109.235.186.53:8081/cam_459/index.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Колоннада
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гагра. Колоннада
 http://iptv.cyxym.net:80/gagra_kolonnada/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Парк
-https://109.235.186.53:8081/cam_498/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Вышка РТПЦ
-http://iptv.cyxym.net:80/gagra_rtpc/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Отель Alex Beach
-http://iptv.cyxym.net:80/gagra_alex_beach/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Гранд отель Абхазия
-http://iptv.cyxym.net:80/gagra_hotel_abkhazia/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Гостиница Райда (Пляж 2)
-http://iptv.cyxym.net:80/gagra_raida/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Новая колоннада
-http://iptv.cyxym.net:80/gagra_new_kolonnada/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Памятник В. Г. Ардзинба
-http://iptv.cyxym.net:80/gagra_pamiatnik_ardzinba/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Памятник защитникам Абхазии
-http://iptv.cyxym.net:80/gagra_pamiatnik_zashitnikam/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Парк Славы
-http://iptv.cyxym.net:80/gagra_park_slavy/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Аквапарк
-http://iptv.cyxym.net:80/gagra_aquapark_cam_01/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Смотровая Площадка
-http://iptv.cyxym.net:80/gagra_smotrovaya/video.m3u8 
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Гагра=", Гагра. Площадь Энвера Капба
-http://iptv.cyxym.net:80/gagra_ploshad_envera_kapba/index.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Рица. Смотровая площадка
-http://iptv.cyxym.net:80/abkhazia_ritsa/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Рица. Смотровая площадка
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Рица. Смотровая площадка
 https://109.235.186.53:8081/cam_492/index.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Перекресток г. Очамчира и г. Ткуарчал
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Перекресток г. Очамчира и г. Ткуарчал
 https://109.235.186.53:8081/cam_452/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира. Кутольский поворот
-http://109.235.186.53:8080/cam_488/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира. Кутольский поворот 2
-https://a-mobile.camera/cams/WEB27-Kutol/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Очамчира Центр
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Очамчира Центр
 http://109.235.186.53:8080/cam_467/playlist.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Ткуарчал. Дом культуры
-http://109.235.186.53:8080/cam_471/playlist.m3u8 
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Парк Гуда и Ута
-http://iptv.cyxym.net:80/gudauta_park/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Парк
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гудаута. Парк
 https://109.235.186.53:8081/cam_497/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Центр
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Гудаута. Центр
 https://109.235.186.53:8081/cam_491/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Проспект Героев
-http://iptv.cyxym.net:80/gudauta_prospekt_geroev/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Гудаута. Лыхненский поворот
-http://iptv.cyxym.net:80/gudauta_lyhnenskiy_povorot/video.m3u8
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Парк
-https://109.235.186.53:8081/cam_496/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Новоафонский водопад
+
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Новый Афон. Новоафонский водопад
 https://109.235.186.53:8081/cam_493/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Вид на город
-http://iptv.cyxym.net:80/afon_anakopia/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Вид на Новоафонский монастырь
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Новый Афон. Вид на Новоафонский монастырь
 https://109.235.186.53:8081/cam_391/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Центральный стадион
-https://109.235.186.53:8081/cam_389/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Новый Афон. Гостевой дом Таруса
-https://msk05.ivideon.com/hls/playlist.m3u8?hlsId=116a28b0ba774a0eb0bd46c2ed4a3b0e_100000161509_0
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Парк
-http://iptv.cyxym.net:80/pitsunda_park/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Вид с Концертного зала
-https://public.apsny.camera/pitsunda_zal_pitsunda/index.m3u8?token=null
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Пансионат Мюссера
-https://fr01.ivideon.com/hls/playlist.m3u8?hlsId=1967206c7f014e0f90975d5e3deb152f_100001911738_0&token=a62d66fadf44286559df303c35d979cd
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Пансионат Мюссера 2
-https://openapi-alpha.ivideon.com/cameras/100-f2SPZ7mQ048wFiaLQyD6Lh:0/live_stream?op=GET&access_token=public&q=2&hlsTranscodeMobile=false&format=hls&wait_segments=1&segment_duration=1
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда. Вид с Концертного зала
-https://109.235.186.53:8081/cam_239/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 1
-https://109.235.186.53:8081/cam_384/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 2
-https://109.235.186.53:8081/cam_234/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 3
-https://109.235.186.53:8081/cam_228/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 4
-https://109.235.186.53:8081/cam_232/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Абхазия=", Пицунда 5
-https://109.235.186.53:8081/cam_238/index.m3u8
--------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Москва. Площадь славы Метро Кузьминки
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Площадь славы Метро Кузьминки
 https://cameras.inetcom.ru/hls/camera12_11.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Москва. Волгоградский проспект Метро Кузьминки
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Волгоградский проспект Метро Кузьминки
 https://cameras.inetcom.ru/hls/camera12_4.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Казань. Восточная панорама
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. Восточная панорама
 https://cdn.universmotri.ru/ipcam/cam39.stream_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Казань. Автомойка GRASS г. Наб. Челны
-https://nl206.extcam.com/hls/playlist.m3u8?hlsId=25b432d0604548498811137c4c1d6952_100000348015_0&expires_at=1602239602&token=956367c651956cffeb0b2d5b05c8f55b
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Мелководный причал морпорта
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. 1
+https://cdn.universmotri.ru/ipcam/cam34.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. Культурно-спортивный комплекс «УНИКС»
+https://cdn.universmotri.ru/ipcam/cam36.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. Площадь Свободы и Ленинский сад.
+https://cdn.universmotri.ru/ipcam/cam32.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. Казанский Федеральный университет
+https://cdn.universmotri.ru/ipcam/cam37.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Казань. Парк Весна
+https://bt12727.rtsp.me/cameras/6/streaming/main.m3u8?authorization=Basic%20d2ViYXBpOlR4R1NBeFpCUkw1bU43U0U=
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Мелководный причал морпорта
 http://109.235.186.53:8080/cam_52/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Морпорт
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Морпорт
 http://109.235.186.53:8080/cam_9/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Отель Сон у моря. Район Мамайка. Звук!
-http://109.235.186.53:8080/cam_368/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. Устье реки Западный Дагомыс
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Устье реки Западный Дагомыс
 http://109.235.186.53:8080/cam_86/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 662. Автобус МореМолл - Роза Хутор. По маршруту №105 
-http://109.235.186.53:8080/cam_475/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 232. Автобус МореМолл - Роза Хутор. По маршруту №105 
-http://109.235.186.53:8080/cam_474/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. МАЗ 965. Автобус МореМолл - Роза Хутор. По маршруту №105 
-http://109.235.186.53:8080/cam_460/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи. ул. Горького. Привокзальная площадь
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. ул. Горького. Привокзальная площадь
 http://109.235.186.53:8080/cam_275/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", ГК Роза Хутор. +2310м. Канатная дорога Эдельвейс
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +2310м. Канатная дорога Эдельвейс
 http://109.235.186.53:8080/cam_414/playlist.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Матрёшка 555
-http://109.235.186.53:8080/cam_466/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", КП Главная канатка
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", КП Главная канатка
 http://109.235.186.53:8080/cam_s53/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", ГкРХ канатка Тундра
-http://109.235.186.53:8080/cam_415/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Обезьяны Для Матильды
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Обезьяны Для Матильды
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Берег Каспия 14 мкрн
-http://cam.x-com.kz:8081/caspy14/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи 5
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи 5
 http://109.235.186.53:8080/cam_185/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Сочи 51
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи 51
 http://109.235.186.53:8080/cam_388/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", NAZARÉ. Назаре
-http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Kolobrzeg. Колобжег
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Kolobrzeg. Колобжег
 http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Артек Речной
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Артек Речной
 http://193.238.110.3/6/hls/live.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Африка 2 FHD
-http://stream.africam.com:1935/ce/ce.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Африка 3 FHD
-http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Франция 2 HD
-http://live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Франция 7 FHD
-http://live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн =Россия=", Прямая трансляция с борта МКС
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Прямая трансляция с борта МКС
 https://109.235.186.53:8081/cam_55/tracks-v1a1/index.m3u8
 -------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +550м. ВК "Газпром". "Гранд Отель Поляна". Открытый бассейн 50м. 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +550м. ВК "Газпром". "Гранд Отель Поляна". Открытый бассейн 50м. 
 https://109.235.186.53:8081/cam_300/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +550м. ВК "Газпром". Развлекательный центр «Галактика». Аквапарк. 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +550м. ВК "Газпром". Развлекательный центр «Галактика». Аквапарк. 
 https://109.235.186.53:8081/cam_301/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1389м. ВК "Газпром". "Отель и Спа". Коттеджный поселок. 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1389м. ВК "Газпром". "Отель и Спа". Коттеджный поселок. 
 https://109.235.186.53:8081/cam_97/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1389м. ВК "Газпром". Трасса С. Склон "Лаура".
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1389м. ВК "Газпром". Трасса С. Склон "Лаура".
 https://109.235.186.53:8081/cam_98/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1440м. ВК "Газпром". Склон "Лаура". Площадь горного приюта "Псехако".
-https://109.235.186.53:8081/cam_260/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1470м. ВК "Газпром". Лыжно-биатлонный комплекс "Лаура"
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1470м. ВК "Газпром". Лыжно-биатлонный комплекс "Лаура"
 https://109.235.186.53:8081/cam_108/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1470м. ВК "Газпром". Склон "Лаура". Хаски Парк. 26 пушистых добрых хаски.
-https://109.235.186.53:8081/cam_270/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1660м. ВК "Газпром". Склон "Лаура". Трасса I.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1660м. ВК "Газпром". Склон "Лаура". Трасса I.
 https://109.235.186.53:8081/cam_113/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1918м. ВК "Газпром". Склон "Альпика". Трасса 11.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1918м. ВК "Газпром". Склон "Альпика". Трасса 11.
 https://109.235.186.53:8081/cam_345/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2256м. ВК "Газпром". Склон "Альпика". Приют ветров. Обзорная панорамная площадка.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +2256м. ВК "Газпром". Склон "Альпика". Приют ветров. Обзорная панорамная площадка.
 https://109.235.186.53:8081/cam_346/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +560м. Роза Долина. Вид на Романов мост и здание Ратуши.
-https://109.235.186.53:8081/cam_s70/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +560м. Роза Долина. Вид на площадь Мзымта.
-https://109.235.186.53:8081/cam_s71/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +940м. Роза Стадион.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +940м. Роза Стадион.
 https://109.235.186.53:8081/cam_410/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +960м. Поляна Apreski
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +960м. Поляна Apreski
 https://109.235.186.53:8081/cam_437/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +940м. Роза Стадион.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +940м. Роза Стадион.
 https://109.235.186.53:8081/cam_266/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Вид на Детский склон.
-https://109.235.186.53:8081/cam_s65/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Горная Олимпийская деревня.
-https://109.235.186.53:8081/cam_s64/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1100м. Роза Плато. Вид на подъёмник Заповедный лес.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1100м. Роза Плато. Вид на подъёмник Заповедный лес.
 https://109.235.186.53:8081/cam_349/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1128м. Горная Олимпийская Деревня. Вид на подъёмник Шале.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1128м. Горная Олимпийская Деревня. Вид на подъёмник Шале.
 https://109.235.186.53:8081/cam_265/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1170м. Роза Плато
-https://109.235.186.53:8081/cam_s64/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +1350м. Верхняя станция подъёмника "Волчья скала"
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +1350м. Верхняя станция подъёмника "Волчья скала"
 https://109.235.186.53:8081/cam_411/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2220м. Канатная дорога «Тундра».
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +2220м. Канатная дорога «Тундра».
 https://109.235.186.53:8081/cam_415/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2320м. Роза Пик
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +2320м. Роза Пик
 https://109.235.186.53:8081/cam_263/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. +2508м. Каменный столб.
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. +2508м. Каменный столб.
 https://109.235.186.53:8081/cam_279/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Скайпарк. Мост
-https://109.235.186.53:8081/cam_372/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Скай Комплекс. Каток
-http://media.cam2site.com:8080/cam/amlst:snejice/media_w786641306.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Альпика Сервис
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", ГК Роза Хутор. Альпика Сервис
 https://109.235.186.53:8081/cam_100/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Роза Фитнес: танцевальный зал.
-https://109.235.186.53:8081/cam_366/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", ГК Роза Хутор. Роза Кроссфит: Шатёр
-https://109.235.186.53:8081/cam_365/index.m3u8?token=null
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Рязанский проспект
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Рязанский проспект
 http://cameras.inetcom.ru/hls/camera12_10.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Шоссе Энтузиастов
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Шоссе Энтузиастов
 http://cameras.inetcom.ru/hls/camera12_2.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Шоссе Энтузиастов
-http://cameras.inetcom.ru/hls/camera12_2.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Спортивная
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Спортивная
 http://cameras.inetcom.ru/hls/camera12_13.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Волгоградский проспект
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Москва. Волгоградский проспект
 http://cameras.inetcom.ru/hls/camera12_5.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Москва. Студия Европа Плюс
-http://live-emg.cdnvideo.ru/emg/smil:emg.smil/chunklist_b1660000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.emg
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Ставрополь. Вход Парка Победы
-rtmp://stream.iformula.ru:1935/rtmp/ParkVhod
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Севастополь. Пляж Любимовки
-http://185.71.81.253/lyubimovka.1-3867b6181b/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Архангельск
-http://live-aao2.cdnvideo.ru/aao2/camsobor/chunklist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Адлер. Фрегат
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Адлер. Фрегат
 https://sochi.camera:8081/cam_187/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Дагомыс
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Дагомыс
 https://109.235.186.53:8081/cam_83/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", МореМолл
-https://109.235.186.53:8081/cam_28/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Океанариум SDWA. Коралловый риф
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Океанариум SDWA. Коралловый риф
 https://109.235.186.53:8081/cam_40/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Фрегат
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Фрегат
 https://109.235.186.53:8081/cam_187_sd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Гагарина / Красноармейская
-https://109.235.186.53:8081/cam_r40/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Школа бокса Александра Морозова
-https://nl207.extcam.com/hls/playlist.m3u8?hlsId=1ffcf833dfef4bd9b402fbe85f447af8_200000081702_0&expires_at=1579183749&token=5dc8e6e290a217679fe09b083ab267f2
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Погода
-https://109.235.186.53:8081/cam_465/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Погода
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Моремолл
 https://109.235.186.53:8081/cam_472/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж ТРЦ «Мандарин» в Адлере
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Пляж ТРЦ «Мандарин» в Адлере
 https://109.235.186.53:8081/cam_80/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Пляж 
 http://sochi.camera:8080/cam_327/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. пос. Дагомыс - пляж
-https://cam.dagotel.ru/Dagomys_Prichal/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Козы, ламы и поросята
-https://109.235.186.53:8081/cam_404/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Мелководный причал морпорта
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Мелководный причал морпорта
 https://109.235.186.53:8081/cam_52/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Лазаревское. Гостиница тополь
-https://msk.rtsp.me/HrNCyHEdy3_CgDBgk0Z7cg/1577520556/hls/Bhnfiz84.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Лазаревское. Панорама
-https://msk.rtsp.me/TeKspk3rAVEDkTpPImhuHQ/1579790212/hls/nya4SYe8.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама «Дублер курортного проспекта»
-https://cam.dagotel.ru/Sochi_Panarama_s_Pasechnoy7_na_dubler/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама города
-https://cam.dagotel.ru/Sochi_panorama_morport/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама микрорайона Мамайка
-https://cam.dagotel.ru/Mamaika_panorama/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Жилой комплекс «Новая Заря»
-https://cam.dagotel.ru/Sochi_Novaya_zara2/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Строй площадка ЖК "Каравелла Португалии" в пос. Дагомыс
-https://cam.dagotel.ru/Sochi_panorama_morport/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Панорама Города
-https://cam.dagotel.ru/karavella-3/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи
 https://109.235.186.53:8081/cam_125/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи
 https://109.235.186.53:8081/cam_135/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Дагомыс. Обзорная
-http://sochi.camera:8081/cam_83/tracks-v1/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Пляж Лоо. Восточная часть
-https://109.235.186.53:8081/cam_88/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 1
-https://109.235.186.53:8081/cam_324_sd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 2
-https://109.235.186.53:8081/cam_329_sd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Матрёшка 3
-https://109.235.186.53:8081/cam_331_sd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Всесезонный курорт "Газпром"
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Всесезонный курорт "Газпром"
 https://109.235.186.53:8081/cam_297/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Горный курорт Роза Хутор
-http://sochi.camera:8081/cam_s63/tracks-v1/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Пансионат Нева. Поворотная 2
-http://sochi.camera:8081/cam_83/tracks-v1/index.m3u8?token=bisv_dgZK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Полосатая кися
-https://109.235.186.53:8081/cam_150/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Россия", Сочи. Кися 
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Сочи. Кися 
 https://109.235.186.53:8081/cam_147/index.m3u8
 -------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="Онлайн Погода",Архангельск
-https://strm.yandex.ru/kal/weather_arkhangelsk/weather_arkhangelsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Брянск
-https://strm.yandex.ru/kal/weather_bryansk/weather_bryansk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Будапешт
-https://strm.yandex.ru/kal/weather_budapest/weather_budapest0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Владикавказ
-https://strm.yandex.ru/kal/weather_vladikavkaz/weather_vladikavkaz0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Иваново
-https://strm.yandex.ru/kal/weather_ivanovo/weather_ivanovo0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Иркутск
-https://strm.yandex.ru/kal/weather_irkutsk/weather_irkutsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Калуга
-https://strm.yandex.ru/kal/weather_kaluga/weather_kaluga0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Кемерово
-https://strm.yandex.ru/kal/weather_kemerovo/weather_kemerovo0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Курск
-https://strm.yandex.ru/kal/weather_kursk/weather_kursk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Магадан
-https://strm.yandex.ru/kal/weather_magadan/weather_magadan0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Мурманск
-https://strm.yandex.ru/kal/weather_murmansk/weather_murmansk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Нарьян-Мар
-https://strm.yandex.ru/kal/weather_naryanmar/weather_naryanmar0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Нью-Йорк
-https://strm.yandex.ru/kal/weather_newyork/weather_newyork0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Орел
-https://strm.yandex.ru/kal/weather_orel/weather_orel0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Оренбург
-https://strm.yandex.ru/kal/weather_orenburg/weather_orenburg0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Петрозаводск
-https://strm.yandex.ru/kal/weather_petrozavodsk/weather_petrozavodsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Петропавловск-Камчатский
-https://strm.yandex.ru/kal/weather_kamchatka/weather_kamchatka0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Рязань
-https://strm.yandex.ru/kal/weather_ryazan/weather_ryazan0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Салехард
-https://strm.yandex.ru/kal/weather_salekhard/weather_salekhard0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Сочи 2
-https://strm.yandex.ru/kal/weather_sochi2/weather_sochi20.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Сыктывкар
-https://strm.yandex.ru/kal/weather_siktivkar/weather_siktivkar0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Тамбов
-https://strm.yandex.ru/kal/weather_tambov/weather_tambov0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Томск
-https://strm.yandex.ru/kal/weather_tomsk2/weather_tomsk20.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Тула
-https://strm.yandex.ru/kal/weather_tula/weather_tula0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Ханты-Мансийск
-https://strm.yandex.ru/kal/weather_khanty/weather_khanty0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Чита
-https://strm.yandex.ru/kal/weather_chita/weather_chita0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Шерегеш
-https://strm.yandex.ru/kal/weather_sheregesh/weather_sheregesh0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Элиста
-https://strm.yandex.ru/kal/weather_elista/weather_elista0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Южно-Сахалинск
-https://strm.yandex.ru/kal/weather_ujnosachalinsk/weather_ujnosachalinsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Астрахань
-https://strm.yandex.ru/kal/weather_astrakhan/weather_astrakhan0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Белгород
-https://strm.yandex.ru/kal/weather_belgorod/weather_belgorod0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Благовещенск
-https://strm.yandex.ru/kal/weather_blagoveshchensk/weather_blagoveshchensk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Великий Новгород
-https://strm.yandex.ru/kal/weather_vnovgorod/weather_vnovgorod0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Владивосток
-https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Владимир
-https://strm.yandex.ru/kal/weather_vladimir/weather_vladimir0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Волгоград
-https://strm.yandex.ru/kal/weather_volgograd/weather_volgograd0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Воронеж
-https://strm.yandex.ru/kal/weather_voronezh/weather_voronezh0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Екатеринбург
-https://strm.yandex.ru/kal/weather_ekaterinburg/weather_ekaterinburg0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Ижевск
-https://strm.yandex.ru/kal/weather_izhevsk/weather_izhevsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Казань
-https://strm.yandex.ru/kal/weather_kazan/weather_kazan0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Калининград
-https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Киров
-https://strm.yandex.ru/kal/weather_kirov/weather_kirov0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Кострома
-https://strm.yandex.ru/kal/weather_kostroma/weather_kostroma0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Красная Поляна
-https://strm.yandex.ru/kal/weather_polyana/weather_polyana0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Краснодар
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Красноярск
-https://strm.yandex.ru/kal/weather_krasnoyarsk/weather_krasnoyarsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Курган
-https://strm.yandex.ru/kal/weather_kurgan/weather_kurgan0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Липецк
-https://strm.yandex.ru/kal/weather_lipetsk/weather_lipetsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Майкоп
-https://strm.yandex.ru/kal/weather_maikop/weather_maikop0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Москва
-https://strm.yandex.ru/kal/weather_moscow/weather_moscow0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Москва Сити
-https://strm.yandex.ru/kal/weather_moscowcity/weather_moscowcity0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Нальчик
-https://strm.yandex.ru/kal/weather_nalchik/weather_nalchik0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Нижний Новогород
-https://strm.yandex.ru/kal/weather_nizhniy/weather_nizhniy0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Новосибирск
-https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Омск
-https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Париж
-https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Пенза
-https://strm.yandex.ru/kal/weather_penza/weather_penza0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Пермь
-https://strm.yandex.ru/kal/weather_perm/weather_perm0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Псков
-https://strm.yandex.ru/kal/weather_pskov/weather_pskov0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Рига
-https://strm.yandex.ru/kal/weather_riga/weather_riga0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Роза Хутор
-https://strm.yandex.ru/kal/weather_roza_khutor/weather_roza_khutor0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Ростов-на-Дону
-https://strm.yandex.ru/kal/weather_rostov/weather_rostov0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Самара
-https://strm.yandex.ru/kal/weather_samara/weather_samara0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Санкт-Петербург
-https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Санкт-Петербург 2
-https://strm.yandex.ru/kal/weather_saint_petersburg2/weather_saint_petersburg20.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Саранск
-https://strm.yandex.ru/kal/weather_saransk/weather_saransk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Саратов
-https://strm.yandex.ru/kal/weather_saratov/weather_saratov0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Симферополь
-https://strm.yandex.ru/kal/weather_simferopol/weather_simferopol0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Смоленск
-https://strm.yandex.ru/kal/weather_smolensk/weather_smolensk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Сочи
-https://strm.yandex.ru/kal/weather_sochi/weather_sochi0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Тверь
-https://strm.yandex.ru/kal/weather_tver/weather_tver0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Тюмень
-https://strm.yandex.ru/kal/weather_tyumen/weather_tyumen0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Улан-Удэ
-https://strm.yandex.ru/kal/weather_ulanude/weather_ulanude0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Уфа
-https://strm.yandex.ru/kal/weather_ufa/weather_ufa0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Хельсинки
-https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Чебоксары
-https://strm.yandex.ru/kal/weather_cheboksary/weather_cheboksary0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Челябинск
-https://strm.yandex.ru/kal/weather_chelyabinsk/weather_chelyabinsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Черкесск
-https://strm.yandex.ru/kal/weather_cherkessk/weather_cherkessk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Якутск
-https://strm.yandex.ru/kal/weather_yakutsk/weather_yakutsk0.m3u8
-#EXTINF:-1 group-title="Онлайн Погода",Погода Ярославль
-https://strm.yandex.ru/kal/weather_yaroslavl/weather_yaroslavl0.m3u8
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Ниагарский Водопад
-rtmp://edge2.tikilive.com/unrestricted_tikilive/25548/6zvOnPaZw9lK
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 1
-http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w418078568.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 2
-https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w217775957.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 3
-https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 4
-https://videos3.earthcam.com/fecnetwork/485.flv/chunklist_w1352206529.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Таймс-сквер 5
-http://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w776137552.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Нью-Йорк. Лонг-Бич. Побережье и пляж
-http://wowzaprod123-i.akamaihd.net/hls/live/508506/72079a7d_1_1093848/chunklist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ангилье. Пруд Мидс Бэй
-https://videos3.earthcam.com/fecnetwork/14178.flv/chunklist_w629654280.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Санта-Моника
-https://videos3.earthcam.com/fecnetwork/6253.flv/chunklist_w2041300530.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ки-Уэст. Круизный порт.
-http://56eaaf2a94c81.streamlock.net/mallorysquare/mallorysquare.stream/chunklist_w1128398830.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ки-Уэст. Отель The Reach
-http://wowza.floridakeysmedia.com:8090/thereach/thereach.stream/chunklist_w1597269403.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда
-rtmp://zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда 2
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Панда 2
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Панда 3
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Панда 3
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Ehrenmal
-http://stream.livespotting.tv/windit-edge/vv82.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Madeline Island
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Madeline Island
 http://wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", San Francisco
-http://video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Lauderdale-By-The-Sea Cam
-http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Video. Market St Apartments. Market St Apartments C-1802
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Video. Market St Apartments. Market St Apartments C-1802
 https://resource3.earthcam.net/videos/GtVJZlL4VnwZ3X0VJw8BsdJFxD3fQR_K0uiVoYzYZesRroWNFxbrnwjPT64Penmyu5mMy8NTYVJsucKsr0C0BA!!.mp4
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Америка", Video. City Club. City Club C-1801
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Video. City Club. City Club C-1801
 https://resource3.earthcam.net/videos/GtVJZlL4VnwZ3X0VJw8BsR56zWBq_CQjOwA-lHxfl5wRroWNFxbrnwjPT64Penmyu5mMy8NTYVJsucKsr0C0BA!!.mp4
 -------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Кан-Пастилья. Пляж
-https://5811bd721519c.streamlock.net:1936/live/livecam004.stream/media_w251000666.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Сон-Серра-де-Марина. Gобережье
-https://5811bd721519c.streamlock.net:1936/live/livecam035.stream/chunklist_w1326533295.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испании. Майорка. Алькудия. Пляж
-https://5811bd721519c.streamlock.net:1936/live/livecam024.stream/chunklist_w1173297256.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Испания. Остров Гран-Канария. Панорама
-http://cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Франция. Побережье в городе Дуарнене. Бретань
-rtmp://www.vision-environnement.com/live/douarnenez.stream 
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Dienten, Bürglalmabfahrt
-http://ch-par1-8875b624.livespotting.com/windit-edge/smil:LS_Mksd0.smil/chunklist_w842332512_b6000000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Engelberg, Titlis
-http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv200.smil/chunklist_w1676251827_b1000000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Timmendorfer Strand, Maritim Seebrücke
-http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv9.smil/chunklist_w883281436_b1000000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Greetsiel, Krummhörn
-http://ch-par1-645fe1cb.livespotting.com/windit-edge/smil:vv179.smil/chunklist_w1357524809_b1000000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Engelberg, Titlis
-http://ch-par1-8875b624.livespotting.com/windit-edge/smil:vv200.smil/chunklist_w1857037923_b1000000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия. Гамбург. Аэропорт. Терминал 1
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Германия. Гамбург. Аэропорт. Терминал 1
 rtmp://ham.airport.1000eyes.de/rtplive//hamDDD79C.stream
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Дубай
-https://videos3.earthcam.com/fecnetwork/5868.flv/chunklist_w1916181450.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Прага
-https://videos3.earthcam.com/fecnetwork/14191.flv/chunklist_w620524419.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Эстония 9
-http://webcam.tt.ee/live/slupiring-live.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Эстония 6
-http://webcam.tt.ee/live/kesklinn-live.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Турция
-http://win11.yayin.com.tr:1935/marmarisbel//belediye/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Германия
-http://ls11.webcamera.pl/karpacz_cam_133512/karpacz_cam_133512.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Чехия. Горнолыжный курорт Шпиндлерув-Млин
+#EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Чехия. Горнолыжный курорт Шпиндлерув-Млин
 http://wstream.comanet.cz:1935/live/Spindl-Plan.stream_720p/chunklist_w293774832.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Португалия. Эрисейра
-http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 1
-http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 2
-http://africacams-lh.akamaihd.net/i/Africam_Tembe@686103/index_200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 3
-http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 4
-http://africacams-lh.akamaihd.net/i/Africam_RosiesPan@686102/index_200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 5
-http://stream.africam.com:1935/rc/rc.stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 6
-http://africacams-lh.akamaihd.net/i/Africam_Olifants@686101/index_4686848_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 7
-http://africacams-lh.akamaihd.net/i/Africam_Nkorho@686100/index_200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="1" group-title="Онлайн Европа", Африка 8
-http://africacams-lh.akamaihd.net/i/Africam_CatEye@686099/index_200_av-p.m3u8?sd=10&rebase=on
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
