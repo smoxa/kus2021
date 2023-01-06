@@ -714,9 +714,7 @@ rtmp://ham.airport.1000eyes.de/rtplive//hamDDD79C.stream
 http://wstream.comanet.cz:1935/live/Spindl-Plan.stream_720p/chunklist_w293774832.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="http://epg.it999.ru/img2/2803.png", group-title="4K", Russian Extreme UHD
-#EXTGRP:WINK+Aрхив
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8?|User-Agent=Mozilla 5.0
 #EXTINF:-1 tvg-id="kino-ultra-hd" group-title="4K", Кино UHD
 http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
 #EXTINF:-1 tvg-id="home-4k" group-title="4K", Home 4K
