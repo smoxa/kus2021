@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 06.01.2023
+#EXTINF:-1 ,Посл. обн. 22.12.2022
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -79,11 +79,8 @@ http://iptv.cyxym.net:80/tv_russia_1_sd/index.m3u8|User-Agent=Tvip S-500
 http://iptv.cyxym.net:80/tv_ntv_sd/index.m3u8
 #EXTINF:0 tvg-id="izvestia" tvg-logo="https://imgur.com/aycC7lG" group-title="Эфирные", Известия HD
 http://iptv.cyxym.net:80/tv_izvestiya_hd/index.m3u8
-#EXTINF:-1 tvg-id="sochi24" tvg-logo="http://ritsatv.ru/files/poster/medium/600620.png" group-title="Эфирные", СОЧИ 24
-http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
-#EXTINF:-1 tvg-id="krasnodar" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные",Краснодар
-#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:0 tvg-id="krasnodar" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1451465947466.png" group-title="Эфирные", Краснодар
+https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/tracks-v1a1/mono.m3u8?hls_proxy_host=111691cfa2b3e6ed7b2f3322ff53b6a8
 #EXTINF:-1 tvg-id="che" group-title="Эфирные", Че
 http://iptv.cyxym.net:80/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Эфирные", ТНТ
@@ -126,9 +123,6 @@ http://iptv.cyxym.net:80/tv_armenia_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыка", Европа Плюс ТВ HD
 http://iptv.cyxym.net:80/tv_europa_plus_tv_hd/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/NTUeo8I.png" group-title="Музыка", MAFI2A MUSIC CHANNEL 
 https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://i.imgur.com/GhhRZVM.png" group-title="Музыка", Retro Music TV
@@ -141,15 +135,11 @@ http://iptv.cyxym.net:80/tv_muz_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_muzika_pervogo_sd/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка", Bridge TV
 http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Музыка", Russian MusicBox HD
-http://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live HD
 http://iptv.cyxym.net:80/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Музыка", MTV Hits
 http://iptv.cyxym.net:80/tv_mtv_hits_sd/index.m3u8
-#EXTINF:-1 tvg-id="mtv-rocks" group-title="Музыка", MTV Rocks
-http://iptv.cyxym.net:80/tv_mtv_rocks_sd/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Музыка", BRIDGE TV 
 http://iptv.cyxym.net:80/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="Музыка", RU.TV
@@ -169,28 +159,26 @@ http://iptv.cyxym.net:80/tv_lya_minor_tv_sd/index.m3u8
 --------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательное", Discovery Science
-http://iptv.cyxym.net:80/tv_discovery_science_sd/index.m3u8
-#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательное", ID Investigation Discovery
-http://iptv.cyxym.net:80/tv_id_investigation_discovery_sd/index.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное", Discovery Channel HD
+http://iptv.cyxym.net:80/tv_discovery_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="discovery-science" group-title="Познавательное", Discovery Science HD
+http://iptv.cyxym.net:80/tv_discovery_science_hd/index.m3u8
+#EXTINF:-1 tvg-id="id-xtra-ru" group-title="Познавательное", ID Investigation Discovery HD
+http://iptv.cyxym.net:80/tv_id_investigation_discovery_hd/index.m3u8
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Познавательное", Охотник и Рыболов HD
 http://iptv.cyxym.net:80/tv_ohotnik_i_rybolov_hd/index.m3u8
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке
-http://iptv.cyxym.net:80/tv_dialogi_o_rybalke_sd/index.m3u8
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке 1080p
-https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательное", Диалоги о рыбалке HD
+http://iptv.cyxym.net:80/tv_dialogi_o_rybalke_hd/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательное", Дикая охота HD
 http://iptv.cyxym.net:80/tv_dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательное", Дикая рыбалка HD
 http://iptv.cyxym.net:80/tv_dikaya_ribalka_hd/index.m3u8
 #EXTINF:-1 tvg-id="eda" group-title="Познавательное", Еда Премиум HD
 http://iptv.cyxym.net:80/tv_eda_premium_hd/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet" group-title="Познавательное", Animal Planet HD
-http://iptv.cyxym.net:80/tv_animal_planet_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательное", HD Life
 http://iptv.cyxym.net:80/tv_hd_life_hd/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательное", Discovery Channel HD
-http://iptv.cyxym.net:80/tv_discovery_channel_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательное", Nat Geo Wild HD
 http://iptv.cyxym.net:80/tv_nat_geo_wild_hd/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательное", National Geographic HD
@@ -207,12 +195,12 @@ http://iptv.cyxym.net:80/tv_istoriya_sd/index.m3u8
 http://iptv.cyxym.net:80/tv_history_hd/index.m3u8
 #EXTINF:-1 tvg-id="travel-channel" group-title="Познавательное", Travel Channel HD
 http://iptv.cyxym.net:80/tv_travel_channel_hd/index.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательное", TLC HD
-http://iptv.cyxym.net:80/tv_tlc_hd/index.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Познавательное", TLC
+http://iptv.cyxym.net:80/tv_tlc_sd/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://imgur.com/aKXUxay" group-title="Познавательное", World Fashion
 http://iptv.cyxym.net:80/tv_world_fashion_sd/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательное", Авто Плюс 
-http://iptv.cyxym.net:80/tv_avto_plus_sd/index.m3u8
+#EXTINF:-1 tvg-id="avto-plus" group-title="Познавательное", Авто Плюс HD
+http://iptv.cyxym.net:80/tv_avto_plus_hd/index.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="Познавательное", Авто24
 http://iptv.cyxym.net:80/tv_avto24_sd/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="Познавательное", Наука 2.0
@@ -220,11 +208,10 @@ http://iptv.cyxym.net:80/tv_nauka_2_0_sd/index.m3u8
 #EXTINF:-1 tvg-id="planeta-hd" group-title="Познавательное", Планета HD
 http://iptv.cyxym.net:80/tv_planeta_hd/index.m3u8
 #EXTINF:-1 tvg-id="456" group-title="Познавательное", Travel and Adventure
-http://iptv.cyxym.net:80/tv_travel_and_adventure_sd/index.m3u8
+http://iptv.cyxym.net:80/tv_travel_and_adventure_hd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://i.imgur.com/cPSJOIB.jpg" group-title="Спорт", UFC ТВ HD
 http://iptv.cyxym.net:80/tv_ufc_tv_hd/index.m3u8
-
 #EXTINF:-1 tvg-id="m1global" group-title="Спорт", M1 Global
 http://iptv.cyxym.net:80/tv_m1_global_sd/index.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-logo="https://i.imgur.com/7Up3C7E.png" group-title="Спорт", Бокс ТВ
@@ -269,12 +256,7 @@ http://iptv.cyxym.net:80/tv_rentv_hd/index.m3u8
 http://iptv.cyxym.net:80/tv_sts_hd/index.m3u8 
 #EXTINF:-1 tvg-id="tnt4" group-title="HD Каналы", ТНТ 4 HD
 http://iptv.cyxym.net:80/tv_tnt4_hd/index.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="HD Каналы", Europa Plus TV HD
-https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="muztv" group-title="HD Каналы", Муз ТВ HD
-https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" group-title="HD Каналы", Bridge TV Deluxe
-http://iptv.cyxym.net:80/tv_bridgetv_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="kronehit" tvg-logo="https://i.imgur.com/b8NMxzn.png" group-title="HD Каналы", Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="onemuz" group-title="HD Каналы", Первый музыкальный HD
@@ -283,24 +265,18 @@ http://rtmp.one.by:2300
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="HD Каналы", Eurosport 1 HD
 http://iptv.cyxym.net:80/tv_eurosport_1_hd/video.m3u8
-#EXTINF:-1 tvg-id="12104" group-title="HD Каналы", Eurosport Gold HD
-http://iptv.cyxym.net:80/tv_eurosport_gold_hd/video.m3u8
 #EXTINF:-1 tvg-id="20103" group-title="HD Каналы", Матч! Арена HD
 http://iptv.cyxym.net:80/tv_match_arena_hd/video.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="HD Каналы", МАТЧ ТВ HD
 http://iptv.cyxym.net:80/tv_match_tv_hd/video.m3u8
 #EXTINF:-1 tvg-id="17106" group-title="HD Каналы", Viasat Sport HD
 http://iptv.cyxym.net:80/tv_viasat_sport_hd/video.m3u8
-#EXTINF:-1 tvg-id="2202" group-title="HD Каналы", КХЛ HD
-http://iptv.cyxym.net:80/tv_khl_hd/video.m3u8
 #EXTINF:-1 tvg-id="2203" group-title="HD Каналы", Конный мир HD
 http://iptv.cyxym.net:80/tv_konniy_mir_hd/video.m3u8
 #EXTINF:-1 tvg-id="hd-life" group-title="HD Каналы", HD Life
 http://iptv.cyxym.net:80/tv_hd_life_hd/video.m3u8
 #EXTINF:-1 tvg-id="12105" group-title="HD Каналы", Discovery Channel HD
 http://iptv.cyxym.net:80/tv_discovery_channel_hd/video.m3u8
-#EXTINF:-1 tvg-id="14104" group-title="HD Каналы", Animal Planet HD
-http://iptv.cyxym.net:80/tv_animal_planet_hd/video.m3u8
 #EXTINF:-1 tvg-id="14101" group-title="HD Каналы", Nat Geo Wild HD
 http://iptv.cyxym.net:80/tv_nat_geo_wild_hd/video.m3u8
 #EXTINF:-1 tvg-id="26002" group-title="HD Каналы", National Geographic HD
@@ -337,22 +313,18 @@ http://iptv.cyxym.net:80/tv_rodnoe_kino_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино", Индийское кино
 http://iptv.cyxym.net:80/tv_india_tv_sd/video.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино
-http://iptv.cyxym.net:80/tv_muzhskoe_kino_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_muzhskoe_kino_hd/video.m3u8
 #EXTINF:-1 tvg-id="kinomiks" group-title="Кино", Киномикс
 http://iptv.cyxym.net:80/tv_kinomiks_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит
-http://iptv.cyxym.net:80/tv_kinohit_sd/video.m3u8
+#EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит HD
+http://iptv.cyxym.net:80/tv_kinohit_hd/video.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
 http://iptv.cyxym.net:80/tv_kinopremiera_hd/video.m3u8
-#EXTINF:-1 tvg-id="kinokomedia" group-title="Кино", Кинокомедия HD
-http://iptv.cyxym.net:80/tv_kinokomediya_hd/video.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Кино", Киноужас HD
 http://iptv.cyxym.net:80/tv_kinouzhas_hd/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Кино", Страшное HD
-http://iptv.cyxym.net:80/tv_strashnoe_hd/index.m3u8
-#EXTINF:-1 tvg-id="fox" group-title="Кино", Fox HD
-http://iptv.cyxym.net:80/tv_fox_hd/video.m3u8
-#EXTINF:-1 tvg-id="foxlife" group-title="Кино", Fox Life HD
+#EXTINF:-1 tvg-id="fox" group-title="Кино", Fox
+http://iptv.cyxym.net:80/tv_fox_sd/video.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="Кино", Fox Life
 http://iptv.cyxym.net:80/tv_fox_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" group-title="Кино", ViP Serial
 http://iptv.cyxym.net:80/tv_vip_serial_hd/index.m3u8
@@ -371,15 +343,13 @@ http://iptv.cyxym.net:80/tv_a1_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="Кино", Amedia 2 HD
 http://iptv.cyxym.net:80/tv_a2_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Кино", Amedia Hit
-http://iptv.cyxym.net:80/tv_amedia_hit_sd/index.m3u8
+http://iptv.cyxym.net:80/tv_amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Кино", Amedia Premium HD
 http://iptv.cyxym.net:80/tv_amedia_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv"" group-title="Кино", Кино ТВ HD
 http://iptv.cyxym.net:80/tv_kino_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама
-http://iptv.cyxym.net:80/tv_dorama_sd/index.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" group-title="Кино", ТВ-3
-http://iptv.cyxym.net:80/tv_tv3_sd/video.m3u8
+#EXTINF:-1 tvg-id="dorama" group-title="Кино", Дорама HD
+http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино", TV XXI (TV21)
 http://iptv.cyxym.net:80/tv_tv_21m_sd/video.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="Кино", Дом Кино
@@ -387,25 +357,23 @@ http://iptv.cyxym.net:80/tv_dom_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Кино", Дом Кино Премиум HD
 http://iptv.cyxym.net:80/tv_dom_kino_premium_hd/video.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Кино", Иллюзион+
-http://iptv.cyxym.net:80/tv_illuzion_plus_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_illuzion_plus_hd/video.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино", Русский Иллюзион
-http://iptv.cyxym.net:80/tv_russian_illuzion_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_russian_illuzion_hd/video.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино", Русский роман
 http://iptv.cyxym.net:80/tv_russkiy_roman_hd/video.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино", Русский бестселлер
 http://iptv.cyxym.net:80/tv_russian_bestseller_sd/video.m3u8
-#EXTINF:-1 tvg-id="evrokino" group-title="Кино", ЕвроКино
-http://iptv.cyxym.net:80/tv_eurokino_sd/video.m3u8
+#EXTINF:-1 tvg-id="evrokino" group-title="Кино", ЕвроКино HD
+http://iptv.cyxym.net:80/tv_eurokino_hd/video.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Кино", Детский мир
 http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub_sd/video.m3u8
-#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино", Paramount Comedy HD
-http://iptv.cyxym.net:80/tv_paramount_comedy_hd/video.m3u8
-#EXTINF:-1 tvg-id="paramount-channel" group-title="Кино", Paramount Channel HD
-http://iptv.cyxym.net:80/tv_paramount_channel_hd/video.m3u8
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="Кино", Paramount Comedy
+http://iptv.cyxym.net:80/tv_paramount_comedy_sd/video.m3u8
 #EXTINF:-1 tvg-id="719" group-title="Кино", Мир сериала
 http://iptv.cyxym.net:80/tv_mir_seriala_sd/video.m3u8
-#EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi
-http://iptv.cyxym.net:80/tv_sony_scifi_sd/video.m3u8
+#EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi HD
+http://iptv.cyxym.net:80/tv_sony_scifi_hd/video.m3u8
 #EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
 http://iptv.cyxym.net:80/tv_sony_turbo_sd/video.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Кино", КВН
@@ -419,41 +387,39 @@ http://iptv.cyxym.net:80/tv_krasnaya_liniya_sd/index.m3u8
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1664780115.png" group-title="Сериалы", Кинеко HD
-http://iptv.cyxym.net:80/tv_kineko_hd/index.m3u8|User-Agent=Tvip S-500
+http://iptv.cyxym.net:80/tv_kineko_hd/index.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ntvplus.tv/files/image/75/44/93/1zp.png" group-title="Сериалы", Сапфир
-http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8|User-Agent=Tvip S-500
+http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Сериалы", Дорама
-http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8|User-Agent=Tvip S-500
-#EXTINF:-1 tvg-id="spike" group-title="Сериалы", Spike
-http://iptv.cyxym.net:80/tv_spike_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" group-title="Сериалы", Киносерия
 http://iptv.cyxym.net:80/tv_kinoseriya/video.m3u8
 #EXTINF:-1 tvg-id="10207" group-title="Сериалы", МНОГОсерийное ТВ
-http://iptv.cyxym.net:80/tv_mnogoseriynoe_tv/video.m3u8
+http://iptv.cyxym.net:80/tv_mnogoseriynoe_tv_sd/video.m3u8
 #EXTINF:-1 tvg-id="10208" group-title="Сериалы", Мужское кино
-http://iptv.cyxym.net:80/tv_muzhskoe_kino/video.m3u8
+http://iptv.cyxym.net:80/tv_muzhskoe_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="10808" group-title="Сериалы", Дом Кино
-http://iptv.cyxym.net:80/tv_dom_kino/video.m3u8
+http://iptv.cyxym.net:80/tv_dom_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Сериалы", Детский мир/Телеклуб
-http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub/video.m3u8
+http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub_sd/video.m3u8
 #EXTINF:-1 tvg-id="21107" group-title="Сериалы", AMEDIA
-http://iptv.cyxym.net:80/tv_amedia/video.m3u8
+http://iptv.cyxym.net:80/tv_amedia_sd/video.m3u8
 #EXTINF:-1 tvg-id="16102" group-title="Сериалы", AMEDIA 2
-http://iptv.cyxym.net:80/tv_amedia_2/video.m3u8
+http://iptv.cyxym.net:80/tv_amedia_2_sd/video.m3u8
 #EXTINF:-1 tvg-id="21108" group-title="Сериалы", Amedia Premium
-http://iptv.cyxym.net:80/tv_amedia_premium/video.m3u8
+http://iptv.cyxym.net:80/tv_amedia_premium_sd/video.m3u8
 #EXTINF:-1 tvg-id="26003" group-title="Сериалы", Amedia Premium HD
-http://iptv.cyxym.net:80/tv_amedia_premium_HD/video.m3u8
+http://iptv.cyxym.net:80/tv_amedia_premium_HD_sd/video.m3u8
 #EXTINF:-1 tvg-id="719" group-title="Сериалы", Мир сериала
-http://iptv.cyxym.net:80/tv_mir_seriala/video.m3u8
+http://iptv.cyxym.net:80/tv_mir_seriala_sd/video.m3u8
 #EXTINF:-1 tvg-id="1505" group-title="Сериалы", CBS Drama
-http://iptv.cyxym.net:80/tv_cbs_drama/video.m3u8
+http://iptv.cyxym.net:80/tv_cbs_drama_sd/video.m3u8
 #EXTINF:-1 tvg-id="1508" group-title="Сериалы", FOX
-http://iptv.cyxym.net:80/tv_fox/video.m3u8
+http://iptv.cyxym.net:80/tv_fox_sd/video.m3u8
 #EXTINF:-1 tvg-id="10813" group-title="Сериалы", Fox Life
-http://iptv.cyxym.net:80/tv_fox_life/video.m3u8
+http://iptv.cyxym.net:80/tv_fox_life_sd/video.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
-http://iptv.cyxym.net:80/tv_amc/video.m3u8
+http://iptv.cyxym.net:80/tv_amc_sd/video.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Дэмир", Лёва HD
 http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8|User-Agent=Tvip S-500
