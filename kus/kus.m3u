@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 ,PROKUS-TV
 https://clck.ru/VoirK
-#EXTINF:-1 ,Посл. обн. 22.12.2022
+#EXTINF:-1 ,Посл. обн. 06.01.2023
 http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 #http://rpkavantage.ru/playlist_kus.m3u
@@ -393,11 +393,7 @@ http://iptv.cyxym.net:80/tv_sapfir_hd/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1548846308.png" group-title="Сериалы", Дорама
 http://iptv.cyxym.net:80/tv_dorama_hd/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" group-title="Сериалы", Киносерия
-http://iptv.cyxym.net:80/tv_kinoseriya/video.m3u8
-#EXTINF:-1 tvg-id="10207" group-title="Сериалы", МНОГОсерийное ТВ
-http://iptv.cyxym.net:80/tv_mnogoseriynoe_tv_sd/video.m3u8
-#EXTINF:-1 tvg-id="10208" group-title="Сериалы", Мужское кино
-http://iptv.cyxym.net:80/tv_muzhskoe_kino_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_kinoseriya_sd/video.m3u8
 #EXTINF:-1 tvg-id="10808" group-title="Сериалы", Дом Кино
 http://iptv.cyxym.net:80/tv_dom_kino_sd/video.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Сериалы", Детский мир/Телеклуб
@@ -406,25 +402,19 @@ http://iptv.cyxym.net:80/tv_detskiy_mir_teleclub_sd/video.m3u8
 http://iptv.cyxym.net:80/tv_amedia_sd/video.m3u8
 #EXTINF:-1 tvg-id="16102" group-title="Сериалы", AMEDIA 2
 http://iptv.cyxym.net:80/tv_amedia_2_sd/video.m3u8
-#EXTINF:-1 tvg-id="21108" group-title="Сериалы", Amedia Premium
-http://iptv.cyxym.net:80/tv_amedia_premium_sd/video.m3u8
 #EXTINF:-1 tvg-id="26003" group-title="Сериалы", Amedia Premium HD
-http://iptv.cyxym.net:80/tv_amedia_premium_HD_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_amedia_premium_hd/video.m3u8
 #EXTINF:-1 tvg-id="719" group-title="Сериалы", Мир сериала
 http://iptv.cyxym.net:80/tv_mir_seriala_sd/video.m3u8
-#EXTINF:-1 tvg-id="1505" group-title="Сериалы", CBS Drama
-http://iptv.cyxym.net:80/tv_cbs_drama_sd/video.m3u8
 #EXTINF:-1 tvg-id="1508" group-title="Сериалы", FOX
 http://iptv.cyxym.net:80/tv_fox_sd/video.m3u8
 #EXTINF:-1 tvg-id="10813" group-title="Сериалы", Fox Life
-http://iptv.cyxym.net:80/tv_fox_life_sd/video.m3u8
-#EXTINF:-1 tvg-id="20617" group-title="Сериалы", AMC
-http://iptv.cyxym.net:80/tv_amc_sd/video.m3u8
+http://iptv.cyxym.net:80/tv_fox_life_hd/video.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="leva" tvg-logo="https://assets.iptv2022.com/static/channel/15240/logo_256_1665665384.png" group-title="Дэмир", Лёва HD
-http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8|User-Agent=Tvip S-500
+http://iptv.cyxym.net:80/tv_leva_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1128826.jpg" group-title="Дэмир", Пончары. Глобальное закругление
-http://vod-1.cyxym.net:8080/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.WEBDLRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
+https://vod-1.cyxym.net/vod/movies/Ponchary_Globalnoe_zakruglenie.2021.BDRip.1080p.12109.mp4/tracks-v1a1a2a3/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1015471.jpg" group-title="Дэмир", Райя и последний дракон
 http://vod-1.cyxym.net:8080/vod/movies/Raiia_i_poslednii_drakon.2021.BDRip.1080p.11431.mp4/tracks-v1a1a2a3/mono.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://kino.cyxym.net/img/posters/1024706.jpg" group-title="Дэмир", Волшебный дракон
@@ -502,13 +492,19 @@ http://vod-1.cyxym.net:8080/vod/serials/Sinii_Traktor.11970/Sinii_Traktor.Season
 #EXTINF:-1 tvg-id="2na2" group-title="Другое", 2x2 
 http://iptv.cyxym.net:80/tv_2x2_sd/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" group-title="Другое", FAN HD 
-https://185.228.135.2:443/sukhum_ploshad_svobody_1/video.m3u8
+http://iptv.cyxym.net:80/tv_fan_hd/index.m3u8
 #EXTINF:-1 tvg-id="game-show" group-title="Другое", GameShow
 http://iptv.cyxym.net:80/tv_game_show_sd/video.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="Другое", Ю-ТВ
 http://iptv.cyxym.net:80/tv_utv_sd/index.m3u8
-#EXTINF:-1 tvg-id="16101" group-title="Другое", КиноМеню HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Другое", Kino Watch TV Уже видел
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Другое", Fite TV
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Другое", Pulse Dance Music Channel
+https://tis.catcast.tv/content/391/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Другое", Кинозал (VHS)
+https://v2.catcast.tv/content/37925/index.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", г. Сухум вышка РТПЦ
@@ -717,186 +713,8 @@ rtmp://ham.airport.1000eyes.de/rtplive//hamDDD79C.stream
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Чехия. Горнолыжный курорт Шпиндлерув-Млин
 http://wstream.comanet.cz:1935/live/Spindl-Plan.stream_720p/chunklist_w293774832.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="red" group-title="TEST" , .Red
-http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Black
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Red
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Backustv HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Крым 1
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Перец International
-http://50.7.92.90/Peretz_int/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",E TV
-http://srv-5-streaming.iptvin.site:34768/etv/video.m3u8?token=59257bdd9ed8c62a468db23208bfa49e58ccf080-9356284386-1660127545-1660084345
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",2x2 HD
-http://srv-2-streaming.iptvin.site:8080/2x2_hd/video.m3u8?token=02ca7871bd40e42c180fe0b4dabb34fa7fc7bc7e-9356284386-1660127545-1660084345
-#EXTINF:-1 tvg-id="pskov" group-title="TEST", Псков
-http://194.190.78.91:8080/pskov/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Евроденс 90х
-https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Abkhaz
-http://188.93.94.140/abkhaz/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START Air HD
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START World HD
-https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",LOVE Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Дорама HD
-https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Приключения HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="russian-komedii-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/russianкомедииevgeniy.png" group-title="TEST",Evgen Russian Комедии
-https://v2.catcast.tv/content/36168/index.m3u8 
-#EXTINF:-1 tvg-id="vhs-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/vhsevgeniy.png" group-title="TEST",Evgen VHS
-https://v2.catcast.tv/content/36251/index.m3u8
-#EXTINF:-1 tvg-id="drama-tic-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/драмаticevgeniy.png" group-title="TEST",Evgen Драма
-http://v2.catcast.tv/content/36732/index.m3u8
-#EXTINF:-1 tvg-id="sssr-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/сссрevgeniy.png" group-title="TEST",Evgen СССР
-http://v2.catcast.tv/content/36506/index.m3u8
-#EXTINF:-1 tvg-id="fear-uzhasi-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/fearужасыevgeniy.png" group-title="TEST",Evgen Ужасы
-http://v2.catcast.tv/content/36277/index.m3u8
-------------------
-#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="TEST", tvg-logo="https://epg.iptvx.one/icn/kino-ultra-hd.png",Кино UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
-#EXTINF:-1 tvg-id="serial-ultrahd" group-title="TEST" tvg-logo="https://telesputnik.ru/upload/iblock/a16/Serial_UHD.jpg",Сериал UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
-#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="TEST" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema HD
-http://dmitry-tv.my1.ru/his/zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
-#EXTINF:-1 tvg- group-title="TEST" tvg-logo="https://img15.lostpic.net/2019/11/12/680a3842560587f79b296189a2207da1.png",Ultra REX
-http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Channel HD
-http://zigfreed.ru:8080/Z!/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Musiс HD
-http://zigfreed.ru:8080/music/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Roсk HD
-http://zigfreed.ru:8080/rock/index.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://klike.net/uploads/posts/2019-03/medium/1551511784_4.jpg",Stingray Naturescape
-https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST",Кинозал (VHS EVGENIY)
-https://v2.catcast.tv/content/36251/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ RITSA
-https://a-mobile.camera/cams/RITSA/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ AGTRK_TV
-https://a-mobile.camera/cams/AGTRK_TV/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", ГАЛ ТВ
-http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Грозный HD
-http://iptv.cyxym.net:80/tv_grozniy_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
-http://sc.id-tv.kz:80/dorama_hd_38_39.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Shot TV HD
-http://iptv.cyxym.net:80/tv_shot_tv_sd/index.m3u8
-#EXTINF:-1 tvg-id="508" group-title="TEST", Youtube
-https://www.youtube.com/watch?v=LXb3EKWsInQ
-#EXTINF:-1 tvg-id="508" group-title="TEST", Вкусное. ТВ HD
-https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="508" group-title="TEST", Hit TV FHD
-https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="10108" group-title="TEST", RTG HD
-https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="10108" group-title="TEST", Turkmen Owazy (Турецкий)
-http://217.174.225.146/legacyhls/ch005_720/index.m3u8
-#EXTINF:-1 tvg-id="10108" group-title="TEST", Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1 tvg-id="1" group-title="TEST", Travel Guide TV [FHD]
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Классика
-https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", FreshTV HD
-https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Hit TV
-https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Новое Радио ТВ [HD]
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Rustavi 2 (Грузия)
-http://md-store4.tulix.tv/rustavi2/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
-#EXTVLCOPT:http-user-agent=Tvip S-500/2.1.0 (Linux; U; Android 6.0.1;)
-http://iptv.cyxym.net:80/tv_agtrk/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
-#EXTVLCOPT:http-user-agent=Tvip S-500
-http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
-#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="TEST", АБАЗА-ТВ All
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", КитайМана 
-http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Видеокассета 
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", VHS Видеокассета 
-https://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", ФАНТАСТИКА
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", 60fps
-https://strm.yandex.ru/kal/60fps/60fps0.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="russian-extreme-uhd",Russian Extreme Ultra HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png",UFC ТВ HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="vsio-tv",Всё ТВ HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports+ HD
-https://185-198-56-58.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports 2 HD
-https://185-198-56-58.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png", Глазами туриста 4K UHD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="1" group-title="TEST", Dmitry-tv HD
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 tvg-id="1" group-title="TEST", D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 1
-https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 2
-https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 3
-https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", MTV 80s
-http://92.119.251.239/udp_vh1_sd/video.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Охотник и рыболов HD ( 50 фпс)
-http://tsn-2.streaming-elbrus.tk:8080/oxotnik/video.m3u8?token=b93d42407ace1ee278e8091305cbf32b813dda9f-9356284368-1632740298-1632697098
-#EXTINF:-1 tvg-id="1" group-title="TEST", VEVO '70s (US) (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
-http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар HD
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="1" group-title="TEST", Парк львов
-https://a-mobile.camera/cams/WEB-PARK-LVOV/video.m3u8
---------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="onemuz" group-title="4K", FTV 4K
-http://87.99.87.203:2020/channel/22ae2005/index.m3u8?q=5d9014a6fabf8f4303db649a8cf3a754
+#EXTINF:-1 tvg-id="onemuz" group-title="4K", Russian Extreme Ultra
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 tvg-id="festival-4k" group-title="4K", Festival 4K
 http://iptv.cyxym.net:80/tv_festival_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" group-title="4K", Fashion One 4K
@@ -1087,7 +905,7 @@ http://vod-1.cyxym.net:8080/vod/movies/Odin_Doma.1990.BDRip.1080p.10660.mp4/vide
 http://vod-1.cyxym.net:8080/vod/movies/Odin_doma_2.2021.BDRip.1080p.12588.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-56.jpg" group-title="Фильмы", Коко лымаӡа (2017) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Koko_lymaza.2017.BDRip.1080p.12429.mp4/video.m3u8
-#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Фильмы, Маугли (1967) (абх)
+#EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/-16.jpg" group-title="Фильмы", Маугли (1967) (абх)
 http://vod-1.cyxym.net:8080/vod/movies/Maugli_ABH.1967.BDRip.1080p.9255.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="http://kino.cyxym.net/img/posters/772380.jpg" group-title="Фильмы", Рождественские хроники (2018)
 http://vod-1.cyxym.net:8080/vod/movies/Rozhdestvenskie_hroniki.2018.WEBDLRip.1080p.mp4/video.m3u8
@@ -1152,8 +970,8 @@ http://vod-1.cyxym.net:8080/vod/serials/Rasstanemsia_poka_horoshie.9939/Rasstane
 http://vod-1.cyxym.net:8080/vod/serials/Rasstanemsia_poka_horoshie.9939/Rasstanemsia_poka_horoshie.Season_1.Seria_02.DVDRip.480p.9939.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Фильмы", Тихий Дон (ИИ Yandex)
 https://strm.yandex.ru/vh-ott-converted/ott-content/328001490-45e3a48fd611065491ffef684afd26c7/0-video_43_1080p.m3u8?chunks=1&vsid=1fcff1a2969e533ffa48f2469849bbb7703d76d076bfea83775544ec12f7f677/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Фильмы", Твое имя
-http://vod.cyxym.net:8080/vod/Tvoio_imia.2016.BDRip.1080p.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Фильмы", Твое имя 4K (2016)
+https://vod-1.cyxym.net/vod/movies/Tvoio_imia.2016.BDRemux.2160p.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Фильмы", Ванильное небо
 http://vod-1.cyxym.net:8080/vod/movies/Vanilnoe_nebo.2001.BDRip.1080p.mp4/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Фильмы", Хортон
@@ -1198,11 +1016,177 @@ http://vod-1.cyxym.net:8080/vod/movies/Oskar.1967.BDRip.1080p.10876.mp4/video.m3
 
 #EXTINF:-1 tvg-logo="http://pool.img.aptoide.com/appstvcommunity/7a0857b55d49338c030dd07f8c999866_icon.png" group-title="Фильмы", FunBox UHD
 https://spiintl.com/data/files/kcfinderUploadDir/files/video/Funbox%20UHD%20ver.%2019.01.2017%20v2_x264.mp4
-
-
-#EXTINF:0,Матч ТВ 
-#EXTVLCOPT:http-user-agent=SmartSDK
-#EXTVLCOPT:network-caching=1000
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 --------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1200px-Vevo_2016_Logo.svg.png",Vevo Pop Europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-id="red" group-title="TEST" , .Red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Backustv HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Крым 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="pskov" group-title="TEST", Псков
+http://194.190.78.91:8080/pskov/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Евроденс 90х
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Abkhaz
+http://188.93.94.140/abkhaz/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",LOVE Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Дорама HD
+https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Приключения HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
+-------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="russian-komedii-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/russianкомедииevgeniy.png" group-title="TEST",Evgen Russian Комедии
+https://v2.catcast.tv/content/36168/index.m3u8 
+#EXTINF:-1 tvg-id="vhs-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/vhsevgeniy.png" group-title="TEST",Evgen VHS
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 tvg-id="drama-tic-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/драмаticevgeniy.png" group-title="TEST",Evgen Драма
+http://v2.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1 tvg-id="sssr-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/сссрevgeniy.png" group-title="TEST",Evgen СССР
+http://v2.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1 tvg-id="fear-uzhasi-evgeniy" tvg-logo="https://epg.openboxfan.com/picon/fearужасыevgeniy.png" group-title="TEST",Evgen Ужасы
+http://v2.catcast.tv/content/36277/index.m3u8
+------------------
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="TEST", tvg-logo="https://epg.iptvx.one/icn/kino-ultra-hd.png",Кино UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-id="serial-ultrahd" group-title="TEST" tvg-logo="https://telesputnik.ru/upload/iblock/a16/Serial_UHD.jpg",Сериал UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="TEST" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema HD
+http://dmitry-tv.my1.ru/his/zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 tvg- group-title="TEST" tvg-logo="https://img15.lostpic.net/2019/11/12/680a3842560587f79b296189a2207da1.png",Ultra REX
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Channel HD
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Musiс HD
+http://zigfreed.ru:8080/music/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQbxwF8" group-title="TEST",Z!Roсk HD
+http://zigfreed.ru:8080/rock/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://klike.net/uploads/posts/2019-03/medium/1551511784_4.jpg",Stingray Naturescape
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST",Кинозал (VHS EVGENIY)
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ RITSA
+https://a-mobile.camera/cams/RITSA/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ТЕСТ AGTRK_TV
+https://a-mobile.camera/cams/AGTRK_TV/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ГАЛ ТВ
+http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Грозный HD
+http://iptv.cyxym.net:80/tv_grozniy_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Shot TV HD
+http://iptv.cyxym.net:80/tv_shot_tv_sd/index.m3u8
+#EXTINF:-1 tvg-id="508" group-title="TEST", Youtube
+https://www.youtube.com/watch?v=LXb3EKWsInQ
+#EXTINF:-1 tvg-id="508" group-title="TEST", Вкусное. ТВ HD
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="508" group-title="TEST", Hit TV FHD
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", Turkmen Owazy (Турецкий)
+http://217.174.225.146/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-id="10108" group-title="TEST", Кино UHD
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1 tvg-id="1" group-title="TEST", Travel Guide TV [FHD]
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Классика
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", FreshTV HD
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Hit TV
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Новое Радио ТВ [HD]
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Rustavi 2 (Грузия)
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
+#EXTVLCOPT:http-user-agent=Tvip S-500/2.1.0 (Linux; U; Android 6.0.1;)
+http://iptv.cyxym.net:80/tv_agtrk/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", АГТРК TEST
+#EXTVLCOPT:http-user-agent=Tvip S-500
+http://iptv.cyxym.net:80/tv_agtrk/index.m3u8
+#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="TEST", АБАЗА-ТВ All
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", КитайМана 
+http://39.135.135.47/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Видеокассета 
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", VHS Видеокассета 
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", ФАНТАСТИКА
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", 60fps
+https://strm.yandex.ru/kal/60fps/60fps0.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="russian-extreme-uhd",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png",UFC ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="vsio-tv",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports+ HD
+https://185-198-56-58.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Setanta Sports 2 HD
+https://185-198-56-58.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="TEST" tvg-id="ufc" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555487531215.png", Глазами туриста 4K UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-id="1" group-title="TEST", Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 tvg-id="1" group-title="TEST", D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 1
+https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 2
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Kino Watch TV 3
+https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", MTV 80s
+http://92.119.251.239/udp_vh1_sd/video.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Охотник и рыболов HD ( 50 фпс)
+http://tsn-2.streaming-elbrus.tk:8080/oxotnik/video.m3u8?token=b93d42407ace1ee278e8091305cbf32b813dda9f-9356284368-1632740298-1632697098
+#EXTINF:-1 tvg-id="1" group-title="TEST", VEVO '70s (US) (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:-1 tvg-id="1" group-title="TEST", Дорама HD
+http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1 tvg-id="1" group-title="TEST", Краснодар HD
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="1" group-title="TEST", Парк львов
+https://a-mobile.camera/cams/WEB-PARK-LVOV/video.m3u8
+--------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
