@@ -713,19 +713,22 @@ rtmp://ham.airport.1000eyes.de/rtplive//hamDDD79C.stream
 #EXTINF:-1 tvg-id="1" group-title="Онлайн Камеры", Чехия. Горнолыжный курорт Шпиндлерув-Млин
 http://wstream.comanet.cz:1935/live/Spindl-Plan.stream_720p/chunklist_w293774832.m3u8
 -------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="onemuz" group-title="4K", Russian Extreme Ultra
+#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="http://epg.it999.ru/img2/2803.png", group-title="4K", Russian Extreme UHD
+#EXTGRP:WINK+Aрхив
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="4K", Кино UHD
+http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
+#EXTINF:-1 tvg-id="home-4k" group-title="4K", Home 4K
+http://iptv.cyxym.net:80/tv_home_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="festival-4k" group-title="4K", Festival 4K
 http://iptv.cyxym.net:80/tv_festival_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="fashion-one-4k" group-title="4K", Fashion One 4K
 http://iptv.cyxym.net:80/tv_fashion_one_4k_uhd/index.m3u8
-#EXTINF:-1 tvg-id="home-4k" group-title="4K", Home 4K
-http://iptv.cyxym.net:80/tv_home_4k_uhd/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport-4k" group-title="4K", Eurosport 4K
 http://iptv.cyxym.net:80/tv_eurosport_4k_uhd/index.m3u8
-#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="4K", Кино UHD
-http://iptv.cyxym.net:80/tv_kino_uhd/index.m3u8
---------------------------------------------------------------------------------
+
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900500.jpg" group-title="АԤСНЫ MUSIC",ХЗ
 https://webbyon.storage.yandexcloud.net/upload/videos/2022/12/poQSyjVUiW2MWdbnmJWd_11_19e08dde0c73098b05ed4caaa115950a_video_1080p_converted.mp4
