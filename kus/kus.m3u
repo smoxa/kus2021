@@ -57,7 +57,7 @@ http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
-http://iptv.cyxym.net:80/tv_agtrk/index.m3u8?|User-Agent=Tvip S-500
+http://iptv.cyxym.net/tv_agtrk/index.m3u8?|User-Agent=Tvip S-500
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Абхазские", АБАЗА-ТВ
 http://iptv.cyxym.net:80/tv_abaza_tv/index.m3u8|User-Agent=Tvip S-500
 #EXTINF:-1 http-user-agent=“Tvip S-500” tvg-id="gal_tv" tvg-logo="https://i.imgur.com/8NfXAKy.png" group-title="Абхазские", ГАЛ-ТВ
