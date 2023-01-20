@@ -55,6 +55,10 @@ http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 ﻿#http://denms.tplinkdns.com/p/?web11&smoxa&16171716
 
 -------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Резерв", АГТРК
+https://public.apsny.camera:443/tv_agtrk_onair/index.m3u8?&token=33ccbad2704ca0867530d7f5250a02b150ec2702-7bf43cd28044e16ef10a60801764069e-1674243436-1674232336
+#EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Резерв", АБАЗА-ТВ
+https://msk.rtsp.me/c2ESH6zYWhW-DLJTdeu9yw/1654500248/hls/ETnfztfK.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/tv_agtrk/index.m3u8?|User-Agent=Tvip S-500
