@@ -59,6 +59,22 @@ http://iptv.cyxym.net:80/tv_europa_plus_tv_sd/index.m3u8
 https://public.apsny.camera:443/tv_agtrk_onair/index.m3u8?&token=33ccbad2704ca0867530d7f5250a02b150ec2702-7bf43cd28044e16ef10a60801764069e-1674243436-1674232336
 #EXTINF:-1 tvg-id="abaza_tv" tvg-logo="https://i.imgur.com/f41t6oM.png" group-title="Резерв", АБАЗА-ТВ
 https://msk.rtsp.me/c2ESH6zYWhW-DLJTdeu9yw/1654500248/hls/ETnfztfK.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", Первый канал
+http://78.25.155.47:1309/channel/Perv_SD.ts
+#EXTINF:-1 tvg-id="1" group-title="Резерв", Россия 1
+http://livehlsvgtrkrf.cdnvideo.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", Россия 24 (Сочи)
+https://vgtrkregion.cdnvideo.ru/vgtrk/sochi/russia24sd/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", Рен ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", 1HD
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Резерв", Абаза
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="agtrk" tvg-logo="https://i.imgur.com/txQROTz.png" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/tv_agtrk/index.m3u8?|User-Agent=Tvip S-500
